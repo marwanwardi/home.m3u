@@ -1,0 +1,199 @@
+ #EXTM3U
+
+
+#EXTINF:-1, Baraem Europe
+http://46.59.28.215:4949/bynumber/10
+
+#EXTINF: 0, gulli 
+
+http://92.50.181.6/tv/1113/index.m3u8
+
+#EXTINF:-1, Boomerang
+
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
+
+#EXTINF:-1, CBEEBIES
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
+
+#EXTINF:-1, CARTOON NETWORK
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+ 
+#EXTINF:-1, BOOMERANG
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
+ 
+#EXTINF:-1, TOONCAST
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
+
+#EXTINF:-1,FLATFEET
+http://212.179.77.42/live/livestream3/gmswf.m3u8
+
+#EXTINF:-1, Alsharqiah 
+rtmp://ns8.indexforce.com/home/mystream
+
+#EXTINF:-1, Dijla
+rtmp://stream.joinvisions.net/dij//dij
+
+#EXTINF:-1,safwa
+ 
+http://185.27.237.105:8082/TV0099
+
+#EXTINF:-1, iraqia news
+
+http://212.7.205.5:1935/Iraqia/live/HasBahCa.m3u8
+
+#EXTINF:-1, iraqia 
+http://212.7.205.5:1935/Iraqia/live/chunklist_w1495652836.m3u8
+
+#EXTINF:-1,Dubai TV 
+
+http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/BratuMarian.m3u8
+
+#EXTINF:-1,Sama Dubai 
+
+http://cdnedvrsamadubai.endavomedia.com/smil:dmilivesamadubaihls.smil/BratuMarian.m3u8
+
+
+#EXTINF:-1,KTV AL ARABI 
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
+
+#EXTINF:0, Al Baghdadia
+http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
+
+#EXTINF:-1,ANN
+rtmp://ns8.indexforce.com/ann/ann
+
+#EXTINF:-1,Russia Alyaum 
+
+http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
+
+#EXTINF:0, alsharqiya
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+
+#EXTINF:0,Baghdad tv
+http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
+
+#EXTINF:0,FATAFIT
+http://212.179.77.42/live/livestream3/gmswf.m3u8
+
+#EXTINF:1,National Geographic
+http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h&hpgdisco_m3u8
+
+#EXTINF:-1,MBC MAX 
+
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+
+#EXTINF:-1, Dubai
+http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/HasBahCa.m3u8
+
+#EXTINF:-1,MBC 4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+
+
+#EXTINF:-1,MBC 2
+http://63.237.48.3/ios/MBC2/MBC2.m3u8
+
+#EXTINF:-1,Noor Dubai TV 
+
+http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/BratuMarian.m3u8
+
+#EXTINF:-1,2M 
+
+http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
+
+#EXTINF:0, Aljazeera
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
+
+#EXTINF:0,watan tv
+
+http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvhigh.m3u8
+
+#EXTINF:0,watan tv plus
+
+http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
+
+#EXTINF:0,watan ghanawi
+
+http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanghanawihigh.m3u8 
+
+#EXTINF:-1,MBC 2
+http://63.237.48.3/ios/MBC2/MBC2.m3u8
+
+#EXTINF:-1,MBC 4 
+rtmp://167.114.101.234:1935/live?idu=rezanr_83566078920&idn=3160815557/mbc_4
+
+#EXTINF:-1,mbc max
+rtmp://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream
+
+#EXTINF:-1,Al Rai
+http://94.127.209.149:8080/albadawiyah-800-hdsx/playlist.m3u8
+
+#EXTINF:-1,LBC
+rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream?LiveSport.HD
+
+#EXTINF:-1,Al hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+
+#EXTINF:-1,Al jazera Doc
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+
+#EXTINF:-1, Al jazera
+rtmp://50.7.180.18/elnahar_tv/nahar_youm.stream
+
+#EXTINF:-1,BBC Arabia
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+
+#EXTINF:-1,BBC Arabia
+http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
+
+#EXTINF:-1,Funoon TV
+http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
+
+#EXTINF:-1, CARTOON NETWORK 
+
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+
+#EXTINF:-1, FOX
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
+
+#EXTINF:-1,discovery science hd
+ 
+http://185.27.237.105:8082/TV0090
+
+#EXTINF:-1,discovery id
+ 
+http://185.27.237.105:8082/TV0092
+
+#?EXTINF?:-1, DISCOVERY HD
+
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+
+#?EXTINF?:-1, DISCOVERY HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+ 
+#EXTINF:-1, FOX
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?
+
+#EXTINF:-1, FX HD 
+http://live.oneplay.tv/reproducir/101.m3u8
+
+#EXTINF:-1, UNIVERSAL HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
+ 
+#EXTINF:-1, SYFY
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
+ 
+#EXTINF:-1, FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
+ 
+#EXTINF:-1, FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
+
+
+#EXTINF:-1, Nat geo
+rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
+
+#EXTINF:-1,Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
+
+
