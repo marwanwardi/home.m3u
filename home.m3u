@@ -4,7 +4,7 @@
 #EXTINF:-1, Baraem Europe
 http://46.59.28.215:4949/bynumber/10
 
-#EXTINF:0,GIM Aljazeera Children
+#EXTINF:0,Aljazeera Children
 
 http://arabic.dynns.com:1935/arabic/AljazeeraChildren/chunklist_w25800676.m3u8?wmsAuthSign
 
@@ -44,7 +44,7 @@ http://ip.ndasat.com/ndatest/677hhs/290.ch
 
 http://arabic.dynns.com:1935/arabic/MBC1/chunklist_w718238064.m3u8?wmsAuthSign
 
-#EXTINF:-1,FATFeET
+#EXTINF:-1,fatafeat
 http://212.179.77.42/live/livestream3/gmswf.m3u8
 
 #EXTINF:-1, sharqiah 
@@ -85,6 +85,7 @@ http://arabic.dynns.com:1935/arabic/CairoDrama/chunklist_w2138252081.m3u8?wmsAut
 #EXTINF:0,MBC Masr2
 
 http://arabic.dynns.com:1935/arabic/MBCMasr2/chunklist_w1101746287.m3u8?wmsAuthSign
+
 #EXTINF:-1, iraqia 
 http://212.7.205.5:1935/Iraqia/live/chunklist_w1495652836.m3u8
 
@@ -100,6 +101,13 @@ http://cdnedvrsamadubai.endavomedia.com/smil:dmilivesamadubaihls.smil/BratuMaria
 #EXTINF:0, Al Baghdadia
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+
+http://185.56.30.123:8082/TV6006
+
+#EXTINF:0,Baghdad tv
+http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
+
 #EXTINF:-1,ANN
 rtmp://ns8.indexforce.com/ann/ann
 
@@ -107,16 +115,7 @@ rtmp://ns8.indexforce.com/ann/ann
 
 http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
 
-#EXTINF:0, al sharqiya
-rtmp://ns8.indexforce.com/alsharqiyalive/mystream
-
-#EXTINF:-1,Sharqyaa
-http://185.56.30.123:8082/TV6006
-
-#EXTINF:0,Baghdad tv
-http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
-
-#EXTINF:0,FATAFIT
+#EXTINF:0,Fatafeat
 http://212.179.77.42/live/livestream3/gmswf.m3u8
 
 #EXTINF:1,National Geographic
@@ -155,6 +154,7 @@ http://185.56.30.123:8082/TV6014
 
 #EXTINF:-1,Rotana classic
 http://185.56.30.123:8082/TV6015
+
 #EXTINF:-1,Noor Dubai TV 
 
 http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/BratuMarian.m3u8
@@ -221,6 +221,10 @@ rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
 #EXTINF:-1,Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
+#EXTINF:-1, national geographic abu dhabi
+
+rtmp://162.212.176.107/national_geo_ad?v=1098965046/globaltv-national_geo_ad.stream
+
 #EXTINF:-1, Baraem
 
 http://46.59.28.215:4949/bynumber/10
@@ -279,7 +283,7 @@ http://arabic.dynns.com:1935/arabic/AlResala/chunklist_w1909997661.m3u8?wmsAuthS
 
 http://arabic.dynns.com:1935/arabic/Iqra/chunklist_w803463768.m3u8?wmsAuthSign
 
-
+rtmp://109.123.123.82/wesal/wesal1
 
 #EXTINF:0,ZeeA lwen
 
@@ -374,5 +378,8 @@ http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h
 #EXTINF:-1, CNN
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8?Vd?u#bt!25
 
-
+#EXTINF:-1, rotana test
+http://198.179.30.110/live/2618.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe916be4ea121669485c40063712e28d31084e2831f85a2a5003b22208f650149f79757aeba426e82c2570e054c35373be8b32f06b10fcb66bb4bcf05c3dea5df9a528d047e6f43761da6f40c758b905422d3ddd5a6eda264a7255bc9cebaad623a0c2212abdd52887d337067c5d1502a03958dcb8eed0a83151e8c4da6990d3697e21cee64253511ae24fc140187837088a30f99f894371b7
+#EXTINF:-1, arabya alhadath
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 
