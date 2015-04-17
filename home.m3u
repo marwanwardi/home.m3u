@@ -36,11 +36,17 @@ http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 #EXTINF:-1, TOON CAST
 http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
 
-#EXTINF:-1,FLATFEET
+#EXTINF:-1,mbc
+http://185.56.30.123:8082/TV7000
+
+#EXTINF:-1,FATFeET
 http://212.179.77.42/live/livestream3/gmswf.m3u8
 
 #EXTINF:-1, sharqiah 
 rtmp://ns8.indexforce.com/home/mystream
+
+#EXTINF:-1,Al rasheed
+http://185.56.30.123:8082/TV6005
 
 #EXTINF:-1, Dijla
 rtmp://stream.joinvisions.net/dij//dij
@@ -56,6 +62,9 @@ http://arabic.dynns.com:1935/arabic/Dream1/chunklist_w1810603854.m3u8?wmsAuthSig
 #EXTINF:0,Dream2
 
 http://arabic.dynns.com:1935/arabic/Dream2/chunklist_w1601507477.m3u8?wmsAuthSign
+
+#EXTINF:-1, cenema pro
+http://185.56.30.123:8082/TV6004
 
 #EXTINF:0,Nilecinema
 
@@ -121,6 +130,9 @@ http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 
 #EXTINF:-1,MBC 2
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
+
+#EXTINF:-1,MBC ACTION
+http://185.56.30.123:8082/TV6006
 
 #EXTINF:-1,Rotana Music
 http://185.56.30.123:8082/TV6012
