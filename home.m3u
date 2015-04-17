@@ -4,9 +4,21 @@
 #EXTINF:-1, Baraem Europe
 http://46.59.28.215:4949/bynumber/10
 
+#EXTINF:0,GIM Aljazeera Children
+
+http://arabic.dynns.com:1935/arabic/AljazeeraChildren/chunklist_w25800676.m3u8?wmsAuthSign
+
+#EXTINF:0,Noon Tv
+
+http://arabic.dynns.com:1935/arabic/NoonTv/chunklist_w678994695.m3u8?wmsAuthSign
+
 #EXTINF: 0, gulli 
 
 http://92.50.181.6/tv/1113/index.m3u8
+
+#EXTINF:-1, CARTOON NETWORK 
+
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
 
 #EXTINF:-1, Boomerang
 
@@ -21,13 +33,13 @@ http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
 #EXTINF:-1, BOOMERANG
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
  
-#EXTINF:-1, TOONCAST
+#EXTINF:-1, TOON CAST
 http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
 
 #EXTINF:-1,FLATFEET
 http://212.179.77.42/live/livestream3/gmswf.m3u8
 
-#EXTINF:-1, Alsharqiah 
+#EXTINF:-1, sharqiah 
 rtmp://ns8.indexforce.com/home/mystream
 
 #EXTINF:-1, Dijla
@@ -37,10 +49,28 @@ rtmp://stream.joinvisions.net/dij//dij
  
 http://185.27.237.105:8082/TV0099
 
-#EXTINF:-1, iraqia news
+#EXTINF:0,Dream1
 
-http://212.7.205.5:1935/Iraqia/live/HasBahCa.m3u8
+http://arabic.dynns.com:1935/arabic/Dream1/chunklist_w1810603854.m3u8?wmsAuthSign
 
+#EXTINF:0,Dream2
+
+http://arabic.dynns.com:1935/arabic/Dream2/chunklist_w1601507477.m3u8?wmsAuthSign
+
+#EXTINF:0,Nilecinema
+
+http://arabic.dynns.com:1935/arabic/Nilecinema/chunklist_w889933210.m3u8?wmsAuthSign
+
+#EXTINF:0,Nile Drama
+
+http://arabic.dynns.com:1935/arabic/NileDrama/chunklist_w1824846371.m3u8?wmsAuthSign
+
+#EXTINF:0,Cairo Drama
+http://arabic.dynns.com:1935/arabic/CairoDrama/chunklist_w2138252081.m3u8?wmsAuthSign
+
+#EXTINF:0,MBC Masr2
+
+http://arabic.dynns.com:1935/arabic/MBCMasr2/chunklist_w1101746287.m3u8?wmsAuthSign
 #EXTINF:-1, iraqia 
 http://212.7.205.5:1935/Iraqia/live/chunklist_w1495652836.m3u8
 
@@ -53,9 +83,6 @@ http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/BratuMarian.m3
 http://cdnedvrsamadubai.endavomedia.com/smil:dmilivesamadubaihls.smil/BratuMarian.m3u8
 
 
-#EXTINF:-1,KTV AL ARABI 
-rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
-
 #EXTINF:0, Al Baghdadia
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 
@@ -66,7 +93,7 @@ rtmp://ns8.indexforce.com/ann/ann
 
 http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
 
-#EXTINF:0, alsharqiya
+#EXTINF:0, al sharqiya
 rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 
 #EXTINF:0,Baghdad tv
@@ -136,6 +163,9 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1,Al jazera Doc
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 
+#EXTINF:-1,KTV AL ARABI 
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
+
 #EXTINF:-1, Al jazera
 rtmp://50.7.180.18/elnahar_tv/nahar_youm.stream
 
@@ -148,9 +178,114 @@ http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 #EXTINF:-1,Funoon TV
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
 
-#EXTINF:-1, CARTOON NETWORK 
 
-http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+#EXTINF:-1, Nat geo
+rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
+
+#EXTINF:-1,Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
+#EXTINF:-1, Baraem
+
+http://46.59.28.215:4949/bynumber/10
+
+EXTINF:-1,MBC 4
+
+http://63.237.48.3/ios/MBC_4/MBC_4.m3u8
+
+EXTINF:-1,MBC BOLLYWOOD
+
+http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+
+EXTINF:-1,MBC BOLLYWOOD
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.featve.com:1935/redirect playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/playerg.swf pageUrl=http://featve.com/player2.php token=#atd%#$ZH
+
+EXTINF:-1,MBC MAX
+
+http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
+
+MEXTINF:-1, MBC ACTION
+
+http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
+
+MEXTINF:-1,MBC ACTION
+rtmp://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p 
+
+
+#EXTINF:-1,Funoon 
+
+http://fl1.viastreaming.net:1935/iqraatv/livestream/HasBahCa.m3u8
+
+#EXTINF:-1,Fox Movies
+rtmp://208.75.224.165:1935/map-alquraan/mp4:map-alquraan.stream 
+
+#EXTINF:-1,Alwatan-Plus 
+
+http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
+
+
+#EXTINF:-1,Funoon-TV 
+
+http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
+
+#EXTINF:-1, Aghanina 
+
+http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
+
+#EXTINF:-1,Qatar 
+rtmp://AgendaStreamerx1.qna.org.qa/qtv/qtv 
+
+#EXTINF:0,AlResala
+
+http://arabic.dynns.com:1935/arabic/AlResala/chunklist_w1909997661.m3u8?wmsAuthSign
+
+#EXTINF:0,Iqra
+
+http://arabic.dynns.com:1935/arabic/Iqra/chunklist_w803463768.m3u8?wmsAuthSign
+
+
+
+#EXTINF:0,ZeeA lwen
+
+http://arabic.dynns.com:1935/arabic/ZeeAlwen/chunklist_w2104553105.m3u8?wmsAuthSign
+
+#EXTINF:0,Rotana Cinema
+
+http://arabic.dynns.com:1935/arabic/RotanaCinema/chunklist_w587583793.m3u8?wmsAuthSign
+
+#EXTINF:0,Cima
+
+http://arabic.dynns.com:1935/arabic/Cima/chunklist_w533092796.m3u8?wmsAuthSign
+
+#EXTINF:0,AbuDhabi ALOula
+
+http://arabic.dynns.com:1935/arabic/AbuDhabiALOula/chunklist_w1473477043.m3u8?wmsAuthSign
+
+#EXTINF:0,AbuDhabi Drama
+
+http://arabic.dynns.com:1935/arabic/AbuDhabiDrama/chunklist_w656649567.m3u8?wmsAuthSign
+
+#EXTINF:0,ALArabia
+
+http://arabic.dynns.com:1935/arabic/ALArabia/chunklist_w1911567358.m3u8?wmsAuthSign
+
+
+#EXTINF:0,AlJadeed
+
+http://arabic.dynns.com:1935/arabic/AlJadeed/chunklist_w1466691586.m3u8?wmsAuthSign
+
+#EXTINF:0,Aljazeera
+
+http://arabic.dynns.com:1935/arabic/Aljazeera/chunklist_w900334084.m3u8?wmsAuthSign
+
+#EXTINF:0,GIM Aljazeera Children
+
+http://arabic.dynns.com:1935/arabic/AljazeeraChildren/chunklist_w25800676.m3u8?wmsAuthSign
+
+#EXTINF:0,AljazeeraDocumentaire
+
+http://arabic.dynns.com:1935/arabic/AljazeeraDocumentaire/chunklist_w788462918.m3u8?wmsAuthSign
+
 
 #EXTINF:-1, FOX
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
@@ -188,12 +323,6 @@ http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
 #EXTINF:-1, FX HD
 http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
 
-
-#EXTINF:-1, Nat geo
-rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
-
-#EXTINF:-1,Aljazeera Doc
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 
 
