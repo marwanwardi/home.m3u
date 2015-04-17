@@ -39,6 +39,12 @@ http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
 #EXTINF:-1,mbc
 http://185.56.30.123:8082/TV7000
 
+#EXTINF:-1,mbc
+http://ip.ndasat.com/ndatest/677hhs/290.ch 
+
+#EXTINF:0 ,MBC 1
+http://arabic.dynns.com:1935/arabic/MBC1/chunklist_w718238064.m3u8?wmsAuthSign
+
 #EXTINF:-1,FATFeET
 http://212.179.77.42/live/livestream3/gmswf.m3u8
 
@@ -354,6 +360,20 @@ http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
 #EXTINF:-1, FX HD
 http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
 
+#EXTINF:-1, FOX 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+ 
+#EXTINF:-1, FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+ 
+#EXTINF:-1, FOX MOVIES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+
+#EXTINF:0, Fox Action Movies HD
+http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h
+
+#EXTINF:-1, CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8?Vd?u#bt!25
 
 
 
