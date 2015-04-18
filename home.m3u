@@ -231,6 +231,10 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 
 rtmp://162.212.176.107/national_geo_ad?v=1098965046/globaltv-national_geo_ad.stream
 
+#EXTINF:-1, National Geographic
+
+rtmp://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream
+
 #EXTINF:-1, Baraem
 
 http://46.59.28.215:4949/bynumber/10
@@ -303,13 +307,17 @@ http://arabic.dynns.com:1935/arabic/RotanaCinema/chunklist_w587583793.m3u8?wmsAu
 
 http://arabic.dynns.com:1935/arabic/Cima/chunklist_w533092796.m3u8?wmsAuthSign
 
-#EXTINF:0,Abu Dhabi tv
 
-http://arabic.dynns.com:1935/arabic/AbuDhabiALOula/chunklist_w1473477043.m3u8?wmsAuthSign
 
-#EXTINF:0,AbuDhabi Drama
+#EXTINF:-1,abu_dhabi
 
-http://arabic.dynns.com:1935/arabic/AbuDhabiDrama/chunklist_w656649567.m3u8?wmsAuthSign
+rtmp://162.212.176.107:1935/abu_dhabi/globaltv-abu_dhabi.stream
+
+#EXTINF:-1,abu_dhabi_drama
+
+
+rtmp://162.212.176.107:1935/abu_dhabi_drama/globaltv-abu_dhabi_drama.stream
+
 
 #EXTINF:0,ALArabia
 
@@ -320,13 +328,7 @@ http://arabic.dynns.com:1935/arabic/ALArabia/chunklist_w1911567358.m3u8?wmsAuthS
 
 http://arabic.dynns.com:1935/arabic/AlJadeed/chunklist_w1466691586.m3u8?wmsAuthSign
 
-#EXTINF:0,Aljazeera
 
-http://arabic.dynns.com:1935/arabic/Aljazeera/chunklist_w900334084.m3u8?wmsAuthSign
-
-#EXTINF:0, Aljazeera Children
-
-http://arabic.dynns.com:1935/arabic/AljazeeraChildren/chunklist_w25800676.m3u8?wmsAuthSign
 
 #EXTINF:0,Aljazeera Documentaire
 
@@ -336,7 +338,7 @@ http://arabic.dynns.com:1935/arabic/AljazeeraDocumentaire/chunklist_w788462918.m
 #EXTINF:-1, FOX
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
 
-#EXTINF:-1,discovery science hd
+#EXTINF:-1,discovery science HD
  
 http://185.27.237.105:8082/TV0090
 
@@ -381,30 +383,15 @@ http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
 #EXTINF:0, Fox Action Movies HD
 http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h
 
-#EXTINF:-1, D. CIVILIZATION 
+#EXTINF:-1, CIVILIZATION 
 http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8? 
 #EXTINF:-1, DISCOVERY 
 http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8? 
 
-#EXTINF:-1, NAT GEO 
-http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
 
-#EXTINF:-1, HISTORY 
-http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8? 
 
 #EXTINF:-1, CNN
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8?Vd?u#bt!25
 
-#EXTINF:-1, rotana test
-http://198.179.30.110/live/2618.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe916be4ea121669485c40063712e28d31084e2831f85a2a5003b22208f650149f79757aeba426e82c2570e054c35373be8b32f06b10fcb66bb4bcf05c3dea5df9a528d047e6f43761da6f40c758b905422d3ddd5a6eda264a7255bc9cebaad623a0c2212abdd52887d337067c5d1502a03958dcb8eed0a83151e8c4da6990d3697e21cee64253511ae24fc140187837088a30f99f894371b7
 #EXTINF:-1, arabya alhadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-
-#EXTINF:-1, marwan
-https://r5---sn-vgqsenlz.googlevideo.com/videoplayback?itag=135&sver=3&upn=D5rfmxtrppw&expire=1429329851&ms=au&mt=1429308170&mv=m&pl=17&ip=65.128.224.54&mime=video%2Fmp4&keepalive=yes&id=o-AP_c6wUY4v9bo7aSIZXGqqcXq_VfxsbAneTaOi7Qm8xr&mm=31&clen=1439002&sparams=clen%2Cdur%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cms%2Cmv%2Cnh%2Cpl%2Crequiressl%2Csource%2Cupn%2Cexpire&initcwndbps=752500&ipbits=0&lmt=1429307595724164&source=youtube&dur=138.004&requiressl=yes&gir=yes&key=yt5&signature=B41EF9F98C864BF93D2CB70C2D59FA454D8ACE5F.8447DD75E77032E4FBEE5561DB16797431DB314A&nh=IgpwcjAzLm9yZDEyKgkxMjcuMC4wLjE&fexp=900720%2C907263%2C932627%2C934954%2C936120%2C938028%2C9407115%2C9408033%2C9408347%2C9408708%2C9408757%2C9409251%2C947233%2C948124%2C948703%2C951703%2C952612%2C952637%2C952640%2C957201%2C961404%2C961406
-
-#EXTINF:-1, 74
-http://pdl.vimeocdn.com/16109/925/280317988.mp4?token2=1429331482_95d7000df87f515f66929b2e3dee8a6b&aksessionid=a20838e4d5f9750a
-
-#EXTINF:-1, 75
-http://pdl.vimeocdn.com/92911/120/280646124.mp4?token2=1429331595_865cb34012beec04ea704ebbb8bc78d9&aksessionid=1e6ede5422f78f6b
