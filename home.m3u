@@ -4,11 +4,17 @@
 #EXTINF:-1, Baraem Europe
 http://46.59.28.215:4949/bynumber/10
 
+#EXTINF:-1, MBC 3
+rtmp://167.114.119.228/arabic//MBC3
+
+#EXTINF:-1, cartoon
+http://93.184.221.133/00573D/1084/1084-0.m3u8?v--61
+
 #EXTINF:0,Aljazeera Children
 
 http://arabic.dynns.com:1935/arabic/AljazeeraChildren/chunklist_w25800676.m3u8?wmsAuthSign
 
-#EXTINF:0,Noon Tv
+#EXTINF:0,Noon
 
 http://arabic.dynns.com:1935/arabic/NoonTv/chunklist_w678994695.m3u8?wmsAuthSign
 
@@ -47,10 +53,10 @@ http://arabic.dynns.com:1935/arabic/MBC1/chunklist_w718238064.m3u8?wmsAuthSign
 #EXTINF:-1,fatafeat
 http://212.179.77.42/live/livestream3/gmswf.m3u8
 
-#EXTINF:-1, sharqiah 
+#EXTINF:-1, Al Sharqiya
 rtmp://ns8.indexforce.com/home/mystream
 
-#EXTINF:-1,Al rasheed
+#EXTINF:-1,Alrasheed
 http://185.56.30.123:8082/TV6005
 
 #EXTINF:-1, Dijla
@@ -60,18 +66,18 @@ rtmp://stream.joinvisions.net/dij//dij
  
 http://185.27.237.105:8082/TV0099
 
-#EXTINF:0,Dream1
+#EXTINF:0,Dream
 
 http://arabic.dynns.com:1935/arabic/Dream1/chunklist_w1810603854.m3u8?wmsAuthSign
 
-#EXTINF:0,Dream2
+#EXTINF:0,Dream 2
 
 http://arabic.dynns.com:1935/arabic/Dream2/chunklist_w1601507477.m3u8?wmsAuthSign
 
-#EXTINF:-1, cenema pro
+#EXTINF:-1, cinema pro
 http://185.56.30.123:8082/TV6004
 
-#EXTINF:0,Nilecinema
+#EXTINF:0,Nile cinema
 
 http://arabic.dynns.com:1935/arabic/Nilecinema/chunklist_w889933210.m3u8?wmsAuthSign
 
@@ -202,7 +208,7 @@ http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1,KTV AL ARABI 
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
 
-#EXTINF:-1, Al jazera
+#EXTINF:-1, Aljazeera
 rtmp://50.7.180.18/elnahar_tv/nahar_youm.stream
 
 #EXTINF:-1,BBC
@@ -297,7 +303,7 @@ http://arabic.dynns.com:1935/arabic/RotanaCinema/chunklist_w587583793.m3u8?wmsAu
 
 http://arabic.dynns.com:1935/arabic/Cima/chunklist_w533092796.m3u8?wmsAuthSign
 
-#EXTINF:0,AbuDhabi ALOula
+#EXTINF:0,Abu Dhabi tv
 
 http://arabic.dynns.com:1935/arabic/AbuDhabiALOula/chunklist_w1473477043.m3u8?wmsAuthSign
 
@@ -318,11 +324,11 @@ http://arabic.dynns.com:1935/arabic/AlJadeed/chunklist_w1466691586.m3u8?wmsAuthS
 
 http://arabic.dynns.com:1935/arabic/Aljazeera/chunklist_w900334084.m3u8?wmsAuthSign
 
-#EXTINF:0,GIM Aljazeera Children
+#EXTINF:0, Aljazeera Children
 
 http://arabic.dynns.com:1935/arabic/AljazeeraChildren/chunklist_w25800676.m3u8?wmsAuthSign
 
-#EXTINF:0,AljazeeraDocumentaire
+#EXTINF:0,Aljazeera Documentaire
 
 http://arabic.dynns.com:1935/arabic/AljazeeraDocumentaire/chunklist_w788462918.m3u8?wmsAuthSign
 
@@ -375,6 +381,17 @@ http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
 #EXTINF:0, Fox Action Movies HD
 http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h
 
+#EXTINF:-1, D. CIVILIZATION 
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8? 
+#EXTINF:-1, DISCOVERY 
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8? 
+
+#EXTINF:-1, NAT GEO 
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+
+#EXTINF:-1, HISTORY 
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8? 
+
 #EXTINF:-1, CNN
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8?Vd?u#bt!25
 
@@ -386,3 +403,8 @@ http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_de
 #EXTINF:-1, marwan
 https://r5---sn-vgqsenlz.googlevideo.com/videoplayback?itag=135&sver=3&upn=D5rfmxtrppw&expire=1429329851&ms=au&mt=1429308170&mv=m&pl=17&ip=65.128.224.54&mime=video%2Fmp4&keepalive=yes&id=o-AP_c6wUY4v9bo7aSIZXGqqcXq_VfxsbAneTaOi7Qm8xr&mm=31&clen=1439002&sparams=clen%2Cdur%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cms%2Cmv%2Cnh%2Cpl%2Crequiressl%2Csource%2Cupn%2Cexpire&initcwndbps=752500&ipbits=0&lmt=1429307595724164&source=youtube&dur=138.004&requiressl=yes&gir=yes&key=yt5&signature=B41EF9F98C864BF93D2CB70C2D59FA454D8ACE5F.8447DD75E77032E4FBEE5561DB16797431DB314A&nh=IgpwcjAzLm9yZDEyKgkxMjcuMC4wLjE&fexp=900720%2C907263%2C932627%2C934954%2C936120%2C938028%2C9407115%2C9408033%2C9408347%2C9408708%2C9408757%2C9409251%2C947233%2C948124%2C948703%2C951703%2C952612%2C952637%2C952640%2C957201%2C961404%2C961406
 
+#EXTINF:-1, 74
+http://pdl.vimeocdn.com/16109/925/280317988.mp4?token2=1429331482_95d7000df87f515f66929b2e3dee8a6b&aksessionid=a20838e4d5f9750a
+
+#EXTINF:-1, 75
+http://pdl.vimeocdn.com/92911/120/280646124.mp4?token2=1429331595_865cb34012beec04ea704ebbb8bc78d9&aksessionid=1e6ede5422f78f6b
