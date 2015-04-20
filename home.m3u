@@ -170,9 +170,15 @@ http://185.56.30.123:8082/TV6006
 http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h
 
 #EXTINF:-1,melody
+
 rtmp://162.212.176.107:1935/melody/globaltv-melody.stream
+
 #EXTINF:-1,Rotana Music
+
 http://185.56.30.123:8082/TV6012
+
+#EXTINF:-1,Rotana Masrya
+http://198.179.30.110/live/2612.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7de83c160b97a1c989dbd574fbff13c9d55e8637994f2c232de15e65d0ba9edc7ca534dbc41f474003c4a33b9cb4c8cd7b914be4cf8535c56d029da283384c4deba43c8d9aaba34879919e61de7f28e8abc45efbb83fa4c8818e86046febce6624bce008821d8d65c1bf8c2ebff903058fbfbd6ac65c1296f68f9d47f7cced0e66a730e02c99989f0b890fc1c6706bc67dcee23b94fe50a1
 
 #EXTINF:0,MBC Masr2
 
@@ -180,7 +186,11 @@ http://arabic.dynns.com:1935/arabic/MBCMasr2/chunklist_w1101746287.m3u8?wmsAuthS
 
 #EXTINF:0,Rotana Cinema
 
-http://arabic.dynns.com:1935/arabic/RotanaCinema/chunklist_w587583793.m3u8?wmsAuthSign
+http://198.179.30.110/live/2618.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe6859a9b0c8486b779b073e40613f52df88bff431f31e724180c9f2dc65d5288b7c88d0a1e839e8d8db07e4274ff72eee6b195349beabc5f426643333274d84f1ff8396110b49931fe5bea35d3b2a71be8f3b41b8b7df4f053fdfe0c810eda3a7a03344a995a684b5ced5383d4f45d18764ec2fd538ae676c3af41c5fbb0feabd6d7f1e1dedad4606da5f59c47c406f6c2c4423bca37ccdf3
+
+#EXTINF:0,Rotana Cinema
+
+http://198.179.30.110/live/2615.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe39deb93432447d59f842dec6aabc1455b8de8083a89e95a3e12ec795fe75aeea897221b458c1c31f5f640c2fb8b61fe045145e16c62f8813698f8037b4dc09454164c39c6275a13c2a1f4e13aabe8b9c665da6c1867d6964328c32515845d5525ba0c044b1a6fff5306adeb75da4ff7beed74fe8b22bcd6a95822f15061f004103884dfcac7e71d4040b3bcf51e83655294fa6bc1d7b71b7
 
 #EXTINF:-1,Rotana Cinema
 http://185.56.30.123:8082/TV6014
@@ -191,10 +201,6 @@ http://185.56.30.123:8082/TV6015
 #EXTINF:-1,Noor Dubai TV 
 
 http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/BratuMarian.m3u8
-
-#EXTINF:-1,2M 
-
-http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 
 #EXTINF:0, Aljazeera
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
@@ -416,6 +422,7 @@ http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h
 
 #EXTINF:-1, CIVILIZATION 
 http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8? 
+
 #EXTINF:-1, DISCOVERY 
 http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8? 
 
