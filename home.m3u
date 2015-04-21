@@ -1,6 +1,6 @@
  #EXTM3U
 
-
+http://91.109.20.227:8080/TV6029
 http://yoolive.com/hls-shift/mbc_1.m3u8?st=NCNCfc5B93rSn0Xe5GPtYw&e=1429581983
 
 #EXTINF:-1, Baraem Europe
@@ -125,7 +125,9 @@ MEXTINF:-1, MBC ACTION
 
 http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
 
- 
+MEXTINF:-1, fox movies
+rtmp://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream
+
 #EXTINF:-1,MBC 2
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
 
