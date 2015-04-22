@@ -165,7 +165,7 @@ http://185.27.237.105:8082/TV0116
 
 #EXTINF:0,Rotana Cinema
 
-http://arabic.dynns.com:1935/arabic/RotanaCinema/chunklist_w587583793.m3u8?wmsAuthSign
+rtmp://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream
 
 #EXTINF:0,Cima
 
@@ -240,7 +240,7 @@ http://185.27.237.105:8082/TV0117
 
 #EXTINF:-1,ROtana clip
 
-http://204.107.27.248/live/_definst_/2600.low.stream/chunklist_w466245011.m3u8?id=0ad5aac39bb13fbe3a3f932785a009d81cd4da7130608faf1cfe658b013b9b060de285926b779893747948411d33d15f23f138d882967f9e02e0b117d261500a5d3c7b41bc2be97e9c64fbe009eeeeaed3ed3db90186ecc11e394efe6d5193bccdf377a13b47f7720b4d8142c0d9a38bfaf217831ff094a34ea678d769f85ca214855dda5aa8dfa83a3090d2ea8910e7ee68e707d920b5cc
+rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
 
 #EXTINF:-1,ROTANA clip
 http://204.107.27.248/live/_definst_/2603.low.stream/chunklist_w1483538931.m3u8?id=0ad5aac39bb13fbeb5fa4e2429d2638b93f5c62d2a5240b4a432435c3603760492985d6128cad2b5c7b4bba5fddb7ecf84b54fb3e64970a41605a7f8b9d968f1f12d17dd0a0afaf2a3f958b8f1e54d234d3562422feff4be1a12af36e30907fe11d902055cd60955c3460f5732cb2201cc4d9be563792a4684cca3767fa7b9b210eee7425f6d7c2cc4dd39fd3f3b7d40cec78d456f83ca83
@@ -250,6 +250,9 @@ rtmp://38.96.175.16/live/MarinaFM2
 
 #EXTINF:-1,AGHANI Tv
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
+
+#EXTINF:-1,AGHANina 
+rtmp://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream
 
 #EXTINF:-1,melody
 rtmp://162.212.176.107:1935/melody/globaltv-melody.stream
