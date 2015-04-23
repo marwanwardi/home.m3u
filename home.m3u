@@ -1,5 +1,13 @@
  #EXTM3U
 
+#EXTINF:-1,MBC 1
+http://185.56.30.123:8082/TV7000
+
+#EXTINF:-1,MBC Drama
+http://185.56.30.123:8082/TV7006
+
+#EXTINF:-1,MBC 3
+http://185.56.30.123:8082/TV7002
 
 #EXTINF:-1, Baraem Europe
 http://46.59.28.215:4949/bynumber/10
@@ -73,6 +81,9 @@ rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 
 #EXTINF:0, Al Baghdadia
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
+
+#EXTINF:0,Al-Baghdadia 2
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
 
 #EXTINF:-1,Alrasheed
 http://94.127.209.149:8080/alrashid/alrashid_1mbps/index.m3u8?v=1268884471
