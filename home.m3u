@@ -3,11 +3,20 @@
 #EXTINF:-1,MBC 1
 http://185.56.30.123:8082/TV7000
 
+#EXTINF:-1,MBC 1
+http://91.109.20.227:8080/TV6031
+
 #EXTINF:-1,MBC Drama
 http://185.56.30.123:8082/TV7006
 
+#EXTINF:-1,MBC Drama
+http://91.109.20.227:8080/TV6035
+
 #EXTINF:-1,MBC 3
 http://185.56.30.123:8082/TV7002
+
+#EXTINF:-1,MBC 3
+http://91.109.20.227:8080/TV6031
 
 #EXTINF:-1, Baraem Europe
 http://46.59.28.215:4949/bynumber/10
@@ -41,6 +50,8 @@ http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
 
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 
+#EXTINF:-1, Boomerang
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/bw900000/1429833600/1429844400.ts/0r2_207057936r4288.ts
 
 #EXTINF:-1, CBEEBIES
 http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
@@ -126,7 +137,8 @@ http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1, MBC ACTION 
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
-
+#EXTINF:-1,Fox 
+http://185.56.30.123:8082/TV6010
 #EXTINF:-1, fox movies
 rtmp://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream
 
@@ -158,13 +170,6 @@ rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream
 #EXTINF:-1,cairo cinema
 rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream
 
-#EXTINF:-1, cinema
-http://185.27.237.105:8082/TV0115
-
-#EXTINF:-1, cinema 2
-
-http://185.27.237.105:8082/TV0116
-
 #EXTINF:0,Rotana Cinema
 
 rtmp://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream
@@ -173,11 +178,6 @@ rtmp://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream
 
 http://arabic.dynns.com:1935/arabic/Cima/chunklist_w533092796.m3u8?wmsAuthSign
 
-#EXTINF:0,Rotana Cinema
-http://204.107.27.248/live/_definst_/2618.low.stream/chunklist_w2134393485.m3u8?id=0ad5aac39bb13fbe8ed1c188d5ea17718a2572de4e6ad1d62161b2c158209a4adf8ee6c37d1aecd2044716fb50e79cd5be85c3cd53e769d40a57fdb2ceb0226e0ab8f0c8130b04d35c20ebd5bb4f4e58ec38e1400d6e551503b2f938eb6863ceb4ecdefcd2a772351f470398b23d371d3a20335326f1f4da5b472e419ee17e25b39f5a690c413e4bb6888847299e78a0a940f2e64dccf53a
-
-#EXTINF:-1,Rotana classic
-http://204.107.27.248/live/_definst_/2609.low.stream/chunklist_w1616833389.m3u8?id=0ad5aac39bb13fbe221fdd6251bfe343257406337f271a09e7db348ec9e84989ddf15908a3d8ac6cc06e676c9e10bb447ac6f1910bfe57522eca80aa88629190d68eb43b1825a1e652b2dea24266425eeb8420f12f8f4bd7dcf4f4981e745714d07e0c9022178cac8592bd247090eb7eaafcddfa7e7979428cf598c649aff5a89179935cf554c64d8715bae40cab9a76cb397e3d2b3773a3
 
 #EXTINF:-1, cairo drama
 rtmp://162.212.176.107:1935/cairo_drama/globaltv-cairo_drama.stream
@@ -212,11 +212,6 @@ http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/BratuM
 #EXTINF:-1,LBC
 rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream?LiveSport.HD
 
-#EXTINF:-1,oSn yahalla chabab hd
-http://185.27.237.105:8082/TV0052
-
-#EXTINF:0,AlJadeed
-http://arabic.dynns.com:1935/arabic/AlJadeed/chunklist_w1466691586.m3u8?wmsAuthSign
 
 #EXTINF:-1,abu dhabi tv
 
@@ -237,16 +232,15 @@ http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatant
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
 
 
-
-#EXTINF:-1,Fann
-http://185.27.237.105:8082/TV0117
-
 #EXTINF:-1,ROtana clip
 
 rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
 
 #EXTINF:-1,ROTANA clip
 http://204.107.27.248/live/_definst_/2603.low.stream/chunklist_w1483538931.m3u8?id=0ad5aac39bb13fbeb5fa4e2429d2638b93f5c62d2a5240b4a432435c3603760492985d6128cad2b5c7b4bba5fddb7ecf84b54fb3e64970a41605a7f8b9d968f1f12d17dd0a0afaf2a3f958b8f1e54d234d3562422feff4be1a12af36e30907fe11d902055cd60955c3460f5732cb2201cc4d9be563792a4684cca3767fa7b9b210eee7425f6d7c2cc4dd39fd3f3b7d40cec78d456f83ca83
+
+#EXTINF:-1,ROTANA clip
+rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
 
 #EXTINF:-1,Marina FM TV
 rtmp://38.96.175.16/live/MarinaFM2
@@ -324,8 +318,6 @@ http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h&hpgdisco_m3u8
 #EXTINF:-1, war channel
 http://198.179.31.197/live/2954.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2f3d3117689971bc9428a3dccfad2b1cd86ea5a5cdbf543968bfde263cbf2bd3d88e18486e239ce263aa8666fff61979ac1238d39bb434970ab59bb8a4f9cb06b94fd53091cbaa091b68eac7423e10581dde67102f80fdc1ecf0e63c468f9d0104c66b44823ada8ddc7205550651aad723970767d78b11c917ecfa145f2df33127d22df91e83c5206678e97c0edc1b6f
 
-#EXTINF:-1,Al jazera Doc
-http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 
 #EXTINF:-1,the war channel
 http://live305.edge.filmon.com/live/805.low.stream/chunklist_w558942205.m3u8?id=0ad5aac39bb13fbe94c097f4ef443acda34b4d9445fe21564e952a94f59037295c3c32c39f9b3075a2f318fc600f3b6c75b7ea9a633eaafe08ab5bff9e9b4696d7ef92dc6e7d2e29354be2d00a3757a6f5d5def8ee3496c0ac45a2c37145a6f9ac7071182431fb09630c1850fcf2f03d356e6f79edb1d37c79b313d0ed607a5dc128170900b9d2aff43cc1786a912cfda41951b1e6662d0b
