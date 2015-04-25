@@ -3,6 +3,9 @@
 #EXTINF:-1,MBC 1
 http://91.109.20.227:8080/TV6031
 
+#EXTINF:-1,CBC
+rtmp://167.114.101.234/live/cbc
+
 #EXTINF:-1,MBC Drama
 http://185.56.30.123:8082/TV7006
 
@@ -13,6 +16,8 @@ http://91.109.20.227:8080/TV6035
 http://91.109.20.227:8080/TV6031
 
 #EXTINF:-1, Baraem Europe
+rtmp://167.114.101.234/live/baraem
+
 rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
 
 rtmp://www.arabic-toons.com/animetv/baraem?code=w_8ef741ebf5e9865
@@ -21,9 +26,9 @@ rtmp://www.arabic-toons.com/animetv/baraem?code=w_8ef741ebf5e9865
 rtmp://AgendaStreamer2.qna.org.qa/brm/brm
 
 rtmp://AgendaStreamer2.qna.org.qa/brm//brm
-#EXTINF:-1, Baraem
+#EXTINF:-1, Ajyal
 
-http://46.59.28.215:4949/bynumber/10
+rtmp://167.114.101.234/live/ajyal
 
 #EXTINF:-1, MBC 3
 rtmp://167.114.119.228/arabic//MBC3
@@ -277,6 +282,9 @@ http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
 
 #EXTINF:0, Aljazeera
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
+
+#EXTINF:0, Almustakila
+rtmp://167.114.101.234/live/al_moustakilla
 
 #EXTINF:-1,Al hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
