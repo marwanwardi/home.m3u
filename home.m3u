@@ -1,10 +1,13 @@
  #EXTM3U
 
 #EXTINF:-1,MBC 1
-http://91.109.20.227:8080/TV6031
+rtmp://167.114.101.234/live?idu=lola123_77021940960//mbc_1
 
-#EXTINF:-1,CBC
-rtmp://167.114.101.234/live/cbc
+#EXTINF:-1,MBC MASR
+rtmp://162.212.176.107/mbc_masr//globaltv-mbc_masr.stream
+
+#EXTINF:-1,Dubai drama
+http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w401493707_b550000.m3u8
 
 #EXTINF:-1,MBC Drama
 http://185.56.30.123:8082/TV7006
@@ -18,17 +21,14 @@ http://91.109.20.227:8080/TV6031
 #EXTINF:-1, Baraem Europe
 rtmp://167.114.101.234/live/baraem
 
+#EXTINF:-1, Baraem Europe
 rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
 
-rtmp://www.arabic-toons.com/animetv/baraem?code=w_8ef741ebf5e9865
 
 #EXTINF:-1, Baraem 
 rtmp://AgendaStreamer2.qna.org.qa/brm/brm
 
-rtmp://AgendaStreamer2.qna.org.qa/brm//brm
-#EXTINF:-1, Ajyal
 
-rtmp://167.114.101.234/live/ajyal
 
 #EXTINF:-1, MBC 3
 rtmp://167.114.119.228/arabic//MBC3
@@ -46,7 +46,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
 http://arabic.dynns.com:1935/arabic/AljazeeraChildren/chunklist_w25800676.m3u8?wmsAuthSign
 
-#EXTINF:0,CN
+#EXTINF:0,CARTOON NETWORK
 http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
 
 #EXTINF:-1, Boomerang
@@ -90,6 +90,7 @@ http://185.27.237.105:8082/TV0086
 
 #EXTINF:-1, Al Sharqiya
 rtmp://ns8.indexforce.com/home/mystream
+
 #EXTINF:-1, Al Sharqiya
 rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 
@@ -173,6 +174,9 @@ http://arabic.dynns.com:1935/arabic/MBCMasr2/chunklist_w1101746287.m3u8?wmsAuthS
 #EXTINF:-1,Moga Comedy
 rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream
 
+#EXTINF:-1,Moga Comedy
+rtmp://162.212.176.107/moga_comedy?v=3315749764//globaltv-moga_comedy.stream
+
 #EXTINF:-1,cairo cinema
 rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream
 
@@ -236,6 +240,9 @@ http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatant
 #EXTINF:0,watan tv plus
 
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
+
+
+
 
 
 #EXTINF:-1,ROtana clip
@@ -321,17 +328,9 @@ http://185.27.237.105:8082/TV0092
 #EXTINF:-1,nat geo
 rtmp://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream
 
-#EXTINF:1,National Geographic
-http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h&hpgdisco_m3u8
-
-#EXTINF:-1, war channel
-http://198.179.31.197/live/2954.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2f3d3117689971bc9428a3dccfad2b1cd86ea5a5cdbf543968bfde263cbf2bd3d88e18486e239ce263aa8666fff61979ac1238d39bb434970ab59bb8a4f9cb06b94fd53091cbaa091b68eac7423e10581dde67102f80fdc1ecf0e63c468f9d0104c66b44823ada8ddc7205550651aad723970767d78b11c917ecfa145f2df33127d22df91e83c5206678e97c0edc1b6f
-
 #EXTINF:0,RT Documentary HD
 http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
 
-#EXTINF:-1,the war channel
-http://live305.edge.filmon.com/live/805.low.stream/chunklist_w558942205.m3u8?id=0ad5aac39bb13fbe94c097f4ef443acda34b4d9445fe21564e952a94f59037295c3c32c39f9b3075a2f318fc600f3b6c75b7ea9a633eaafe08ab5bff9e9b4696d7ef92dc6e7d2e29354be2d00a3757a6f5d5def8ee3496c0ac45a2c37145a6f9ac7071182431fb09630c1850fcf2f03d356e6f79edb1d37c79b313d0ed607a5dc128170900b9d2aff43cc1786a912cfda41951b1e6662d0b
 
 #EXTINF:-1,KTV AL ARABI 
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
@@ -342,22 +341,17 @@ rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
 #EXTINF:-1,Aljazeera Documents
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
-#EXTINF:-1, National Geographic
-
-rtmp://162.212.176.107/national_geo_ad?v=1098965046/globaltv-national_geo_ad.stream
 
 #EXTINF:-1, National Geographic
 
 rtmp://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream
 
+#EXTINF:-1, National Geographic
+rtmp://162.212.176.107/national_geo_ad//globaltv-national_geo_ad.stream
 
 #EXTINF:0,Aljazeera Documentaire
 
 http://arabic.dynns.com:1935/arabic/AljazeeraDocumentaire/chunklist_w788462918.m3u8?wmsAuthSign
-
-
-
-
 
 
 
@@ -396,6 +390,7 @@ http://arabic.dynns.com:1935/arabic/AlResala/chunklist_w1909997661.m3u8?wmsAuthS
 
 http://arabic.dynns.com:1935/arabic/Iqra/chunklist_w803463768.m3u8?wmsAuthSign
 
+#EXTINF:0, wesal
 rtmp://109.123.123.82/wesal/wesal1
 
 #EXTINF:0,ZeeA lwen
@@ -447,113 +442,4 @@ http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
 
 #EXTINF:-1, DISCOVERY 
 http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8? 
-
-
-#EXTINF:0,[001] La 1
-http://88.10.209.100:4022/udp/239.0.0.76:8208
-#EXTINF:0,[002] La 2
-http://88.10.248.103:4022/udp/239.0.0.2:8208
-#EXTINF:0,[003] Antena 3
-http://88.10.248.103:4022/udp/239.0.0.3:8208
-#EXTINF:0,[004] Cuatro
-http://88.10.248.103:4022/udp/239.0.0.4:8208
-#EXTINF:0,[005] Tele 5
-http://88.10.248.103:4022/udp/239.0.0.5:8208
-#EXTINF:0,[006] La Sexta
-http://88.10.209.100:4022/udp/239.0.0.58:8208
-#EXTINF:0,[007] Castilla y Leon 7
-http://88.10.248.103:4022/udp/239.0.0.109:8208
-#EXTINF:0,[007] CMT
-http://88.10.248.103:4022/udp/239.0.0.55:8208
-#EXTINF:0,[007] Telemadrid
-http://88.10.248.103:4022/udp/239.0.0.25:8208
-#EXTINF:0,[007] TV3
-http://88.10.209.100:4022/udp/239.0.0.23:8208
-#EXTINF:0,[008] La Otra
-http://88.10.248.103:4022/udp/239.0.0.26:8208
-#EXTINF:0,[008] Super3 33
-http://88.10.209.100:4022/udp/239.0.0.24:8208
-#EXTINF:0,[009] Canal del Mes
-http://88.10.209.100:4022/udp/239.0.0.99:8208
-#EXTINF:0,[010] FOX
-http://88.10.209.100:4022/udp/239.0.0.74:8208
-#EXTINF:0,[011] AXN
-http://88.10.209.100:4022/udp/239.0.0.14:8208
-#EXTINF:0,[012] Calle 13
-http://88.10.248.103:4022/udp/239.0.0.13:8208
-#EXTINF:0,[013] TNT
-http://88.10.209.100:4022/udp/239.0.0.44:8208
-#EXTINF:0,[014] Fox life
-http://88.10.248.103:4022/udp/239.0.0.112:8208
-#EXTINF:0,[015] Cosmo TV
-http://88.10.248.103:4022/udp/239.0.0.15:8208
-#EXTINF:0,[015] Cosmo TV
-http://88.10.209.100:4022/udp/239.0.0.15:8208
-#EXTINF:0,[016] AXN White
-http://88.10.209.100:4022/udp/239.0.0.62:8208
-#EXTINF:0,[017] Comedy Central
-http://88.10.209.100:4022/udp/239.0.0.68:8208
-#EXTINF:0,[018] SyFy
-http://88.10.248.103:4022/udp/239.0.0.111:8208
-#EXTINF:0,[020] FDF
-http://88.10.209.100:4022/udp/239.0.0.84:8208
-#EXTINF:0,[021] Neox
-http://88.10.209.100:4022/udp/239.0.0.107:8208
-#EXTINF:0,[022] Energy
-http://88.10.209.100:4022/udp/239.0.0.59:8208
-#EXTINF:0,[024] Divinity
-http://88.10.209.100:4022/udp/239.0.0.48:8208
-#EXTINF:0,[027] Nova
-http://88.10.209.100:4022/udp/239.0.0.106:8208
-#EXTINF:0,[027] Nova
-http://88.10.248.103:4022/udp/239.0.0.106:8208
-#EXTINF:0,[029] Sundance Channel
-http://88.10.248.103:4022/udp/239.0.0.102:8208
-#EXTINF:0,[031] Hollywood
-http://88.10.248.103:4022/udp/239.0.0.16:8208
-#EXTINF:0,[031] Hollywood
-http://88.10.209.100:4022/udp/239.0.0.16:8208
-#EXTINF:0,[032] MGM
-http://88.10.248.103:4022/udp/239.0.0.8:8208
-#EXTINF:0,[038] Paramount Channel
-http://88.10.209.100:4022/udp/239.0.0.90:8208
-#EXTINF:0,[043] Teledeporte
-http://88.10.209.100:4022/udp/239.0.0.79:8208
-#EXTINF:0,[079] Discovery MAX
-http://88.10.209.100:4022/udp/239.0.0.32:8208
-#EXTINF:0,[087] Boing
-http://88.10.209.100:4022/udp/239.0.0.66:8208
-#EXTINF:0,[088] Clan TVE
-http://88.10.209.100:4022/udp/239.0.0.80:8208
-#EXTINF:0,[104] Canal 24 Horas
-http://88.10.209.100:4022/udp/239.0.0.78:8208
-#EXTINF:0,[112] Intereconomia TV
-http://88.10.209.100:4022/udp/239.0.0.63:8208
-#EXTINF:0,[114] 13 TV
-
-http://88.10.209.100:4022/udp/239.0.0.91:8208
-#EXTINF:0,[115] 8tv
-http://88.10.209.100:4022/udp/239.0.0.82:8208
-#EXTINF:0,[200] La Tienda en Casa
-http://88.10.209.100:4022/udp/239.0.0.98:8208
-#EXTINF:0,[221] Multi 1 F1
-http://88.10.209.100:4022/udp/239.0.3.29:8208
-#EXTINF:0,[221] Multi 1 F1 HD
-http://88.10.209.100:4022/udp/239.0.0.175:8208
-#EXTINF:0,[221] Multi 1 MotoGP
-http://88.10.209.100:4022/udp/239.0.3.29:8208
-#EXTINF:0,[221] Multi 1 MotoGP HD
-http://88.10.209.100:4022/udp/239.0.0.175:8208
-#EXTINF:0,[505] Tele 5 HD
-http://88.10.209.100:4022/udp/239.0.0.176:8208
-#EXTINF:0,[520] FOX HD
-http://88.10.209.100:4022/udp/239.0.9.134:8208
-#EXTINF:0,[523] Canal 13 HD
-http://88.10.209.100:4022/udp/239.0.5.74:8208
-#EXTINF:0,[526] Cosmopolitan HD
-http://88.10.209.100:4022/udp/239.0.5.71:8208
-#EXTINF:0,[540] Hollywood HD
-http://88.10.209.100:4022/udp/239.0.5.76:8208
-
-
 
