@@ -17,9 +17,11 @@ http://5.189.144.71:8080/startimes/big-iptv/42.ch
 
 http://mydreambox.blogdns.com:6262/live/1/2/10.ts
 
-#EXTINF:-1, Baraem Europe
+#EXTINF:-1, Baraem 
 rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
 
+#EXTINF:-1, Baraem Europe
+http://46.59.28.215:4949/bynumber/10
 
 #EXTINF:-1, Baraem 
 rtmp://AgendaStreamer2.qna.org.qa/brm/brm
