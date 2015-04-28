@@ -24,17 +24,12 @@ rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
 #EXTINF:-1,el jazeera kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
-#EXTINF:0,Aljazeera Children
-http://arabic.dynns.com:1935/arabic/AljazeeraChildren/chunklist_w25800676.m3u8?wmsAuthSign
 
-#EXTINF:0,CARTOON NETWORK
 http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
 
 #EXTINF:-1, Boomerang
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 
-#EXTINF:-1, Boomerang
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/bw900000/1429833600/1429844400.ts/0r2_207057936r4288.ts
 
 #EXTINF:-1, CBEEBIES
 http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
@@ -45,8 +40,6 @@ http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
 #EXTINF:-1, BOOMERANG
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 
-#EXTINF:-1, BOOMERANG
-http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
  
 #EXTINF:-1, TOON CAST
 http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
