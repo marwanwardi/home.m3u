@@ -9,6 +9,10 @@ rtmp://162.212.176.107/mbc_masr//globaltv-mbc_masr.stream
 #EXTINF:-1,Dubai drama
 http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w401493707_b550000.m3u8
 
+#EXTINF:-1,Disney junior
+http://myplace.dnsalias.com:6262/live/pt/gratis/10.ts
+
+http://mydreambox.blogdns.com:6262/live/1/2/10.ts
 
 #EXTINF:-1, Baraem Europe
 rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
@@ -50,6 +54,8 @@ http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
 #EXTINF:-1,fatafeat
 http://212.179.77.42/live/livestream3/gmswf.m3u8
 
+#EXTINF:-1,Food network
+http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
 
 
 
@@ -301,6 +307,9 @@ rtmp://162.212.176.107/national_geo_ad//globaltv-national_geo_ad.stream
 
 #EXTINF:0,Aljazeera Documentaire
 http://arabic.dynns.com:1935/arabic/AljazeeraDocumentaire/chunklist_w788462918.m3u8?wmsAuthSign
+
+#EXTINF:0,Travel Channel
+http://50.7.69.186:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887
 
 
 
