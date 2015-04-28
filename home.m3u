@@ -3,6 +3,9 @@
 #EXTINF:-1,MBC 1
 rtmp://167.114.101.234/live?idu=lola123_77021940960//mbc_1
 
+#EXTINF:-1,mbc
+http://185.56.30.123:8082/TV7000
+
 #EXTINF:-1,MBC MASR
 rtmp://162.212.176.107/mbc_masr//globaltv-mbc_masr.stream
 
