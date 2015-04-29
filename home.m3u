@@ -62,10 +62,11 @@ http://212.179.77.42/live/livestream3/gmswf.m3u8
 #EXTINF:-1,Food network
 http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
 
-
-
-#EXTINF:-1, wesal
+#EXTINF:-1,wesal
 rtmp://109.123.123.82/wesal/wesal1
+
+#EXTINF:-1, Al Sharqiya
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
 #EXTINF:-1, Al Sharqiya
 rtmp://ns8.indexforce.com/home/mystream
@@ -87,10 +88,6 @@ http://94.127.209.149:8080/alrashid/alrashid_1mbps/index.m3u8?v=1268884471
 
 #EXTINF:-1, Dijla
 rtmp://stream.joinvisions.net/dij//dij
-
-
-#EXTINF:-1, iraqia 
-http://212.7.205.5:1935/Iraqia/live/chunklist_w1495652836.m3u8
 
 #EXTINF:0,Baghdad tv
 http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
@@ -114,8 +111,7 @@ http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1,MBC ACtion
 http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
 
-#EXTINF:-1, MBC ACTION 
-http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+
 
 #EXTINF:-1,Fox 
 http://185.56.30.123:8082/TV6010
@@ -147,17 +143,12 @@ http://arabic.dynns.com:1935/arabic/MBCMasr2/chunklist_w1101746287.m3u8?wmsAuthS
 #EXTINF:-1,Moga Comedy
 rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream
 
-#EXTINF:-1,Moga_Comedy
-http://5.189.144.71:8080/startimes/big-iptv/33.ch
 
 #EXTINF:-1,cairo cinema
 rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream
 
 #EXTINF:0,Rotana Cinema
 rtmp://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream
-
-#EXTINF:0,Cima
-http://arabic.dynns.com:1935/arabic/Cima/chunklist_w533092796.m3u8?wmsAuthSign
 
 
 #EXTINF:-1, cairo drama
@@ -241,11 +232,9 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_828.m3u8?v=1
 
 
 
-#EXTINF:-1 , TRT Arabic 
+#EXTINF:-1 ,TRT Arabic 
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 
-#EXTINF:-1,ANN
-rtmp://ns8.indexforce.com/ann/ann
 
 #EXTINF:-1,Russia Alyaum 
 http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
@@ -253,14 +242,10 @@ http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
 #EXTINF:0, Aljazeera
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
 
-#EXTINF:0, Almustakila
-rtmp://167.114.101.234/live/al_moustakilla
 
 #EXTINF:-1,Al hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
-#EXTINF:-1, Aljazeera
-rtmp://50.7.180.18/elnahar_tv/nahar_youm.stream
 
 #EXTINF:-1,BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
@@ -268,11 +253,6 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1,BBC
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 
-#EXTINF:0,ALArabia
-http://arabic.dynns.com:1935/arabic/ALArabia/chunklist_w1911567358.m3u8?wmsAuthSign
-
-#EXTINF:-1, CNN
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8?Vd?u#bt!25
 
 #EXTINF:-1, arabya alhadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
@@ -297,9 +277,6 @@ http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
 #EXTINF:-1,KTV AL ARABI 
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
 
-#EXTINF:-1, Nat geo
-rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
-
 #EXTINF:-1,Aljazeera Documents
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
@@ -310,11 +287,7 @@ rtmp://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream
 #EXTINF:-1, National Geographic
 rtmp://162.212.176.107/national_geo_ad//globaltv-national_geo_ad.stream
 
-#EXTINF:0,Aljazeera Documentaire
-http://arabic.dynns.com:1935/arabic/AljazeeraDocumentaire/chunklist_w788462918.m3u8?wmsAuthSign
 
-#EXTINF:0,Travel Channel
-http://50.7.69.186:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887
 
 
 
@@ -340,19 +313,6 @@ http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 
 #EXTINF:-1,Qatar 
 rtmp://AgendaStreamerx1.qna.org.qa/qtv/qtv 
-
-#EXTINF:0,AlResala
-http://arabic.dynns.com:1935/arabic/AlResala/chunklist_w1909997661.m3u8?wmsAuthSign
-
-#EXTINF:0,Iqra
-http://arabic.dynns.com:1935/arabic/Iqra/chunklist_w803463768.m3u8?wmsAuthSign
-
-#EXTINF:0, wesal
-rtmp://109.123.123.82/wesal/wesal1
-
-#EXTINF:0,ZeeA lwen
-http://arabic.dynns.com:1935/arabic/ZeeAlwen/chunklist_w2104553105.m3u8?wmsAuthSign
-
 
 
 
