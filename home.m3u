@@ -17,8 +17,7 @@ http://91.109.20.227:8080/TV6031
 
 http://mydreambox.blogdns.com:6262/live/1/2/10.ts
 
-
-#EXTINF:-1, Cartoon Network
+#EXTINF:-1, tvg-logo="CartoonNetwork.png", Cartoon Network
 http://113.160.49.34/lives/origin03/cartoonsd.isml/cartoonsd.m3u8
 
 #EXTINF:-1, Baraem 
@@ -40,10 +39,10 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
 http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
 
-#EXTINF:-1, Boomerang
+#EXTINF:-1, tvg-logo="Boomerang.png", Boomerang
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 
-#EXTINF:-1, Boomerang
+#EXTINF:-1, tvg-logo="Boomerang.png", Boomerang
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8
 
 #EXTINF:-1, NICK JR
