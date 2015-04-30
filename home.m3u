@@ -16,10 +16,9 @@ http://91.109.20.227:8080/TV6031
 http://185.56.30.123:8082/TV7002 
 
 
-http://mydreambox.blogdns.com:6262/live/1/2/10.ts
 
 #EXTINF:-1, tvg-logo="cartoonnetwork.png", Cartoon Network
-http://113.160.49.34/lives/origin03/cartoonsd.isml/cartoonsd.m3u8
+http://edge.ailetv.net/org5/cartoonnetwork_me/playlist.m3u8
 
 #EXTINF:-1, Baraem 
 rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
@@ -37,7 +36,7 @@ rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
 #EXTINF:-1,el jazeera kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
-
+#EXTINF:-1, tvg-logo="cartoonnetwork.png", Cartoon Network
 http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
 
 #EXTINF:-1, tvg-logo="Boomerang.png", Boomerang
@@ -152,39 +151,12 @@ http://arabic.dynns.com:1935/arabic/MBCMasr2/chunklist_w1101746287.m3u8?wmsAuthS
 #EXTINF:-1,Moga Comedy
 rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream
 
-#EXTINF:-1,OMN LALYA ARAB
-http://185.27.237.105:8082/TV0077
-
-#EXTINF:-1,OMN LIALY ARAB
-http://185.27.237.105:8082/TV0052
-
-#EXTINF:-1,OMN LIALY HD ARAB
-http://185.27.237.105:8082/TV0064
-
-#EXTINF:-1,OMN yahallachababhd ARAB
-http://185.27.237.104:8082/TV0052
-
-#EXTINF:-1,OMN yahallahd ARAB
-http://185.27.237.104:8082/TV0064
 
 #EXTINF:-1,cairo cinema
 rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream
 
 #EXTINF:0,Rotana Cinema
 rtmp://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream
-
-
-#EXTINF:-1,arabic movies
-http://185.27.237.105:8082/TV0115
-
-#EXTINF:-1,arabic movies
-http://185.27.237.105:8082/TV0121
-
-#EXTINF:-1,ART
-http://185.27.237.105:8082/TV0102
-
-#EXTINF:-1,ART
-http://185.27.237.104:8082/TV0102
 
 #EXTINF:-1, cairo drama
 rtmp://162.212.176.107:1935/cairo_drama/globaltv-cairo_drama.stream
@@ -294,7 +266,8 @@ http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 #EXTINF:-1, arabya alhadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 
-
+#EXTINF:1,cnn
+http://5.189.144.85:1935/live/cnn/playlist.m3u8?auth=test
 
 
 
@@ -354,7 +327,7 @@ rtmp://AgendaStreamerx1.qna.org.qa/qtv/qtv
 
 
 
-#EXTINF:-1, tvg-logo="FOX.png",FOX
+#EXTINF:-1, tvg-logo="http://www.serienhai.de/wp-content/uploads/2014/03/fox-channel-logo.png",FOX
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
 
 #EXTINF:-1, tvg-logo="discoveryscience.png",discovery science
