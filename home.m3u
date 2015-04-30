@@ -1,23 +1,24 @@
  #EXTM3U
 
-#EXTINF:-1,MBC 1
+#EXTINF:-1, tvg-logo="MBC1.png",MBC 1
 rtmp://167.114.101.234/live?idu=lola123_77021940960//mbc_1
 
-#EXTINF:-1,mbc
+#EXTINF:-1,mbc 1
 http://185.56.30.123:8082/TV7000
 
 #EXTINF:-1,MBC MASR
 rtmp://162.212.176.107/mbc_masr//globaltv-mbc_masr.stream
 
-#EXTINF:-1,Dubai drama
-http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w401493707_b550000.m3u8
-
 #EXTINF:-1,mbc3
 http://91.109.20.227:8080/TV6031
 
+#EXTINF:-1,MBC 3
+http://185.56.30.123:8082/TV7002 
+
+
 http://mydreambox.blogdns.com:6262/live/1/2/10.ts
 
-#EXTINF:-1, tvg-logo="CartoonNetwork.png", Cartoon Network
+#EXTINF:-1, tvg-logo="cartoonnetwork.png", Cartoon Network
 http://113.160.49.34/lives/origin03/cartoonsd.isml/cartoonsd.m3u8
 
 #EXTINF:-1, Baraem 
@@ -45,20 +46,20 @@ http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 #EXTINF:-1, tvg-logo="Boomerang.png", Boomerang
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8
 
-#EXTINF:-1, NICK JR
+#EXTINF:-1, tvg-logo="NICK jR.png", NICK JR
 http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
 
-#EXTINF:-1, CBEEBIES
+#EXTINF:-1, tvg-logo="CBEEBIES.png",CBEEBIES
 http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
 
-#EXTINF:-1, CARTOON NETWORK
+#EXTINF:-1, tvg-logo="CARTOONNETWORK.png",CARTOON NETWORK
 http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
  
-#EXTINF:-1, BOOMERANG
+#EXTINF:-1, tvg-logo="Boomerang.png", Boomerang
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 
  
-#EXTINF:-1, TOON CAST
+#EXTINF:-1, tvg-logo="tooncast.png",TOON CAST
 http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
 
 
@@ -67,7 +68,7 @@ http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
 #EXTINF:-1,fatafeat
 http://212.179.77.42/live/livestream3/gmswf.m3u8
 
-#EXTINF:-1,Food network
+#EXTINF:-1, tvg-logo="Foodnetwork.png",Food network
 http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
 
 #EXTINF:-1,wesal
@@ -266,10 +267,10 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_828.m3u8?v=1
 
 
 
-#EXTINF:-1, Travel Channel (UK)
+#EXTINF:-1, tvg-logo="travelchannel.png",Travel Channel
 http://llnw.live.simplestream.com/coder6/coder.channels.channel12/hls/3/playlist.m3u8
 
-#EXTINF:-1, Travel Channel +1 (UK)
+#EXTINF:-1, tvg-logo="Travelchannel.png",Travel Channel
 http://llnw.live.simplestream.com/coder6/coder.channels.channel14/hls/3/playlist.m3u8
 
 #EXTINF:-1 ,TRT Arabic 
@@ -278,16 +279,16 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:-1,Russia Alyaum 
 http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
 
-#EXTINF:0, Aljazeera
+#EXTINF:-1, tvg-logo="Aljazeera.png",Aljazeera
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
 
 #EXTINF:-1,Al hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
-#EXTINF:-1,BBC
+#EXTINF:-1, tvg-logo="BBC.png",BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
-#EXTINF:-1,BBC
+#EXTINF:-1, tvg-logo="BBC1.png",BBC
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 
 #EXTINF:-1, arabya alhadath
@@ -313,10 +314,11 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 
-#EXTINF:-1, National Geographic
+#EXTINF:-1, tvg-logo="nationalgeographic",National Geographic
 rtmp://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream
 
-#EXTINF:-1, National Geographic
+
+#EXTINF:-1, tvg-logo="nationalgeographic",National Geographic
 rtmp://162.212.176.107/national_geo_ad//globaltv-national_geo_ad.stream
 
 
@@ -352,21 +354,21 @@ rtmp://AgendaStreamerx1.qna.org.qa/qtv/qtv
 
 
 
-#EXTINF:-1, FOX
+#EXTINF:-1, tvg-logo="FOX.png",FOX
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
 
-#EXTINF:-1,discovery science HD 
+#EXTINF:-1, tvg-logo="discoveryscience.png",discovery science
 http://185.27.237.105:8082/TV0090
 
  
-#EXTINF:-1, FOX
+#EXTINF:-1, tvg-logo="FOX.png",FOX
 http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?
 
 #EXTINF:-1, UNIVERSAL HD
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
  
 
-#EXTINF:-1, FX
+#EXTINF:-1, tvg-logo="FX.png",FX
 http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
  
 #EXTINF:-1, FX HD
