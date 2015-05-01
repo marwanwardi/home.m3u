@@ -6,14 +6,12 @@ rtmp://167.114.101.234/live?idu=lola123_77021940960//mbc_1
 #EXTINF:-1,mbc 1
 http://185.56.30.123:8082/TV7000
 
-#EXTINF:-1,CBC
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-ISJQ0_4PKAo
+#EXTINF:-1,CBC1
+plugin://plugin.video.youtube/?action=play_video&videoid=ISJQ0_4PKAo
 
 #EXTINF:-1,CBC EXTRA
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-https://www.youtube.com/watch?v=24FTGjO3ck0
-
+ISJQ0_4PKAo
 #EXTINF:-1,CBC DRAMA
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 https://www.youtube.com/watch?v=KT242UieqEI
