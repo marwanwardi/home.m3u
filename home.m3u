@@ -376,8 +376,11 @@ http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
 http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h
 
 #EXTINF:-1, CIVILIZATION 
-http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8? 
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
 
 #EXTINF:-1, DISCOVERY 
-http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8? 
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
 
+#EXTINF:-1, husham video
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+https://www.youtube.com/watch?v=8TuQ7pE99yk
