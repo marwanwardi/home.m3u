@@ -1,10 +1,16 @@
  #EXTM3U
 
+
+#EXTINF:-1,mbc 1
+rtmp://str1.ddns.me/iptv/ch30?code=090271059211803
+
 #EXTINF:-1,MBC 1
 rtmp://167.114.101.234/live?idu=lola123_77021940960//mbc_1
 
 #EXTINF:-1,mbc 1
 http://185.56.30.123:8082/TV7000
+
+
 
 #EXTINF:-1,Alnahar drama
 http://50.7.180.18:1935/elnahar_tv/nahar_dramaprofile2.stream/chunklist_w1394795490.m3u8?v=3315732402
