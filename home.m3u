@@ -1,6 +1,6 @@
  #EXTM3U
 
-#EXTINF:-1, tvg-logo="MBC1.png",MBC 1
+#EXTINF:-1,MBC 1
 rtmp://167.114.101.234/live?idu=lola123_77021940960//mbc_1
 
 #EXTINF:-1,mbc 1
@@ -20,7 +20,7 @@ http://185.56.30.123:8082/TV7002
 
 
 
-#EXTINF:-1, tvg-logo="cartoonnetwork.png", Cartoon Network
+#EXTINF:-1,Cartoon Network
 http://edge.ailetv.net/org5/cartoonnetwork_me/playlist.m3u8
 
 #EXTINF:-1, Baraem 
@@ -39,13 +39,13 @@ rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
 #EXTINF:-1,el jazeera kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="cartoonnetwork.png", Cartoon Network
+#EXTINF:-1,Cartoon Network
 http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
 
-#EXTINF:-1, tvg-logo="Boomerang.png", Boomerang
+#EXTINF:-1,Boomerang
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 
-#EXTINF:-1, tvg-logo="Boomerang.png", Boomerang
+#EXTINF:-1,Boomerang
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8
 
 #EXTINF:-1, tvg-logo="NICK jR.png", NICK JR
@@ -375,3 +375,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 #EXTINF:-1, husham video
 plugin://plugin.video.youtube/?action=play_video&videoid=8TuQ7pE99yk
+
+#EXTINF:-1, cbc
+plugin://plugin.video.youtube/?action=play_video&videoid=ISJQ0_4PKAo
