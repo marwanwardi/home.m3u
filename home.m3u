@@ -164,7 +164,7 @@ rtmp://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream
 rtmp://162.212.176.107/rotana_cinema?v=1269302204/globaltv-rotana_cinema.stream
 
 #EXTINF:0,Rotana Cinema
-http://198.179.30.110/live/2615.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe42ec10f370a6d2f91e75f8f494129a586f8807b1ce7c35bd73aecadf60fa5cc93192a25064dd593b5ca110bb7a329f0d5d9bb90aa890fdb186a4b8844506a4f5cf052f93ed3950043cb0f8502f56eaf6aacc26ec0dda9fb60566f3bb439620fdb979b85eda8c42777d7235c7972150e2402250896b3b636d417287f589585dabb2ac56c38ecd96a150196192a59fb5d2&1269302204
+http://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream/HasBahCa.m3u8
 
 #EXTINF:-1, cairo drama
 rtmp://162.212.176.107:1935/cairo_drama/globaltv-cairo_drama.stream
