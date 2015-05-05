@@ -40,16 +40,13 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 #EXTINF:-1,Cartoon Network
 http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
 
-#EXTINF:-1, CN 
-http://78.30.254.43:8989/udp/239.0.0.46:4000
-
 #EXTINF:-1, Nickelodeon EN
 http://78.30.254.43:8989/udp/239.0.0.86:4000
 
 #EXTINF:-1, Nickelodeon HD EN
 http://78.30.254.43:8989/udp/239.0.0.128:4000
 
-#EXTINF:-1,Boomerang
+
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 
 #EXTINF:-1,Boomerang
@@ -72,15 +69,15 @@ http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
 
 
-#EXTINF:-1,                                                  
+#EXTINF:-1,                  
+                                                 
 #EXTINF:-1,fatafeat
 http://212.179.77.42/live/livestream3/gmswf.m3u8
 
-#EXTINF:-1, tvg-logo="Foodnetwork.png",Food network
-http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
 
 
-#EXTINF:-1,                                                  
+#EXTINF:-1,                       
+                                
 #EXTINF:-1,wesal
 rtmp://109.123.123.82/wesal/wesal1
 
@@ -271,15 +268,20 @@ http://5.189.144.85:1935/live/cnn/playlist.m3u8?auth=test
 
 #EXTINF:-1,                                                    
 
-#EXTINF:-1, tvg-logo="travelchannel.png",Travel Channel
+#EXTINF:-1,Travel Channel
 http://llnw.live.simplestream.com/coder6/coder.channels.channel12/hls/3/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="Travelchannel.png",Travel Channel
+#EXTINF:-1,Travel Channel
 http://llnw.live.simplestream.com/coder6/coder.channels.channel14/hls/3/playlist.m3u8
 
+#EXTINF:-1,BBC America HD
+http://31.220.41.111:80/LiveEdge/BBCAmericaHD/chunklist_w1773661470_b1000000.m3u8?token=
 
 #EXTINF:-1,nat geo
 rtmp://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream
+
+#EXTINF:0,RT Documentary HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
 
 #EXTINF:0,RT Documentary HD
 http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
