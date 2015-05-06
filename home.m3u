@@ -107,45 +107,14 @@ rtmp://stream.joinvisions.net/dij//dij
 #EXTINF:0,Baghdad tv
 http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
 
-#EXTINF:-1,                                                  
-#EXTINF:-1, MBC 4
-http://63.237.48.8/ios/MBC_4/MBC_4.m3u8
-
-#EXTINF:-1,MBC 4
-http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-
-#EXTINF:-1,MBC 4
-http://63.237.48.3/ios/MBC_4/MBC_4.m3u8
-
-#EXTINF:-1,MBC BOLLYWOOD
-http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-
-#EXTINF:-1,mbc max
-rtmp://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream
-
-#EXTINF:-1,MBC MAX 
-http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-
-#EXTINF:-1,MBC MAX
-http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
-
-#EXTINF:-1, fox movies
-rtmp://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream
-
-#EXTINF:-1,MBC 2
-http://63.237.48.3/ios/MBC2/MBC2.m3u8
-
-#EXTINF:-1,MBC 2
-http://63.237.48.3/ios/MBC2/MBC2.m3u8
-
-#EXTINF:-1,MBC ACTION
-http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-
-#EXTINF:-1, Fox Action Movies HD
-http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h
-
 
 #EXTINF:-1,                                                  
+
+#EXTINF:0,Alnahar
+http://50.7.180.18:1935/elnahar_tv/nahar_tvprofile2.stream/chunklist_w1650922117.m3u8?v=3315732402
+
+#EXTINF:0,Alnahar alyom
+http://50.7.180.18:1935/elnahar_tv/nahar_youmprofile2.stream/chunklist_w1315655973.m3u8?v=3315732402
 
 #EXTINF:0,MBC Masr2
 rtmp://162.212.176.107/mbc_masr//globaltv-mbc_masr.stream
@@ -214,6 +183,44 @@ http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatant
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_828.m3u8?v=1268884471
 
 #EXTINF:-1,                                                  
+
+#EXTINF:-1, MBC 4
+http://63.237.48.8/ios/MBC_4/MBC_4.m3u8
+
+#EXTINF:-1,MBC 4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+
+#EXTINF:-1,MBC 4
+http://63.237.48.3/ios/MBC_4/MBC_4.m3u8
+
+#EXTINF:-1,MBC BOLLYWOOD
+http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+
+#EXTINF:-1,mbc max
+rtmp://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream
+
+#EXTINF:-1,MBC MAX 
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+
+#EXTINF:-1,MBC MAX
+http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
+
+#EXTINF:-1, fox movies
+rtmp://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream
+
+#EXTINF:-1,MBC 2
+http://63.237.48.3/ios/MBC2/MBC2.m3u8
+
+#EXTINF:-1,MBC 2
+http://63.237.48.3/ios/MBC2/MBC2.m3u8
+
+#EXTINF:-1,MBC ACTION
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+
+#EXTINF:-1, Fox Action Movies HD
+http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h
+
+#EXTINF:-1,                                              
 
 #EXTINF:-1,ROtana clip
 rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
