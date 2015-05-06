@@ -17,7 +17,8 @@ rtmp://162.212.176.107/mbc_masr//globaltv-mbc_masr.stream
 #EXTINF:-1,MBC MASR
 rtmp://162.212.176.107/mbc_masr?v=1269304399/globaltv-mbc_masr.stream
 
-#EXTINF:-1,                                                  
+#EXTINF:-1,           
+                                            
 #EXTINF:-1,mbc3
 http://91.109.20.227:8080/TV6031
 
@@ -26,6 +27,10 @@ http://185.56.30.123:8082/TV7002
 
 #EXTINF:-1,Cartoon Network
 http://edge.ailetv.net/org5/cartoonnetwork_me/playlist.m3u8
+
+#EXTINF:-1, Baraem Europe
+http://46.59.28.215:4949/bynumber/10
+
 
 #EXTINF:-1, Baraem 
 rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
@@ -41,12 +46,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
 #EXTINF:-1,Cartoon Network
 http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
-
-#EXTINF:-1, Nickelodeon EN
-http://78.30.254.43:8989/udp/239.0.0.86:4000
-
-#EXTINF:-1, Nickelodeon HD EN
-http://78.30.254.43:8989/udp/239.0.0.128:4000
 
 
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
@@ -67,7 +66,7 @@ http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 
  
-#EXTINF:-1, tvg-logo="tooncast.png",TOON CAST
+#EXTINF:-1,TOON CAST
 http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
 
 
@@ -217,16 +216,11 @@ http://63.237.48.3/ios/MBC2/MBC2.m3u8
 #EXTINF:-1,MBC ACTION
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
-#EXTINF:-1, Fox Action Movies HD
-http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h
 
 #EXTINF:-1,                                              
 
 #EXTINF:-1,ROtana clip
 rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
-
-#EXTINF:-1,ROTANA clip
-http://204.107.27.248/live/_definst_/2603.low.stream/chunklist_w1483538931.m3u8?id=0ad5aac39bb13fbeb5fa4e2429d2638b93f5c62d2a5240b4a432435c3603760492985d6128cad2b5c7b4bba5fddb7ecf84b54fb3e64970a41605a7f8b9d968f1f12d17dd0a0afaf2a3f958b8f1e54d234d3562422feff4be1a12af36e30907fe11d902055cd60955c3460f5732cb2201cc4d9be563792a4684cca3767fa7b9b210eee7425f6d7c2cc4dd39fd3f3b7d40cec78d456f83ca83
 
 #EXTINF:-1,ROTANA clip
 rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
@@ -237,7 +231,7 @@ rtmp://38.96.175.16/live/MarinaFM2
 #EXTINF:-1,AGHANI Tv
 http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 
-#EXTINF:-1,AGHANina 
+#EXTINF:-1, morocco
 rtmp://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream
 
 #EXTINF:-1,melody
@@ -271,26 +265,15 @@ http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 #EXTINF:-1, arabya alhadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 
-#EXTINF:1,cnn
-http://5.189.144.85:1935/live/cnn/playlist.m3u8?auth=test
+#EXTINF:-1, CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
 
 
 #EXTINF:-1,                                                    
 
-#EXTINF:-1,Travel Channel
-http://llnw.live.simplestream.com/coder6/coder.channels.channel12/hls/3/playlist.m3u8
-
-#EXTINF:-1,Travel Channel
-http://llnw.live.simplestream.com/coder6/coder.channels.channel14/hls/3/playlist.m3u8
-
-#EXTINF:-1,BBC America HD
-http://31.220.41.111:80/LiveEdge/BBCAmericaHD/chunklist_w1773661470_b1000000.m3u8?token=
 
 #EXTINF:-1,nat geo
 rtmp://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream
-
-#EXTINF:0,RT Documentary HD
-http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
 
 #EXTINF:0,RT Documentary HD
 http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
@@ -303,20 +286,7 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 
-#EXTINF:-1, tvg-logo="nationalgeographic",National Geographic
-rtmp://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream
-
-
-#EXTINF:-1, tvg-logo="nationalgeographic",National Geographic
-rtmp://162.212.176.107/national_geo_ad//globaltv-national_geo_ad.stream
-
-
-#EXTINF:-1,                                                    
-
-#EXTINF:-1,Funoon 
-http://fl1.viastreaming.net:1935/iqraatv/livestream/HasBahCa.m3u8
-
-#EXTINF:-1,Fox Movies
+#EXTINF:-1,QURAAN
 rtmp://208.75.224.165:1935/map-alquraan/mp4:map-alquraan.stream 
 
 #EXTINF:-1,Alwatan Plus 
@@ -332,17 +302,6 @@ http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 #EXTINF:-1,Qatar 
 rtmp://AgendaStreamerx1.qna.org.qa/qtv/qtv 
 
-
-#EXTINF:-1,                                                    
-#EXTINF:-1, tvg-logo="http://www.serienhai.de/wp-content/uploads/2014/03/fox-channel-logo.png",FOX
-http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
-
-#EXTINF:-1, tvg-logo="discoveryscience.png",discovery science
-http://185.27.237.105:8082/TV0090
-
- 
-#EXTINF:-1, tvg-logo="FOX.png",FOX
-http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?
 
 #EXTINF:-1, UNIVERSAL HD
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
@@ -363,122 +322,5 @@ http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
 #EXTINF:-1, FOX MOVIES HD
 http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
 
-#EXTINF:0, Fox Action Movies HD
-http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h
 
-#EXTINF:-1, CIVILIZATION 
-http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
-
-#EXTINF:-1, DISCOVERY 
-http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
-
-#EXTINF:-1, Baraem Europe
-http://46.59.28.215:4949/bynumber/10
-
-
-#EXTINF:-1, Gulli
-http://78.30.254.43:8989/udp/239.0.0.27:4000
-#EXTINF:-1, Discovery Channel EN
-http://78.30.254.43:8989/udp/239.0.0.29:4000
-#EXTINF:-1, Mezzo
-http://78.30.254.43:8989/udp/239.0.0.30:4000
-#EXTINF:-1, TLC EN
-http://78.30.254.43:8989/udp/239.0.0.32:4000
-
-#EXTINF:-1, Animal Planet EN
-http://78.30.254.43:8989/udp/239.0.0.34:4000
-#EXTINF:-1, Nat Geo EN
-http://78.30.254.43:8989/udp/239.0.0.35:4000
-#EXTINF:-1, RTG TV
-http://78.30.254.43:8989/udp/239.0.0.37:4000
-#EXTINF:-1, Vh1 Classic
-http://78.30.254.43:8989/udp/239.0.0.44:4000
-#EXTINF:-1, CN EN
-http://78.30.254.43:8989/udp/239.0.0.46:4000
-#EXTINF:-1, Discovery World EN
-http://78.30.254.43:8989/udp/239.0.0.47:4000
-#EXTINF:-1, Discovery Science EN
-http://78.30.254.43:8989/udp/239.0.0.48:4000
-
-#EXTINF:-1, Nickelodeon EN
-http://78.30.254.43:8989/udp/239.0.0.86:4000
-#EXTINF:-1, MGM EN
-http://78.30.254.43:8989/udp/239.0.0.89:4000
-#EXTINF:-1, CBS Reality EN
-http://78.30.254.43:8989/udp/239.0.0.91:4000
-#EXTINF:-1, M1
-http://78.30.254.43:8989/udp/239.0.0.103:4000
-#EXTINF:-1, MGM HD orig
-http://78.30.254.43:8989/udp/239.0.0.104:4000
-#EXTINF:-1, M2
-http://78.30.254.43:8989/udp/239.0.0.107:4000
-
-#EXTINF:-1, Discovery Showcase HD EN
-http://78.30.254.43:8989/udp/239.0.0.119:4000
-#EXTINF:-1, Mezzo HD
-http://78.30.254.43:8989/udp/239.0.0.124:4000
-#EXTINF:-1, Nickelodeon HD EN
-http://78.30.254.43:8989/udp/239.0.0.128:4000
-#EXTINF:-1, Animal Planet HD EN
-http://78.30.254.43:8989/udp/239.0.0.129:4000
-
-#EXTINF:-1, Musicbox
-http://78.30.254.43:8989/udp/239.0.0.135:4000
-#EXTINF:-1, ID
-http://78.30.254.43:8989/udp/239.0.0.136:4000
-#EXTINF:-1, CNN
-http://78.30.254.43:8989/udp/239.0.0.138:4000
-#EXTINF:-1, Fox EN
-http://78.30.254.43:8989/udp/239.0.0.141:4000
-#EXTINF:-1, MTV Rocks
-http://78.30.254.43:8989/udp/239.0.0.143:4000
-#EXTINF:-1, Fox Life EN
-http://78.30.254.43:8989/udp/239.0.0.144:4000
-
-#EXTINF:-1, Sony Entertainment Television EN
-http://78.30.254.43:8989/udp/239.0.0.148:4000
-#EXTINF:-1, TV1000 Action EN
-http://78.30.254.43:8989/udp/239.0.0.152:4000
-#EXTINF:-1, TV1000 EN
-http://78.30.254.43:8989/udp/239.0.0.153:4000
-#EXTINF:-1, Viasat Nature EN
-http://78.30.254.43:8989/udp/239.0.0.154:4000
-#EXTINF:-1, Viasat Explorer EN
-http://78.30.254.43:8989/udp/239.0.0.155:4000
-#EXTINF:-1, CBS Drama RU
-http://78.30.254.43:8989/udp/239.0.0.157:4000
-#EXTINF:-1, Euronews
-http://78.30.254.43:8989/udp/239.0.0.159:4000
-#EXTINF:-1, Nat Geo HD EN
-http://78.30.254.43:8989/udp/239.0.0.168:4000
-
-#EXTINF:-1, RU TV
-http://78.30.254.43:8989/udp/239.0.0.173:4000
-#EXTINF:-1, Tiji RU
-http://78.30.254.43:8989/udp/239.0.0.174:4000
-#EXTINF:-1, Viasat Sport
-http://78.30.254.43:8989/udp/239.0.0.179:4000
-#EXTINF:-1, World Fashion
-http://78.30.254.43:8989/udp/239.0.0.183:4000
-#EXTINF:-1, Euronews multi
-http://78.30.254.43:8989/udp/239.0.0.185:4000
-
-#EXTINF:-1, MTV HD
-http://78.30.254.43:8989/udp/239.0.0.196:4000
-#EXTINF:-1, Viasat History EN
-http://78.30.254.43:8989/udp/239.0.0.197:4000
-#EXTINF:-1, MTV Hits
-http://78.30.254.43:8989/udp/239.0.0.205:4000
-#EXTINF:-1, Muzika
-http://78.30.254.43:8989/udp/239.0.0.207:4000
-#EXTINF:-1, Travel Channel EN
-http://78.30.254.43:8989/udp/239.0.0.214:4000
-
-
-#EXTINF:-1, History Channel HD EN
-http://78.30.254.43:8989/udp/239.0.0.246:5000
-#EXTINF:-1, TLC HD EN
-http://78.30.254.43:8989/udp/239.0.0.247:5000
-#EXTINF:-1, Travel Channel HD
-http://78.30.254.43:8989/udp/239.0.0.248:5000
 
