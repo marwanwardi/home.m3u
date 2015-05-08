@@ -105,6 +105,9 @@ http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
 
 #EXTINF:-1,                                                  
 
+#EXTINF:-1, dream 1 
+rtmp://162.212.176.107:1935/dream_1/globaltv-dream_1.stream
+
 #EXTINF:0,Alnahar
 http://50.7.180.18:1935/elnahar_tv/nahar_tvprofile2.stream/chunklist_w1650922117.m3u8?v=3315732402
 
