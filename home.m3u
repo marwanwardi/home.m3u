@@ -323,5 +323,13 @@ http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
 #EXTINF:-1, FOX MOVIES HD
 http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
 
+rtmp://www.arabic-toons.com/animetv/baraem?code=w_803ed228d428c5a
+
+rtmp://$OPT:rtmp-raw=rtmp://www.arabic-toons.com/animetv playpath=cartoonnetwork?code=abcdefgh swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf live=1 pageUrl=http://www.arabic-toons.com/
+
+rtmp://web.iptv-planet.com:1937/live2/cbc
+
+
+
 
 
