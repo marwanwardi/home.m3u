@@ -48,6 +48,10 @@ rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
 #EXTINF:-1,el jazeera kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
+
+#EXTINF:-1,toyour ljana
+rtmp://web.iptv-planet.com:1937/live2 playpath=toyouraljanna swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=toyouraljanna&width=600&height=400
+
 #EXTINF:-1,Cartoon Network
 http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
 
