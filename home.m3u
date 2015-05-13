@@ -115,6 +115,9 @@ rtmp://stream.joinvisions.net/dij//dij
 http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
 
 
+#EXTINF:0,SD Alsharq
+http://hls1.livestreamingcdn.com/livecdn753/1myStream.sdp/chunklist_w231892443.m3u8
+
 #EXTINF:-1,                                                  
 
 #EXTINF:-1, dream 1 
