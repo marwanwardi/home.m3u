@@ -1,11 +1,8 @@
  #EXTM3U
 
 
-#EXTINF:-1,mbc 1
-rtmp://167.114.101.234/live/mbc_1
-
 #EXTINF:-1,MBC 1
-http://yoolive.com/hls-shift/mbc_1.m3u8?st=OGcpvzdO62Hz91TxhlsAsg&e=1431620296
+http://yoolive.com/hls-shift/mbc_1.m3u8?st=eKcA9a8649VQ-Fx5A2-oyg&e=1431630683
 
 
 #EXTINF:-1,CBC
