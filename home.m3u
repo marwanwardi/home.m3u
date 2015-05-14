@@ -2,10 +2,10 @@
 
 
 #EXTINF:-1,mbc 1
-rtmp://str1.ddns.me/iptv/ch30?code=090271059211803
+rtmp://167.114.101.234/live/mbc_1
 
 #EXTINF:-1,MBC 1
-rtmp://167.114.101.234/live?idu=lola123_77021940960//mbc_1
+http://yoolive.com/hls-shift/mbc_1.m3u8?st=OGcpvzdO62Hz91TxhlsAsg&e=1431620296
 
 
 #EXTINF:-1,CBC
