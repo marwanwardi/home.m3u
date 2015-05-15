@@ -1,8 +1,9 @@
- #EXTM3U
+﻿ #EXTM3U
 
 
 #EXTINF:-1,MBC 1
-http://yoolive.com/hls-shift/mbc_1.m3u8?st=eKcA9a8649VQ-Fx5A2-oyg&e=1431630683
+
+http://yoolive.com/hls-shift/mbc_1.m3u8?st=icMun9_aGgQkL1Pt1tUjUg&e=1431730015
 
 
 #EXTINF:-1,CBC
@@ -19,8 +20,11 @@ rtmp://162.212.176.107/mbc_masr?v=1269304399/globaltv-mbc_masr.stream
 
 #EXTINF:-1,         
                     
-#EXTINF:-1,Cartoon Network
-http://edge.ailetv.net/org5/cartoonnetwork_me/playlist.m3u8
+
+#EXTVLCOPT:audio-track=1
+#EXTINF:-1, Cartoon (RU/EN Audio)
+http://hls.svc.moyo.tv/hls/CH_CARTOON/variant.m3u8?version=2
+
 
 
 #EXTINF:-1,MBC 3
@@ -134,6 +138,8 @@ rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream
 
 #EXTINF:-1,cairo cinema
 rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream
+
+http://204.107.27.248/live/_definst_/2615.low.stream/chunklist_w1952372033.m3u8?id=0ad5aac39bb13fbe18eb21affeca5396de4f79c0b4cd0a47006e67a53684f5f189d6ed52e5da9145020e0ffd98a98d0947cfc567a66c090d7f31f6b676ca51338aa85351ee29115516c64639e38a90a566a25e8017e94757df7198a55d631f9a2c106fdf08ae72bcb5f89c054accf051ffca0e6b9ea4473f556d4bc021c9a610f477656a4c3d39e0e208d2f21c5f9e6ea6d06254b5c6bc9e
 
 #EXTINF:0,Rotana Cinema
 http://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream/HasBahCa.m3u8
