@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1,[COLOR yellow]»»---------- Cartoon ----------««[/COLOR]
-http://0.0.0.0:1234
+rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
 
 #EXTINF:-1, Tom and Jerry
 rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
@@ -29,12 +29,13 @@ rtmp://162.212.176.107/ajyal?v=1269304399/globaltv-ajyal.stream
 #EXTINF:-1, Baraem 
 rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
 
-#EXTINF:-1, Baraem 
-rtmp://AgendaStreamer2.qna.org.qa/brm/brm
 
 #EXTINF:-1, Jeem Kids
 rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
  
+#EXTINF:-1, Baraem 
+rtmp://AgendaStreamer2.qna.org.qa/brm/brm
+
 #EXTINF:-1,el jazeera kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
@@ -70,7 +71,7 @@ http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
 
 
 #EXTINF:-1,[COLOR yellow]»»------- Food --------««[/COLOR]
-http://0.0.0.0:1234
+rtmp://live-f01.vustream.net/live/livestream3
                  
 #EXTINF:-1,fatafeat
 rtmp://live-f01.vustream.net/live/livestream3
@@ -78,7 +79,7 @@ rtmp://live-f01.vustream.net/live/livestream3
 
 
 #EXTINF:-1,[COLOR yellow]»»------ Iraqi ---------««[/COLOR]
-http://0.0.0.0:1234                  
+rtmp://109.123.123.82/wesal/wesal1           
                          
        
 #EXTINF:-1,wesal
@@ -114,7 +115,7 @@ http://hls1.livestreamingcdn.com/livecdn753/1myStream.sdp/chunklist_w231892443.m
 
 
 #EXTINF:-1,[COLOR yellow]»»---- Drama & Comedy------««[/COLOR]
-http://0.0.0.0:1234
+rtmp://162.212.176.107/mbc_masr//globaltv-mbc_masr.stream
 
 #EXTINF:-1,MBC 1
 
@@ -173,7 +174,7 @@ http://162.212.176.107:1935/moga_comedy/globaltv-moga_comedy.stream/chunklist_w1
 
 
 #EXTINF:-1,[COLOR yellow]»»--------- Movies--------««[/COLOR]
-http://0.0.0.0:1234
+rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream
 
 #EXTINF:-1,cairo cinema
 rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream
@@ -189,7 +190,7 @@ http://198.179.30.110/live/2615.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5064
 
 
 #EXTINF:-1,[COLOR yellow]»»------ Other Channels------««[/COLOR]
-http://0.0.0.0:1234
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w1042183914_b1200000.m3u8
 
 #EXTINF:-1, Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w1042183914_b1200000.m3u8
@@ -230,7 +231,7 @@ http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatant
 
 
 #EXTINF:-1,[COLOR yellow]»»-------MBC Group------««[/COLOR]
-http://0.0.0.0:1234                             
+http://63.237.48.8/ios/MBC_4/MBC_4.m3u8                    
 
 #EXTINF:-1, MBC 4
 http://63.237.48.8/ios/MBC_4/MBC_4.m3u8
@@ -270,7 +271,7 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
 
 #EXTINF:-1,[COLOR yellow]»»------MUSIC-----««[/COLOR]
-http://0.0.0.0:1234              
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8         
 
 
 #EXTINF:-1,ROtana clip
@@ -293,7 +294,7 @@ rtmp://162.212.176.107:1935/melody/globaltv-melody.stream
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanghanawihigh.m3u8
 
 #EXTINF:-1,[COLOR yellow]»»-----News & Documentry-----««[/COLOR]
-http://0.0.0.0:1234      
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 
 
 #EXTINF:-1 ,TRT Arabic 
@@ -338,7 +339,7 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 
 
 #EXTINF:-1,[COLOR yellow]»»-----English channels-----««[/COLOR]
-http://0.0.0.0:1234      
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 
 #EXTINF:-1, UNIVERSAL HD
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
