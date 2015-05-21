@@ -18,9 +18,8 @@ http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
 #EXTINF:-1, DISNEY JR
 http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
 
-#EXTINF:-1,MBC 3
-rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc3 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc3&width=600&height=400
-
+#EXTINF:-1, MBC 3
+http://46.101.9.226/60/ch1247/index.m3u8
 
 #EXTINF:-1, Baraem Europe
 http://46.59.28.215:4949/bynumber/10
