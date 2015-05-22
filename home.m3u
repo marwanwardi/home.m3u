@@ -8,7 +8,7 @@ rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br
 #EXTINF:-1, CARTOON NETWEORK ARABIC
 http://46.101.9.226/60/ch1335/index.m3u8
 
-#EXTINF:-1: TRT Çocuk
+#EXTINF:-1,TRT Çocuk
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 
 #EXTINF:-1, Tom and Jerry
@@ -118,6 +118,8 @@ rtmp://stream.joinvisions.net/dij//dij
 #EXTINF:0,Baghdad tv
 http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
 
+#EXTINF:0,Hona Baghdad
+rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
 
 #EXTINF:0,SD Alsharq
 http://hls1.livestreamingcdn.com/livecdn753/1myStream.sdp/chunklist_w231892443.m3u8
@@ -381,4 +383,7 @@ http://38.99.146.36:7777/Baraem_HD.m3u8?user=39636&session=8f7f64b0a754495e937b0
 #EXTINF:-1, FATAFEAT
 rtmp://live-f01.vustream.net/live// playpath=livestream3 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdtoptv.com/alive/abox_arabic.php live=true
 
+rtmp://www.arabic-toons.com/animetv/cartoonnetwork?code=w_dfd6acdc25e38d0
 
+#EXTINF:-1, Baraem
+rtmp://www.arabic-toons.com/animetv/baraem?code=w_dfd6acdc25e38d0
