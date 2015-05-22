@@ -374,6 +374,8 @@ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
 #EXTINF:-1,[COLOR yellow]»»------TEST----««[/COLOR]
 http://0.0.0.0:1234      
 
+#EXTINF:-1,Baraem
+http://38.99.146.36:7777/Baraem_HD.m3u8?user=39636&session=8f7f64b0a754495e937b09ff0ae83ba61aa32961319d152e03bf2988e79c07d1a299017ce29bf1aa&hlsid=HLS_297753
 
 
 
