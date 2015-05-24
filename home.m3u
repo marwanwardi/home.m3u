@@ -375,15 +375,73 @@ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
 
 #EXTINF:-1,[COLOR yellow]»»------TEST----««[/COLOR]
 http://0.0.0.0:1234      
+#EXTINF:0,CN
+http://46.234.113.121:1935/live/cn/playlist.m3u8?t=xwqRhn5dC
+#EXTINF:-1, MBC 1
+http://46.101.9.226/60/ch1244/index.m3u8
+#EXTINF:-1, MBC 4
+http://46.101.9.226/60/ch1245/index.m3u8
 
-#EXTINF:-1,Baraem
-http://38.99.146.36:7777/Baraem_HD.m3u8?user=39636&session=8f7f64b0a754495e937b09ff0ae83ba61aa32961319d152e03bf2988e79c07d1a299017ce29bf1aa&hlsid=HLS_297753
+#EXTINF:-1, MBC 2
+http://46.101.9.226/60/ch1246/index.m3u8
+#EXTINF:-1, MBC 3
+http://46.101.9.226/60/ch1247/index.m3u8
+#EXTINF:-1, MBC DRAMA
+http://46.101.9.226/60/ch1248/index.m3u8
+
+#EXTINF:-1, MBC ACTION
+http://46.101.9.226/60/ch1252/index.m3u8
+
+#EXTINF:-1, MBC MAX
+http://46.101.9.226/60/ch1254/index.m3u8
+
+#EXTINF:-1, AL JADEED
+http://46.101.9.226/60/ch1285/index.m3u8
+#EXTINF:-1, OTV
+http://46.101.9.226/60/ch1048/index.m3u8
+#EXTINF:-1, LBC
+http://46.101.9.226/60/ch1020/index.m3u8
+
+#EXTINF:-1, FUTURE  TV
+http://46.101.9.226/60/ch1014/index.m3u8
+
+#EXTINF:-1, MTV LEBANON
+http://46.101.9.226/60/ch1287/index.m3u8
 
 
-#EXTINF:-1, FATAFEAT
-rtmp://live-f01.vustream.net/live// playpath=livestream3 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdtoptv.com/alive/abox_arabic.php live=true
+#EXTINF:-1, ABU DHABI NAT EGO
+http://46.101.9.226/60/ch1314/index.m3u8
 
-rtmp://www.arabic-toons.com/animetv/cartoonnetwork?code=w_dfd6acdc25e38d0
+#EXTINF:-1,MBC MISR
+http://46.101.9.226/60/ch1268/index.m3u8
+#EXTINF:-1,MBC MISR 2
+http://46.101.9.226/60/ch1214/index.m3u8
 
-#EXTINF:-1, Baraem
-rtmp://www.arabic-toons.com/animetv/baraem?code=w_dfd6acdc25e38d0
+#EXTINF:-1, ROTANA CINEMA
+http://46.101.9.226/60/ch1143/index.m3u8
+
+#EXTINF:-1, ROTANA MUSICA
+http://46.101.9.226/60/ch1137/index.m3u8
+
+#EXTINF:-1, ROTANA CLIP
+http://46.101.9.226/60/ch1138/index.m3u8
+#EXTINF:-1, PANORAMA CINEMA
+http://46.101.9.226/60/ch1094/index.m3u8
+#EXTINF:-1, PANORAMA  FILM
+http://46.101.9.226/60/ch1121/index.m3u8
+
+#EXTINF:-1, PANORAMA
+http://46.101.9.226/60/ch1092/index.m3u8
+#EXTINF:-1, PANORAMA FOOD
+http://46.101.9.226/60/ch1318/index.m3u8
+#EXTINF:-1, PANORAMA DRAMA 2
+http://46.101.9.226/60/ch1319/index.m3u8
+
+#EXTINF:-1, CAIRO CINEMA
+http://46.101.9.226/60/ch1023/index.m3u8
+#EXTINF:-1, MOGA CINEMA
+http://46.101.9.226/60/ch1096/index.m3u8
+#EXTINF:-1, MOGA COMEDY
+http://46.101.9.226/60/ch1331/index.m3u8
+
+
