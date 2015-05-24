@@ -240,7 +240,13 @@ http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatant
 
 
 #EXTINF:-1,[COLOR yellow]»»-------MBC Group------««[/COLOR]
-http://63.237.48.8/ios/MBC_4/MBC_4.m3u8                    
+http://63.237.48.8/ios/MBC_4/MBC_4.m3u8
+
+#EXTINF:-1,MBC MISR
+http://46.101.9.226/60/ch1268/index.m3u8
+
+#EXTINF:-1,MBC MISR 2
+http://46.101.9.226/60/ch1214/index.m3u8
 
 #EXTINF:-1, MBC 4
 http://63.237.48.8/ios/MBC_4/MBC_4.m3u8
