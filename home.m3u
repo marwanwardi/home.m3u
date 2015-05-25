@@ -11,7 +11,7 @@ http://46.101.9.226/60/ch1244/index.m3u8
 rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
 
 
-#EXTINF:-1, CARTOON NETWEORK ARABIC
+#EXTINF:-1,CARTOON NETWEORK ARABIA
 http://46.101.9.226/60/ch1335/index.m3u8
 
 #EXTINF:-1,TRT Çocuk
@@ -88,7 +88,7 @@ rtmp://live-f01.vustream.net/live/livestream3
 #EXTINF:-1,fatafeat
 rtmp://live-f01.vustream.net/live/livestream3
 
-#EXTINF:-1, PANORAMA FOOD
+#EXTINF:-0,PANORAMA FOOD
 http://46.101.9.226/60/ch1318/index.m3u8
 
 
