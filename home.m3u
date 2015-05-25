@@ -1,7 +1,10 @@
-﻿#EXTM3U
+#EXTM3U
+
 #EXTINF:-1,[COLOR red]اكو قنوات جديدة بالاخير[/COLOR]
 http://0.0.0.0:1234
+
 #EXTINF:-1,[COLOR red]*******MBC1******[/COLOR]
+
 http://46.101.9.226/60/ch1244/index.m3u8
 
 #EXTINF:-1,[COLOR yellow]»»---------- Cartoon ----------««[/COLOR]
