@@ -27,7 +27,7 @@ http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
 #EXTINF:-1, DISNEY JR
 http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
 
-#EXTINF:-1, MBC 3
+#EXTINF:-1,MBC3 *
 http://46.101.9.226/60/ch1247/index.m3u8
 
 #EXTINF:-1, Baraem Europe
@@ -39,7 +39,6 @@ rtmp://162.212.176.107/ajyal?v=1269304399/globaltv-ajyal.stream
 #EXTINF:-1, Baraem 
 rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
 
-
 #EXTINF:-1, Jeem Kids
 rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
  
@@ -49,13 +48,11 @@ rtmp://AgendaStreamer2.qna.org.qa/brm/brm
 #EXTINF:-1,el jazeera kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
-
 #EXTINF:-1,toyour ljana
 rtmp://web.iptv-planet.com:1937/live2 playpath=toyouraljanna swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=toyouraljanna&width=600&height=400
 
 #EXTINF:-1,Cartoon Network
 http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
-
 
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 
@@ -74,10 +71,8 @@ http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
 #EXTINF:-1, Boomerang
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 
- 
 #EXTINF:-1,TOON CAST
 http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
-
 
 
 #EXTINF:-1,[COLOR yellow]»»------- Food --------««[/COLOR]
@@ -86,7 +81,7 @@ rtmp://live-f01.vustream.net/live/livestream3
 #EXTINF:-1,fatafeat
 rtmp://live-f01.vustream.net/live/livestream3
 
-#EXTINF:-0,PANORAMA FOOD
+#EXTINF:-0,PANORAMA FOOD*
 http://46.101.9.226/60/ch1318/index.m3u8
 
 
@@ -226,13 +221,11 @@ http://46.101.9.226/60/ch1014/index.m3u8
 #EXTINF:-1, MTV LEBANON
 http://46.101.9.226/60/ch1287/index.m3u8
 
-
 #EXTINF:-1,LBC
  rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream
 
 #EXTINF:-1,abu dhabi tv
 rtmp://162.212.176.107:1935/abu_dhabi/globaltv-abu_dhabi.stream
-
 
 #EXTINF:0,watan tv
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvhigh.m3u8
@@ -242,7 +235,6 @@ http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatant
 
 #EXTINF:0,ALaan
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_828.m3u8?v=1268884471
-
 
 #EXTINF:-1, morocco
 rtmp://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream
@@ -284,7 +276,7 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1,MBC MAX
 http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
 
-#EXTINF:-1, fox movies
+#EXTINF:-1, Fox    movies
 rtmp://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream
 
 #EXTINF:-1,MBC 2
@@ -366,8 +358,6 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 
 
 
-
-
 #EXTINF:-1,[COLOR yellow]»»-----English channels-----««[/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 
@@ -398,57 +388,58 @@ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
 http://0.0.0.0:1234      
 #EXTINF:0,CN
 http://46.234.113.121:1935/live/cn/playlist.m3u8?t=xwqRhn5dC
-#EXTINF:-1, MBC 1
+#EXTINF:-1, MBC 1***
 http://46.101.9.226/60/ch1244/index.m3u8
-#EXTINF:-1, MBC 4
+#EXTINF:-1, MBC 4***
 http://46.101.9.226/60/ch1245/index.m3u8
 
-#EXTINF:-1, MBC 2
+#EXTINF:-1, MBC 2***
 http://46.101.9.226/60/ch1246/index.m3u8
-#EXTINF:-1, MBC 3
+#EXTINF:-1, MBC 3***
 http://46.101.9.226/60/ch1247/index.m3u8
-#EXTINF:-1, MBC DRAMA
+#EXTINF:-1, MBC DRAMA***
 http://46.101.9.226/60/ch1248/index.m3u8
 
-#EXTINF:-1, MBC ACTION
+#EXTINF:-1, MBC ACTION***
 http://46.101.9.226/60/ch1252/index.m3u8
 
-#EXTINF:-1, MBC MAX
+#EXTINF:-1, MBC MAX***
 http://46.101.9.226/60/ch1254/index.m3u8
 
-#EXTINF:-1, AL JADEED
+#EXTINF:-1, AL JADEED***
 http://46.101.9.226/60/ch1285/index.m3u8
-#EXTINF:-1, OTV
+#EXTINF:-1, OTV***
 http://46.101.9.226/60/ch1048/index.m3u8
-#EXTINF:-1, LBC
+#EXTINF:-1, LBC***
 http://46.101.9.226/60/ch1020/index.m3u8
 
-#EXTINF:-1, FUTURE  TV
+#EXTINF:-1, FUTURE  TV***
 http://46.101.9.226/60/ch1014/index.m3u8
 
-#EXTINF:-1, MTV LEBANON
+#EXTINF:-1, MTV LEBANON***
 http://46.101.9.226/60/ch1287/index.m3u8
 
 
 #EXTINF:-1, ABU DHABI NAT EGO
 http://46.101.9.226/60/ch1314/index.m3u8
 
-#EXTINF:-1,MBC MISR
+#EXTINF:-1,MBC MISR***
 http://46.101.9.226/60/ch1268/index.m3u8
-#EXTINF:-1,MBC MISR 2
+
+#EXTINF:-1,MBC MISR 2***
 http://46.101.9.226/60/ch1214/index.m3u8
 
-#EXTINF:-1, ROTANA CINEMA
+#EXTINF:-1, ROTANA CINEMA***
 http://46.101.9.226/60/ch1143/index.m3u8
 
-#EXTINF:-1, ROTANA MUSICA
+#EXTINF:-1, ROTANA MUSICA***
 http://46.101.9.226/60/ch1137/index.m3u8
 
-#EXTINF:-1, ROTANA CLIP
+#EXTINF:-1, ROTANA CLIP***
 http://46.101.9.226/60/ch1138/index.m3u8
-#EXTINF:-1, PANORAMA CINEMA
+#EXTINF:-1, PANORAMA CINEMA***
 http://46.101.9.226/60/ch1094/index.m3u8
-#EXTINF:-1, PANORAMA  FILM
+#EXTINF:-1, PANORAMA  FILM***
 http://46.101.9.226/60/ch1121/index.m3u8
 
 #EXTINF:-1, PANORAMA
@@ -474,26 +465,10 @@ http://46.101.9.226/60/ch1191/index.m3u8
 http://46.101.9.226/60/ch1038/index.m3u8
 #EXTINF:-1, TIME TAXI
 http://46.101.9.226/60/ch1041/index.m3u8
-#EXTINF:-1, SYRIA
-http://46.101.9.226/60/ch1207/index.m3u8
-#EXTINF:-1, SYRIA DRAMA
-http://46.101.9.226/60/ch1061/index.m3u8
-#EXTINF:-1, AL DUNYA
-http://46.101.9.226/60/ch1076/index.m3u8
-#EXTINF:-1, TUNISIA 2
-http://46.101.9.226/60/ch1024/index.m3u8
-#EXTINF:-1, TUNISIA 1
-http://46.101.9.226/60/ch1025/index.m3u8
+
 #EXTINF:-1, TRT ALARABEYA
 http://46.101.9.226/60/ch1059/index.m3u8
-#EXTINF:-1, QATAR
-http://46.101.9.226/60/ch1083/index.m3u8
-#EXTINF:-1, AL RAFIDEEN
-http://46.101.9.226/60/ch1086/index.m3u8
-#EXTINF:-1, AL ANWAR
-http://46.101.9.226/60/ch1055/index.m3u8
-#EXTINF:-1, AHL EL BEIT
-http://46.101.9.226/60/ch1051/index.m3u8
+
 #EXTINF:-1, NOUR AL SHABAB
 http://46.101.9.226/60/ch1037/index.m3u8
 #EXTINF:-1, AL ASER
@@ -514,8 +489,7 @@ http://46.101.9.226/60/ch1132/index.m3u8
 http://46.101.9.226/60/ch1016/index.m3u8
 #EXTINF:-1, SAFA
 http://46.101.9.226/60/ch1012/index.m3u8
-#EXTINF:-1, AL KAAS 6
-http://46.101.9.226/60/ch1017/index.m3u8
+
 #EXTINF:-1, AL QITHARA
 http://46.101.9.226/60/ch1021/index.m3u8
 #EXTINF:-1, ONE TV
@@ -524,12 +498,8 @@ http://46.101.9.226/60/ch1106/index.m3u8
 http://46.101.9.226/60/ch1108/index.m3u8
 #EXTINF:-1, TIME DRAMA
 http://46.101.9.226/60/ch1114/index.m3u8
-#EXTINF:-1, AMJAD
-http://46.101.9.226/60/ch1115/index.m3u8
-#EXTINF:-1, AL FAYHAA
-http://46.101.9.226/60/ch1120/index.m3u8
-#EXTINF:-1, FARAEEN
-http://46.101.9.226/60/ch1122/index.m3u8
+
+
 #EXTINF:-1, AL FALASTINEYA
 http://46.101.9.226/60/ch1123/index.m3u8
 #EXTINF:-1, AL QAHERA
@@ -555,14 +525,15 @@ http://46.101.9.226/60/ch1149/index.m3u8
 #EXTINF:-1, AL RISALAH
 http://46.101.9.226/60/ch1146/index.m3u8
 
-#EXTINF:-1, ALQUDS
-http://46.101.9.226/60/ch1152/index.m3u8
-#EXTINF:-1, ALMASAR AL OULA
-http://46.101.9.226/60/ch1154/index.m3u8
+
 #EXTINF:-1, AL DANA
 http://46.101.9.226/60/ch1158/index.m3u8
 #EXTINF:-1, ANB IRAQ
 http://46.101.9.226/60/ch1160/index.m3u8
+
+#EXTINF:-1,[COLOR yellow]»»-====- Cartoon ===------««[/COLOR]
+http://46.101.9.226/60/ch1150/index.m3u8
+
 #EXTINF:-1, TOYOR AL JANNA
 http://46.101.9.226/60/ch1150/index.m3u8
 #EXTINF:-1, KARAMISH KIDS
@@ -586,6 +557,12 @@ http://46.101.9.226/60/ch1350/index.m3u8
 http://46.101.9.226/60/ch1192/index.m3u8
 #EXTINF:-1, MODY KIDS
 http://46.101.9.226/60/ch1136/index.m3u8
+
+
+#EXTINF:-1,[COLOR yellow]»»-=================««[/COLOR]
+
+
+http://46.101.9.226/60/ch1150/index.m3u8
 #EXTINF:-1, AL BALAD
 http://46.101.9.226/60/ch1166/index.m3u8
 #EXTINF:-1, AL BALAD HD
@@ -643,8 +620,7 @@ http://46.101.9.226/60/ch1226/index.m3u8
 http://46.101.9.226/60/ch1227/index.m3u8
 #EXTINF:-1, DUBAI ONE
 http://46.101.9.226/60/ch1177/index.m3u8
-#EXTINF:-1, DUBAI SPORT
-http://46.101.9.226/60/ch1178/index.m3u8
+
 #EXTINF:-1, DUBAI SAMA
 http://46.101.9.226/60/ch1179/index.m3u8
 #EXTINF:-1, DUBAI AL OULA
@@ -707,10 +683,7 @@ http://46.101.9.226/60/ch1185/index.m3u8
 http://46.101.9.226/60/ch1270/index.m3u8
 #EXTINF:-1, AL HAYAT MOSALSALAT
 http://46.101.9.226/60/ch1342/index.m3u8
-#EXTINF:-1, JORDAN TV
-http://46.101.9.226/60/ch1274/index.m3u8
-#EXTINF:-1, HANIBAL
-http://46.101.9.226/60/ch1280/index.m3u8
+
 #EXTINF:-1, ARABICA  NEW
 http://46.101.9.226/60/ch1283/index.m3u8
 #EXTINF:-1, AL RAYAN
@@ -721,18 +694,14 @@ http://46.101.9.226/60/ch1297/index.m3u8
 http://46.101.9.226/60/ch1298/index.m3u8
 #EXTINF:-1, LANA
 http://46.101.9.226/60/ch1303/index.m3u8
-#EXTINF:-1, AJMAN
-http://46.101.9.226/60/ch1307/index.m3u8
-#EXTINF:-1, DUBAI NOUR
-http://46.101.9.226/60/ch1308/index.m3u8
+
 #EXTINF:-1, GEAR ONE
 http://46.101.9.226/60/ch1309/index.m3u8
 #EXTINF:-1, ABU DHABI DRAMA
 http://46.101.9.226/60/ch1311/index.m3u8
 #EXTINF:-1, CNN
 http://46.101.9.226/60/ch1261/index.m3u8
-#EXTINF:-1, FRANCE 24 EN.
-http://46.101.9.226/60/ch1262/index.m3u8
+
 #EXTINF:-1, SKY NEWS ARABIA
 http://46.101.9.226/60/ch1263/index.m3u8
 #EXTINF:-1, FATAFEAT
@@ -750,34 +719,9 @@ http://46.101.9.226/60/ch1335/index.m3u8
 http://46.101.9.226/60/ch1346/index.m3u8
 #EXTINF:-1, QURAAN
 http://46.101.9.226/60/ch1347/index.m3u8
-#EXTINF:-1, CHEKUP
-http://46.101.9.226/60/ch1348/index.m3u8
-#EXTINF:-1, WWE TV
-http://46.101.9.226/60/ch1355/index.m3u8
-#EXTINF:-1, NOUR KIDS
-http://46.101.9.226/60/ch1358/index.m3u8
-#EXTINF:-1, LTC WWE
-http://46.101.9.226/60/ch1359/index.m3u8
-#EXTINF:-1, TEN
-http://46.101.9.226/60/ch1363/index.m3u8
-#EXTINF:-1, MAJESTIC CINEMA
-http://46.101.9.226/60/ch1365/index.m3u8
+
 #EXTINF:-1, Cartoon Network
 http://188.227.86.4:4022/udp/239.77.0.77:1234
-
-#EXTINF:-1,----------------------------------
-http://188.227.86.4:4022/udp/239.77.0.77:1234
-
-#EXTINF:-1,----------------------------------
-rtmp://167.114.101.234:1935/live?idu=jimyyiel_72171483300/baraem
-
-#EXTINF:-1,----------------------------------
-http://167.114.101.234:1935/live?idu=jimyyiel_72171483300/baraem/playlist.m3u8
-
-
-#EXTINF:-1,----------------------------------
-rtmp://167.114.101.234:1935/live?idu=jimyyiel_72171483300/cartoon_network
-
 
 #EXTINF:0,Moga_Comedy1
 rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream
@@ -785,19 +729,19 @@ rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream
 rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream
 #EXTINF:0,cairo_drama1
 rtmp://162.212.176.107:1935/cairo_drama/globaltv-cairo_drama.stream
-#EXTINF:0,abu_dhabi1
+#EXTINF:0,abu_dhabi1=
 rtmp://162.212.176.107:1935/abu_dhabi/globaltv-abu_dhabi.stream
-#EXTINF:0,abu_dhabi_drama
+#EXTINF:0,abu_dhabi_drama=
 rtmp://162.212.176.107:1935/abu_dhabi_drama/globaltv-abu_dhabi_drama.stream
-#EXTINF:0,national_geo1
+#EXTINF:0,national_geo1=
 rtmp://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream
-#EXTINF:0,MBC 3
+#EXTINF:0,MBC 3==
 rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
-#EXTINF:0,MBC 4
+#EXTINF:0,MBC 4==
 rtmp://162.212.176.107/mbc_4/globaltv-mbc_4.stream
 #EXTINF:0,mbc_max
 rtmp://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream
-#EXTINF:0,LBC
+#EXTINF:0,LBC==
 rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream
 
 
