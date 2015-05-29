@@ -5,18 +5,18 @@
 
 http://46.101.9.226/60/ch1244/index.m3u8
 
-#EXTINF:-1,[COLOR red]*******MBC1******[/COLOR]
+#EXTINF:-1,[COLOR red]****MBC1****[/COLOR]
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
 
 #EXTINF:-1,[COLOR yellow]»»---------- Cartoon ----------««[/COLOR]
 rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
 
-#EXTINF:-1,MBC 3
+#EXTINF:-1,MBC 3--
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc3 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc3&width=600&height=400
 #EXTINF:-1,CARTOON NETWEORK ARABIA
 http://46.101.9.226/60/ch1335/index.m3u8
 
-#EXTINF:-1,JimJam Kids
+#EXTINF:-1,JimJam Kids=
 http://esiptv.mine.nu/676/650
 
 #EXTINF:-1,TRT Çocuk
