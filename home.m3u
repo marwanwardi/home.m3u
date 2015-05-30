@@ -1,6 +1,9 @@
 ﻿#EXTM3U
 
 
+#EXTINF:-1,AR MBC 1
+http://188.165.247.30:8000/live/amz_44/nqashalhob/106.ts
+
 #EXTINF:-1,[COLOR red]*******MBC1******[/COLOR]
 
 http://46.101.9.226/60/ch1244/index.m3u8
