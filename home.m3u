@@ -336,7 +336,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:-1, UNIVERSAL HD
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
  
-
 #EXTINF:-1, tvg-logo="FX.png",FX
 http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
  
@@ -357,7 +356,10 @@ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
 
 
 #EXTINF:-1,[COLOR yellow]»»------TEST----««[/COLOR]
-http://0.0.0.0:1234      
+http://0.0.0.0:1234 
+
+#EXTINF:0,Majd
+rtmp://188.40.138.23/live//majdh_lq?gcd=almajdtv.tv&e=1433092482&st=w_lkx5H-AKqSaWcUX4R3FA
 #EXTINF:0,CN
 http://46.234.113.121:1935/live/cn/playlist.m3u8?t=xwqRhn5dC
 #EXTINF:-1, MBC 1***
