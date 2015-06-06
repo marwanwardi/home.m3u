@@ -6,8 +6,6 @@
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
 
 
-#EXTINF:-1,[COLOR red]**-**MBC1**-**[/COLOR]
-rtmp://167.114.101.234/live?idu=jimyyiel_72171483300//mbc_1
 
 #EXTINF:-1,[COLOR yellow]»»---------- Cartoon ----------««[/COLOR]
 rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
@@ -16,9 +14,7 @@ rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br
 http://62.210.87.116:8883/live/Hmtooo/fannen3/105.ts
 
 #EXTINF:-1,MBC 3
-rtmp://web.iptv-planet.com:1937/live2/Hi_mbc3?key=web
 
-rtmp://web.iptv-planet.com:1937/live2/Hi_mbc3?key=web
 
 #EXTINF:-1,TRT Çocuk
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
@@ -27,13 +23,12 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
 
 #EXTINF:-1, DISNEY CHANNEL
-http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+
 
 #EXTINF:-1, DISNEY XD
-http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+
 
 #EXTINF:-1, DISNEY JR
-http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
 
 
 #EXTINF:-1,Ajyal
@@ -52,37 +47,31 @@ rtmp://AgendaStreamer2.qna.org.qa/brm/brm
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
 #EXTINF:-1,Cartoon Network-
-http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
 
-http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 
 #EXTINF:-1,Boomerang
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8
 
 #EXTINF:-1,NICK JR
-http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+
 
 #EXTINF:-1,CBEEBIES
-http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
+
 
 #EXTINF:-1,CARTOON NETWORK
-http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+
  
 #EXTINF:-1,Boomerang
-http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
+
 
 #EXTINF:-1,Baraem Europe (not working)
 http://46.59.28.215:4949/bynumber/10
 
-#EXTINF:-1,Majd kids
-rtmp://188.40.138.23/live//majdk_lq?gcd=almajdtv.tv&e=1433368118&st=PM27sEBjF-UJ14GgmR5aPw
-
-rtmp://188.40.138.23/live//majdb?gcd=almajdtv.tv&e=1433368281&st=kZO7jCF0WqpAJbzpFHTakQ
 
 #EXTINF:-1,[COLOR yellow]»»------- Food --------««[/COLOR]
 rtmp://live-f01.vustream.net/live/livestream3
                  
-#EXTINF:-1,fatafeat
+#EXTINF:-1,Fatafeat
 rtmp://live-f01.vustream.net/live/livestream3
 
 
