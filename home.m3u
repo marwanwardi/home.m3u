@@ -11,12 +11,9 @@ http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
 rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
 
 #EXTINF:0,Baraem
-http://62.210.87.116:8883/live/Hmtooo/fannen3/105.ts
+rtmp://agendastreamerx1.qna.org.qa/brm?gmswf=1268879575/brm
 
 #EXTINF:-1,MBC 3
-
-#EXTINF:-1,bebe tv 
-http://193.107.99.111:5555/udp/224.21.21.68:1234
 
 #EXTINF:-1,Boomerang 
 http://193.107.99.111:5555/udp/224.21.21.72:1234
@@ -24,14 +21,10 @@ http://193.107.99.111:5555/udp/224.21.21.72:1234
 #EXTINF:-1,TRT Çocuk
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 
-#EXTINF: -1, Nickelodeon 
-http://193.107.99.111:5555/udp/224.20.20.3:1234
-
 #EXTINF:-1, Tom and Jerry
 rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
 
 #EXTINF:-1,Disney Junior
-http://193.107.99.111:5555/udp/224.20.20.234:1234
 
 
 #EXTINF:-1, DISNEY XD
@@ -39,14 +32,18 @@ http://193.107.99.111:5555/udp/224.20.20.234:1234
 #EXTINF:-1,Ajyal
 rtmp://162.212.176.107/ajyal?v=1269304399/globaltv-ajyal.stream
 
-#EXTINF:-1, Baraem 
+#EXTINF:-1,Baraem 
 rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
 
 #EXTINF:-1, Jeem Kids
 rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
  
-#EXTINF:-1, Baraem 
+#EXTINF:-1, Baraemm
 rtmp://AgendaStreamer2.qna.org.qa/brm/brm
+
+#EXTINF:-1, Baraem 2
+http://162.212.176.107:1935/baraem/globaltv-baraem.stream/chunklist_w1991319972.m3u8?v=1268879575
+http://agendastreamerx1.qna.org.qa:1935/brm/brm/chunklist.m3u8?wowzasessionid=392808458
 
 #EXTINF:-1,el jazeera kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
