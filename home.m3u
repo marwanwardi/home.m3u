@@ -24,10 +24,20 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-1, Tom and Jerry
 rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
 
-#EXTINF:-1,Disney Junior
+#EXTINF:0,Nickelodeon
+http://62.73.109.61:5555/udp/239.100.6.2:1234
 
+#EXTINF:0,Jim Jam 
+http://78.30.254.43:8989/udp/239.0.0.192:4000
 
-#EXTINF:-1, DISNEY XD
+#EXTINF:-1,Gulli
+http://78.30.254.43:8989/udp/239.0.0.27:4000
+
+#EXTINF:-1,CN (EN)
+http://78.30.254.43:8989/udp/239.0.0.46:4000
+
+#EXTINF:-1, Nickelodeon (EN)
+http://78.30.254.43:8989/udp/239.0.0.86:4000
 
 #EXTINF:-1,Ajyal
 rtmp://162.212.176.107/ajyal?v=1269304399/globaltv-ajyal.stream
@@ -327,6 +337,13 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 
 #EXTINF:-1,[COLOR yellow]»»-----English channels-----««[/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+
+
+#EXTINF:-1,Discovery Channel (EN)
+http://78.30.254.43:8989/udp/239.0.0.29:4000
+
+#EXTINF:-1,Travel Channel (EN)
+http://78.30.254.43:8989/udp/239.0.0.214:4000
 
 #EXTINF:-1, UNIVERSAL HD
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
