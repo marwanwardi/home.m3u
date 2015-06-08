@@ -13,6 +13,9 @@ rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br
 #EXTINF:0,Baraem
 rtmp://agendastreamerx1.qna.org.qa/brm?gmswf=1268879575/brm
 
+#EXTINF:0,Nick Jr
+http://62.73.109.61:5555/udp/239.100.1.16:1234
+
 #EXTINF:-1,MBC 3
 
 #EXTINF:-1,Boomerang 
