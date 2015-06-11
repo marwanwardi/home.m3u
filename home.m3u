@@ -43,6 +43,8 @@ rtmp://AgendaStreamer2.qna.org.qa/brm/brm
 
 #EXTINF:-1, Baraem 2
 http://162.212.176.107:1935/baraem/globaltv-baraem.stream/chunklist_w1991319972.m3u8?v=1268879575
+
+#EXTINF:-1, Baraem 3
 http://agendastreamerx1.qna.org.qa:1935/brm/brm/chunklist.m3u8?wowzasessionid=392808458
 
 #EXTINF:-1,el jazeera kids
@@ -101,8 +103,10 @@ http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
 #EXTINF:0,Hona Baghdad
 rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
 
-#EXTINF:0,SD Alsharq
-http://hls1.livestreamingcdn.com/livecdn753/1myStream.sdp/chunklist_w231892443.m3u8
+#EXTINF:0,Kurdistan
+rtmp://84.244.187.12/live?gmswf=1269310610/livestream
+
+
 
 
 #EXTINF:-1,[COLOR yellow]»»---- Drama & Comedy------««[/COLOR]
@@ -117,8 +121,8 @@ rtmp://162.212.176.107/mbc_masr//globaltv-mbc_masr.stream
 rtmp://162.212.176.107/mbc_masr?v=1269304399/globaltv-mbc_masr.stream
 
 
-#EXTINF:0,Funoon HD
-http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonhigh.m3u8
+#EXTINF:0,Funoon
+http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8?v=1269310610
 
 
 #EXTINF:-1, cairo drama
@@ -310,7 +314,8 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
 #EXTINF:-1,Aljazeera Documents
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
-
+#EXTINF:-1,Ten
+rtmp://198.255.0.18:443/live?ipGjI0OVo4EHRIeQcByfMHtb1lBLD88b/live_20satcom
 
 #EXTINF:-1,[COLOR yellow]»»-----English channels-----««[/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
@@ -342,5 +347,15 @@ http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
 
 #EXTINF:-1, WARNER HD
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+#EXTINF:-1,----------------------------------------------------------------------
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+
+
+
+#EXTINF:-1,CBC Drama
+rtmp://web.iptv-planet.com:1937/live2/cbcd?key=web
+
+#EXTINF:-1,Dubai zaman
+http://dmi.mangomolo.com:1935/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1200000.m3u8
 
 
