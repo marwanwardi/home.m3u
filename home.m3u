@@ -38,6 +38,9 @@ http://80.77.52.6:4394/udp/230.0.3.45:12345
 #EXTINF:-1,Ajyal
 rtmp://162.212.176.107/ajyal?v=1269304399/globaltv-ajyal.stream
 
+#EXTINF:-1,Ajyal2
+rtmp://babflashlivefs.fplive.net/babflash5live-live?v=1269310610/stream2
+
 #EXTINF:-1,Baraem 
 rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
 
