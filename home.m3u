@@ -6,7 +6,7 @@
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400
 
 #EXTINF:-1,MBC1
-http://176.53.21.99:8082/TV6029
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
 
 #EXTINF:-1,[COLOR yellow]»»----------Cartoon----------««[/COLOR]
 rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
@@ -16,7 +16,7 @@ rtmp://agendastreamerx1.qna.org.qa/brm?gmswf=1268879575/brm
 
 
 #EXTINF:-1,MBC3
-http://176.53.21.99:8082/TV6031
+
 
 #EXTINF:-1,TRT Çocuk
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
