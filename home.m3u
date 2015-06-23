@@ -25,17 +25,16 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
 
 
-#EXTINF:-1,CN (EN)
-http://78.30.254.43:8989/udp/239.0.0.46:4000
+#EXTINF:-1,CN 
 
 #EXTINF:-1, Nickelodeon
-http://80.77.52.6:4394/udp/230.0.3.45:12345
+
 
 #EXTINF:-1,Ajyal
-rtmp://162.212.176.107/ajyal?v=1269304399/globaltv-ajyal.stream
 
-#EXTINF:-1,Ajyal2
-rtmp://babflashlivefs.fplive.net/babflash5live-live?v=1269310610/stream2
+
+#EXTINF:-1,Ajyal
+rtmp://babflashlivefs.fplive.net/babflash5live-live?v=1268877095/stream2
 
 #EXTINF:-1,Baraem 
 rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
@@ -43,11 +42,6 @@ rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
 #EXTINF:-1, Jeem Kids
 rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
  
-#EXTINF:-1, Baraemm
-rtmp://AgendaStreamer2.qna.org.qa/brm/brm
-
-#EXTINF:-1, Baraem 2
-http://162.212.176.107:1935/baraem/globaltv-baraem.stream/chunklist_w1991319972.m3u8?v=1268879575
 
 #EXTINF:-1, Baraem 3
 http://agendastreamerx1.qna.org.qa:1935/brm/brm/chunklist.m3u8?wowzasessionid=392808458
@@ -57,7 +51,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
 
 #EXTINF:-1,Boomerang
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8
 
 
 #EXTINF:-1,Baraem Europe (not working)
