@@ -15,6 +15,19 @@ rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br
 rtmp://agendastreamerx1.qna.org.qa/brm?gmswf=1268879575/brm
 
 
+
+#EXTINF:-1,Disney Junior
+http://37.220.21.210:57088/hbird/sdtv/planet/Disney_Junior
+
+
+
+#EXTINF:-1,Nick Jr Italia
+http://37.220.21.210:57088/hbird/sdtv/planet/Nick_Jr_Italia
+
+
+#EXTINF:-1,Boomerang Italia
+http://37.220.21.210:57088/hbird/sdtv/planet/Boomerang_Italia
+
 #EXTINF:-1,MBC3
 
 
@@ -328,176 +341,5 @@ http://78.30.254.43:8989/udp/239.0.0.29:4000
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
 
 
-#EXTINF:-1,Al-Resalah
-http://176.53.21.99:8082/TV6009
-#EXTINF:-1,Fox
-http://176.53.21.99:8082/TV6010
-#EXTINF:-1,Fox Movies
-http://176.53.21.99:8082/TV6011
-#EXTINF:-1,Rotana Music
-http://176.53.21.99:8082/TV6012
-#EXTINF:-1,Rotana Cinema
-http://176.53.21.99:8082/TV6013
-#EXTINF:-1,Rotana Aflam
-http://176.53.21.99:8082/TV6014
-#EXTINF:-1,Rotana Classic
-http://176.53.21.99:8082/TV6015
-#EXTINF:-1,Rotana Clip
-http://176.53.21.99:8082/TV6016
-#EXTINF:-1,Rotana Khaligi
-http://176.53.21.99:8082/TV6017
-#EXTINF:-1,Rotana Masriya
-http://176.53.21.99:8082/TV6018
-#EXTINF:-1,Ajman
-http://176.53.21.99:8082/TV6019
-#EXTINF:-1,Noor Dubai
-http://176.53.21.99:8082/TV6020
-#EXTINF:-1,GearOne
-http://176.53.21.99:8082/TV6021
-#EXTINF:-1,LDC h
-http://176.53.21.99:8082/TV6022
-#EXTINF:-1,TV5 Monde Orient
-http://176.53.21.99:8082/TV6023
-#EXTINF:-1,Orient News
-http://176.53.21.99:8082/TV6024
-#EXTINF:-1,Dubai One
-http://176.53.21.99:8082/TV6025
-#EXTINF:-1,Abu Dhabi Sport 1
-http://176.53.21.99:8082/TV6026
-#EXTINF:-1,CNBC Arabic
-http://176.53.21.99:8082/TV6027
-#EXTINF:-1,MBC 1
-http://176.53.21.99:8082/TV6029
-#EXTINF:-1,Abu Dhabi
-http://176.53.21.99:8082/TV6028
-#EXTINF:-1,MBC 2
-http://176.53.21.99:8082/TV6030
-#EXTINF:-1,MBC  4
-http://176.53.21.99:8082/TV6031
-#EXTINF:-1, MBC 3
-http://176.53.21.99:8082/TV6032
-#EXTINF:-1,MBC Action
-http://176.53.21.99:8082/TV6033
-#EXTINF:-1,MBC Bollywood
-http://176.53.21.99:8082/TV6034
-#EXTINF:-1,MBC Drama
-http://176.53.21.99:8082/TV6035
-#EXTINF:-1,MBC Max
-http://176.53.21.99:8082/TV6036
-#EXTINF:-1,NBN
-http://176.53.21.99:8082/TV6038
-#EXTINF:-1,Al Manar
-http://176.53.21.99:8082/TV6039
-#EXTINF:-1,Aljadeed
-http://176.53.21.99:8082/TV6040
-#EXTINF:-1,MTV
-http://176.53.21.99:8082/TV6041
-#EXTINF:-1,B4U Aflam
-http://176.53.21.99:8082/TV6042
-#EXTINF:-1,B4u Plus
-http://176.53.21.99:8082/TV6043
-#EXTINF:-1,TFI
-http://176.53.21.99:8082/TV6046
-#EXTINF:-1,M6
-http://176.53.21.99:8082/TV6047
-#EXTINF:-1,W9
-http://176.53.21.99:8082/TV6049
-#EXTINF:-1,D8
-http://176.53.21.99:8082/TV6048
-
-#EXTINF:-1,Dubai zaman
-http://dmi.mangomolo.com:1935/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1200000.m3u8
-
-#EXTINF:-1,ART Cinema
-http://gui.cdniptv.com:8888/hls/art-cinema.m3u8?frd8fi6blyq46ep
-#EXTINF:-1,art _aflam 2
-rtmp://162.212.176.107:1935/art_aflam_2/globaltv-art_aflam_2.stream
-#EXTINF:-1,Rotana Clip
-http://gui.cdniptv.com:8888/hls/rotana-clip.m3u8?frd8fi6blyq46ep
-#EXTINF:-1,Rotana Classic
-http://gui.cdniptv.com:8888/hls/rotana-classic.m3u8?frd8fi6blyq46ep
-#EXTINF:-1,Rotana Khaligi
-http://gui.cdniptv.com:8888/hls/rotana-khalijiah.m3u8?frd8fi6blyq46ep
-#EXTINF:-1,Rotana Masriya
-http://gui.cdniptv.com:8888/hls/rotana-massriya.m3u8?frd8fi6blyq46ep
-#EXTINF:-1,Rotana Music
-http://gui.cdniptv.com:8888/hls/rotana.m3u8?frd8fi6blyq46ep
-#EXTINF:-1,cbc
-rtmp://web2.iptv-planet.com:1937/live2/cbc?key=070114105032074117110032049057
-
-#EXTINF:-1,Al-Resalah
-http://176.53.21.99:8082/TV6009
-#EXTINF:-1,Fox
-http://176.53.21.99:8082/TV6010
-#EXTINF:-1,Fox Movies
-http://176.53.21.99:8082/TV6011
-#EXTINF:-1,Rotana Music
-http://176.53.21.99:8082/TV6012
-#EXTINF:-1,Rotana Cinema
-http://176.53.21.99:8082/TV6013
-#EXTINF:-1,Rotana Aflam
-http://176.53.21.99:8082/TV6014
-#EXTINF:-1,Rotana Classic
-http://176.53.21.99:8082/TV6015
-#EXTINF:-1,Rotana Clip
-http://176.53.21.99:8082/TV6016
-#EXTINF:-1,Rotana Khaligi
-http://176.53.21.99:8082/TV6017
-#EXTINF:-1,Rotana Masriya
-http://176.53.21.99:8082/TV6018
-#EXTINF:-1,Ajman
-http://176.53.21.99:8082/TV6019
-#EXTINF:-1,Noor Dubai
-http://176.53.21.99:8082/TV6020
-#EXTINF:-1,GearOne
-http://176.53.21.99:8082/TV6021
-#EXTINF:-1,LDC h
-http://176.53.21.99:8082/TV6022
-#EXTINF:-1,TV5 Monde Orient
-http://176.53.21.99:8082/TV6023
-#EXTINF:-1,Orient News
-http://176.53.21.99:8082/TV6024
-#EXTINF:-1,Dubai One
-http://176.53.21.99:8082/TV6025
-#EXTINF:-1,Abu Dhabi Sport 1
-http://176.53.21.99:8082/TV6026
-#EXTINF:-1,CNBC Arabic
-http://176.53.21.99:8082/TV6027
-#EXTINF:-1,MBC 1
-http://176.53.21.99:8082/TV6029
-#EXTINF:-1,Abu Dhabi
-http://176.53.21.99:8082/TV6028
-#EXTINF:-1,MBC 2
-http://176.53.21.99:8082/TV6030
-#EXTINF:-1,MBC 4
-http://176.53.21.99:8082/TV6031
-#EXTINF:-1,MBC 3
-http://176.53.21.99:8082/TV6032
-#EXTINF:-1,MBC Action
-http://176.53.21.99:8082/TV6033
-#EXTINF:-1,MBC Bollywood
-http://176.53.21.99:8082/TV6034
-#EXTINF:-1,MBC Drama
-http://176.53.21.99:8082/TV6035
-#EXTINF:-1,MBC Max
-http://176.53.21.99:8082/TV6036
-#EXTINF:-1,NBN
-http://176.53.21.99:8082/TV6038
-#EXTINF:-1,Al Manar
-http://176.53.21.99:8082/TV6039
-#EXTINF:-1,Aljadeed
-http://176.53.21.99:8082/TV6040
-#EXTINF:-1,MTV
-http://176.53.21.99:8082/TV6041
-#EXTINF:-1,B4U Aflam
-http://176.53.21.99:8082/TV6042
-#EXTINF:-1,B4u Plus
-http://176.53.21.99:8082/TV6043
-#EXTINF:-1,TFI
-http://176.53.21.99:8082/TV6046
-#EXTINF:-1,M6
-http://176.53.21.99:8082/TV6047
-#EXTINF:-1,W9
-http://176.53.21.99:8082/TV6049
-#EXTINF:-1,D8
-http://176.53.21.99:8082/TV6048
+#EXTINF:-1,Travel Ch.
+http://80.80.160.168/live/3/live.m3u8
