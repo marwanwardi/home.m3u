@@ -1,12 +1,11 @@
 ﻿#EXTM3U
 
+#EXTINF:-1,mbc111
+http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=23508&session=b77ec172e159a5be9963076e3ec2be09f6282ef9c82a8b52de664ccb5284b096a299017ce29bf1aa&hlsid=HLS_1531177
 
+#EXTINF:-1,mbc1
+http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=23508&session=b77ec172e159a5be9963076e3ec2be09f6282ef9c82a8b52de664ccb5284b096a299017ce29bf1aa&hlsid=HLS_1531177
 
-#EXTINF:-1,[COLOR red]****MBC1****[/COLOR]
-rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400
-
-#EXTINF:-1,MBC1
-http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
 
 #EXTINF:-1,[COLOR yellow]»»----------Cartoon----------««[/COLOR]
 rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
@@ -17,28 +16,16 @@ rtmp://agendastreamerx1.qna.org.qa/brm?gmswf=1268879575/brm
 #EXTINF:0,Ajyal
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
 
-#EXTINF:-1,Disney Junior
-http://37.220.21.210:57088/hbird/sdtv/planet/Disney_Junior
 
-#EXTINF:-1,  Boomerang
+#EXTINF:-1,Boomerang
 http://78.60.35.92:4022/udp/239.2.3.42:1234
-
-#EXTINF:-1,Nick Jr Italia
-http://37.220.21.210:57088/hbird/sdtv/planet/Nick_Jr_Italia
-
-
-#EXTINF:-1,Boomerang Italia
-http://37.220.21.210:57088/hbird/sdtv/planet/Boomerang_Italia
-
-#EXTINF:-1,MBC3
 
 
 #EXTINF:-1,TRT Çocuk
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 
-#EXTINF:-1, Tom and Jerry
+#EXTINF:-1,Tom and Jerry
 rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
-
 
 
 #EXTINF:-1,Baraem 
