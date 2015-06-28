@@ -20,7 +20,8 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/st
 #EXTINF:-1,Disney Junior
 http://37.220.21.210:57088/hbird/sdtv/planet/Disney_Junior
 
-
+#EXTINF:-1,  Boomerang
+http://78.60.35.92:4022/udp/239.2.3.42:1234
 
 #EXTINF:-1,Nick Jr Italia
 http://37.220.21.210:57088/hbird/sdtv/planet/Nick_Jr_Italia
