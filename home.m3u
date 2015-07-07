@@ -110,9 +110,6 @@ rtmp://162.212.176.107/mbc_masr//globaltv-mbc_masr.stream
 #EXTINF:0,Funoon
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8?v=1269310610
 
-#EXTINF:-1,Al hayat
-http://38.99.146.36:7777/Hayat_HD/Hayat_High.m3u8?user=42892&session=de711b741218ff7bc8b5267c99a574ed22634d49285cce18bfc5b9e68ed9e957&hlsid=HLS_5939831
-
 #EXTINF:-1,Panorama drama
 http://38.99.146.36:7777/PanoramaDrama_HD/PanoramaDrama_High.m3u8?user=69341&session=fdaaf24cd9d5a4fc64d7cd60c40407c4b31e29b1c1cfc30cd2408ecaa7f6581b&hlsid=HLS_5936328
 
@@ -138,7 +135,7 @@ http://38.99.146.36:7777/MogaComedy_HD/MogaComedy_High.m3u8?user=60739&session=9
 
 
 
-#EXTINF:-1,[COLOR yellow]»»--------- Movies--------««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»-------- Movies------««[/COLOR]
 rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream
 
 #EXTINF:-1,cairo cinema
@@ -155,36 +152,33 @@ http://38.99.146.36:7777/Cima_HD/Cima_High.m3u8?user=34518&session=acde2e825bd02
 http://38.99.146.36:7777/PanoramaFilm_HD/PanoramaFilm_High.m3u8?user=42206&session=62ab924497619f5f499be70a5b4a8342cde08d531e6c47eb19743b855e1e8899&hlsid=HLS_5931094
 
 
-#EXTINF:-1,[COLOR yellow]»»---------- Other Channels----------««[/COLOR]
+#EXTINF:-1,[COLOR yellow]»»----- Other Channels-----««[/COLOR]
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w1042183914_b1200000.m3u8
 
 #EXTINF:-1, Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w1042183914_b1200000.m3u8
 
-#EXTINF:-1,Sama Dubai TV 
-http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w517203350_b1200000.m3u8
-
-#EXTINF:-1,Noor Dubai TV 
-http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w157951105_b1200000.m3u8
 
 #EXTINF:-1,LBC
-rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream
+
 
 #EXTINF:-1,Mtv
 http://38.99.146.37:7777/MTVLebanon_HD/MTVLebanon_HD.m3u8?user=58224&session=65517ec32d77ba12d1f0b5c073b72506a77fa3c9dd83911af759ac723b9e0f38&hlsid=HLS_18945
 
-#EXTINF:-1,abu dhabi tv
-rtmp://162.212.176.107:1935/abu_dhabi/globaltv-abu_dhabi.stream
 
-#EXTINF:0,watan tv
 
-#EXTINF:0,watan tv plus
 
 #EXTINF:0,ALaan
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_828.m3u8?v=1268884471
 
 #EXTINF:-1, morocco
 rtmp://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream
+
+#EXTINF:-1,Sama Dubai TV 
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w517203350_b1200000.m3u8
+
+#EXTINF:-1,Noor Dubai TV 
+http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w157951105_b1200000.m3u8
 
 #EXTINF:-1,QURAAN
 rtmp://208.75.224.165:1935/map-alquraan/mp4:map-alquraan.stream 
