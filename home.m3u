@@ -45,7 +45,7 @@ http://agendastreamerx1.qna.org.qa:1935/brm/brm/chunklist.m3u8?wowzasessionid=39
 
 
 #EXTINF:-1,[COLOR yellow]»»------- Food --------««[/COLOR]
-rtmp://live-f01.vustream.net/live/livestream3
+http://38.99.146.37:7777/Fatafeat_HD/Fatafeat_HD.m3u8?user=42799&session=554d4d7b0b7319193be5bfbce745fef53af64832b6fa02fafc1d541385d4625c&hlsid=HLS_15252
     
 #EXTINF:-1,Fatafeat
 http://38.99.146.37:7777/Fatafeat_HD/Fatafeat_HD.m3u8?user=42799&session=554d4d7b0b7319193be5bfbce745fef53af64832b6fa02fafc1d541385d4625c&hlsid=HLS_15252
@@ -55,7 +55,7 @@ rtmp://109.123.123.82/wesal/wesal1
                          
        
 #EXTINF:-1,wesal
-rtmp://109.123.123.82/wesal/wesal1
+
 
 #EXTINF:-1,Al Sumaria
 http://livestreaming2.itworkscdn.net/sumarialive/smil:sumariamob.smil/playlist.m3u8
@@ -82,8 +82,7 @@ http://94.127.209.149:8080/alrashid/alrashid_1mbps/index.m3u8?v=1268884471
 #EXTINF:-1, Dijla
 rtmp://stream.joinvisions.net/dij//dij
 
-#EXTINF:-1,AL Sharqiya News
-rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+
 
 #EXTINF:0,Baghdad tv
 http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
@@ -105,7 +104,7 @@ rtmp://162.212.176.107/mbc_masr//globaltv-mbc_masr.stream
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8?v=1269310610
 
 #EXTINF:-1,Panorama drama
-http://38.99.146.36:7777/PanoramaDrama_HD/PanoramaDrama_High.m3u8?user=69341&session=fdaaf24cd9d5a4fc64d7cd60c40407c4b31e29b1c1cfc30cd2408ecaa7f6581b&hlsid=HLS_5936328
+
 
 #EXTINF:-1,Alnahar drama
 http://50.7.180.18:1935/elnahar_tv/nahar_dramaprofile2.stream/chunklist_w1394795490.m3u8?v=3315732402
@@ -130,13 +129,14 @@ http://38.99.146.36:7777/MogaComedy_HD/MogaComedy_High.m3u8?user=60739&session=9
 
 
 #EXTINF:-1,[COLOR yellow]»»-------- Movies------««[/COLOR]
-rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream
+http://38.99.146.36:7777/RotanaAflam_HD/RotanaAflam_High.m3u8?user=84916&session=f8f0856f5b9e52f7ba9fb4bc6d401b7ec6c62d2250a1f18f3fe4f3a60452dde0&hlsid=HLS_5932721
 
 #EXTINF:-1,cairo cinema
-rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream
+
 
 #EXTINF:0,Rotana Cinema
 http://38.99.146.36:7777/RotanaAflam_HD/RotanaAflam_High.m3u8?user=84916&session=f8f0856f5b9e52f7ba9fb4bc6d401b7ec6c62d2250a1f18f3fe4f3a60452dde0&hlsid=HLS_5932721
+
 
 #EXTINF:0,Cima
 http://38.99.146.36:7777/Cima_HD/Cima_High.m3u8?user=34518&session=acde2e825bd0257e182eff27f961b995e0f93ddb5ddd8aba8be62c14b2dbaf77&hlsid=HLS_5943012
@@ -318,7 +318,8 @@ rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
 #EXTINF:0,Rotana Cinema
 rtmp://162.212.176.107/rotana_cinema?v=1635730994/globaltv-rotana_cinema.stream
 
-
+#EXTINF:-1,AL Sharqiya News
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 #EXTINF:-1,Baraem Europe (not working)
 http://46.59.28.215:4949/bynumber/10
 
