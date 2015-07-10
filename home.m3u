@@ -5,7 +5,7 @@ http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=23508&session=b77ec172e159a
 
 
 #EXTINF:-1,[COLOR yellow]»»----------Cartoon----------««[/COLOR]
-rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=23508&session=b77ec172e159a5be9963076e3ec2be09f6282ef9c82a8b52de664ccb5284b096a299017ce29bf1aa&hlsid=HLS_1531177
 
 #EXTINF:-1,Baraem 
 http://38.99.146.36:7777/Baraem_HD/Baraem_High.m3u8?user=32086&session=12fffc301da10aac53a8d516b30b95779046307fc0eb09b1d4c93b86fb358ee7&hlsid=HLS_5919671
@@ -47,9 +47,6 @@ http://agendastreamerx1.qna.org.qa:1935/brm/brm/chunklist.m3u8?wowzasessionid=39
 #EXTINF:-1,[COLOR yellow]»»------- Food --------««[/COLOR]
 rtmp://live-f01.vustream.net/live/livestream3
     
-#EXTINF:-1,CBC Sofra          
-http://38.99.146.36:7777/CBCSofra_HD/CBCSofra_High.m3u8?user=80242&session=de01887667f47397eb6dd46567ff6ecc721d276a4a8f3d0f2518a4c5391e0953&hlsid=HLS_5940797
-   
 #EXTINF:-1,Fatafeat
 http://38.99.146.37:7777/Fatafeat_HD/Fatafeat_HD.m3u8?user=42799&session=554d4d7b0b7319193be5bfbce745fef53af64832b6fa02fafc1d541385d4625c&hlsid=HLS_15252
 
