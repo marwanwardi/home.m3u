@@ -19,9 +19,8 @@ http://38.99.146.36:7777/MBC3_HD/MBC3_High.m3u8?user=63251&session=c578454bb34fa
 #EXTINF:-1,Ajyal
 http://38.99.146.36:7777/AjyalTV_HD/AjyalTV_HD.m3u8?user=26531&session=8a51ab38b743ac9ba362bcb90fad296311be5b0fd346ce0f583b968f49cdd8b7&hlsid=HLS_5934515
 
-
-#EXTINF:-1,Boomerang
-http://78.60.35.92:4022/udp/239.2.3.42:1234
+#EXTINF:-1,el jazeera kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
 
 #EXTINF:-1,TRT Çocuk
@@ -41,8 +40,6 @@ rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
 #EXTINF:-1, Baraem 3
 http://agendastreamerx1.qna.org.qa:1935/brm/brm/chunklist.m3u8?wowzasessionid=392808458
 
-#EXTINF:-1,el jazeera kids
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
 
 
