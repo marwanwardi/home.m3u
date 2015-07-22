@@ -273,10 +273,8 @@ rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 #EXTINF:-1,Baraem Europe (not working)
 http://46.59.28.215:4949/bynumber/10
 
-#EXTINF:-1,Arabya hadath
-http://38.99.146.36:7777/AlArabiyaHadath_HD/AlArabiyaHadath_High.m3u8?user=77329&session=828842b8f376b5acd9548b5fc6c048a9bb1ad59c82e932cc6d811aa08f5155a8a299017ce29bf1aa&hlsid=HLS_489003
 
 
-#EXTINF:-1,Al baghdadia
+#EXTINF:-1,7-22
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 
