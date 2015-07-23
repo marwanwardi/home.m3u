@@ -20,7 +20,19 @@ http://38.99.146.37:7777/MBC3_HD/MBC3_High.m3u8?user=83469&session=c55256a3d9bd7
 #EXTINF:-1,MBC 3
 http://38.99.146.37:7777/MBC3_HD.m3u8?user=83469&session=c55256a3d9bd78a6c102fa6418bca9881e99d0954f36a082b592777abbeb3044a299017ce29bf1aa
 
+#EXTINF:-1,nick_jr
+http://37.187.172.168:8080/nick_jr_bGUz4yHkeM/index.m3u8
 
+
+#EXTINF:-1,nick +1
+http://37.187.172.168:8080/nickjr_plus_1_wzLgb8AJGy/index.m3u8
+
+#EXTINF:-1,nick 2
+http://37.187.172.168:8080/nick_jr_2_FM2CyBLUzp/index.m3u8
+
+
+#EXTINF:-1,nicktoon
+http://37.187.172.168:8080/nicktoon_2qTZIK1CY5/index.m3u8
 
 #EXTINF:-1,el jazeera kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
@@ -234,6 +246,8 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 
+#EXTINF:-1,PBC US
+http://37.187.172.168:8080/pbs_america_kARKVp5a7O/index.m3u8
 
 #EXTINF:-1, arabya alhadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
