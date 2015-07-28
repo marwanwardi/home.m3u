@@ -1,40 +1,22 @@
 ﻿#EXTM3U
 
 #EXTINF:-1,mbc1
-http://38.99.146.37:7777/MBC1_HD/MBC1_High.m3u8?user=52088&session=eb0950054e57feb59be3a57f111423158a0a22da4f3293f9ff95cb54e255efe8a299017ce29bf1aa&hlsid=HLS_1982262
+http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=67641&session=ee9b3bf4bea94729fbc49fe3f6e8d82ca52d96b8569c581b06917971653d9daba299017ce29bf1aa&hlsid=HLS_1478791
+
 
 #EXTINF:-1,[COLOR yellow]»»----------Cartoon----------««[/COLOR]
 http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=23508&session=b77ec172e159a5be9963076e3ec2be09f6282ef9c82a8b52de664ccb5284b096a299017ce29bf1aa&hlsid=HLS_1531177
 
 #EXTINF:-1,Baraem 
-http://38.99.146.37:7777/Baraem_HD/Baraem_High.m3u8?user=19317&session=7ca149d64acb227fecee1197d990daea9f3f1654250ee5a4f87fb8d018a10921a299017ce29bf1aa&hlsid=HLS_1978807
-
-
+http://38.99.146.36:7777/Baraem_HD/Baraem_High.m3u8?user=83564&session=5d23643bf155d043f70ac679a25d2ab7d29846b6fe162e28b24d3ef079f53639a299017ce29bf1aa&hlsid=HLS_1477524
 
 #EXTINF:-1,CN Arabic
-http://38.99.146.37:7777/CNArabia_HD/CNArabia_High.m3u8?user=40707&session=f6ed6324ceff382e2f69beab2ec88b0ed3dc00169ee9dce44cf0edc37d8a34eca299017ce29bf1aa&hlsid=HLS_1979329
+http://38.99.146.36:7777/CNArabia_HD/CNArabia_High.m3u8?user=10569&session=5f53aeeb91282d3de62742ab167762a2a5b19046d1ed5015d46fde39252738c4a299017ce29bf1aa&hlsid=HLS_1477975
 
 #EXTINF:-1,MBC 3
-http://38.99.146.37:7777/MBC3_HD/MBC3_High.m3u8?user=83469&session=c55256a3d9bd78a6c102fa6418bca9881e99d0954f36a082b592777abbeb3044a299017ce29bf1aa&hlsid=HLS_1980229
+http://38.99.146.36:7777/MBC3_HD/MBC3_High.m3u8?user=90548&session=939b9c2c41e6b3135fc27bfd754973eda80b3b86ee363642c8d5fd9496349300a299017ce29bf1aa&hlsid=HLS_1479381
 
-#EXTINF:-1,MBC 3
-http://38.99.146.37:7777/MBC3_HD.m3u8?user=83469&session=c55256a3d9bd78a6c102fa6418bca9881e99d0954f36a082b592777abbeb3044a299017ce29bf1aa
-
-#EXTINF:-1,nick_jr
-http://37.187.172.168:8080/nick_jr_bGUz4yHkeM/index.m3u8
-
-
-#EXTINF:-1,nick +1
-http://37.187.172.168:8080/nickjr_plus_1_wzLgb8AJGy/index.m3u8
-
-#EXTINF:-1,nick 2
-http://37.187.172.168:8080/nick_jr_2_FM2CyBLUzp/index.m3u8
-
-
-#EXTINF:-1,nicktoon
-http://37.187.172.168:8080/nicktoon_2qTZIK1CY5/index.m3u8
-
-#EXTINF:-1,el jazeera kids
+#EXTINF:-1,Al jazeera kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
 
 
@@ -44,7 +26,6 @@ rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br
 
 #EXTINF:-1,Baraem 
 rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
-
 
 
 
