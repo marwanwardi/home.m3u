@@ -76,8 +76,8 @@ rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
 #EXTINF:0,Kurdistan
 rtmp://84.244.187.12/live?gmswf=1269310610/livestream
 
-
-
+#EXTINF:0,SD Alsharq
+http://hls1.livestreamingcdn.com/livecdn753/myStream.sdp/chunklist_w1781080221.m3u8
 
 #EXTINF:-1,[COLOR yellow]»»----Drama & Comedy-----««[/COLOR]
 rtmp://162.212.176.107/mbc_masr//globaltv-mbc_masr.stream
@@ -97,7 +97,7 @@ http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w
 
 
 #EXTINF:-1,Moga Comedy
-http://38.99.146.37:7777/MogaComedy_HD/MogaComedy_High.m3u8?user=29496&session=c436177860ef5e2323802fb7c871a8ce499fc023500334b35029776b9c77bf65a299017ce29bf1aa&hlsid=HLS_473889
+http://38.99.146.36:7777/MogaComedy_HD/MogaComedy_High.m3u8?user=28247&session=b6c43e95bbfe15c00915e06d4af8d2500eae06238cd0c49ab6fdbd884846dd77a299017ce29bf1aa&hlsid=HLS_2232061
 
 
 
@@ -135,7 +135,7 @@ http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w1042183914_b1
 http://38.99.146.37:7777/LDC_HD/LDC_High.m3u8?user=69042&session=4b4d64ab5ba9b26d14017ce1b790e2f0cf8b5bb0302471db09c888c8d78af46aa299017ce29bf1aa&hlsid=HLS_474695
 
 #EXTINF:-1,Mtv
-http://38.99.146.37:7777/MTVLebanon_HD/MTVLebanon_HD.m3u8?user=58224&session=65517ec32d77ba12d1f0b5c073b72506a77fa3c9dd83911af759ac723b9e0f38&hlsid=HLS_18945
+http://38.99.146.36:7777/MTVLebanon_HD/MTVLebanon_HD.m3u8?user=55558&session=8df1cc9bd4fad9a3caafe8300ff6b04411a27d7c3f218b46242bef2f9e3c5d1ca299017ce29bf1aa&hlsid=HLS_2230303
 
 
 #EXTINF:0,ALaan
@@ -227,21 +227,22 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 
-#EXTINF:-1,PBC US
-http://37.187.172.168:8080/pbs_america_kARKVp5a7O/index.m3u8
 
 #EXTINF:-1, arabya alhadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+
 
 #EXTINF:-1, CNN
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
 
 
 #EXTINF:-1, National Geographic
-http://38.99.146.37:7777/ADNatGeo_HD/ADNatGeo_High.m3u8?user=60482&session=856987c63790282fd8fa5e2430760bc4c8ba723f4fc0b66ae683b17fa6a6c557a299017ce29bf1aa&hlsid=HLS_476584
+http://38.99.146.36:7777/ADNatGeo_HD/ADNatGeo_High.m3u8?user=96767&session=8dcebed48685c9ad4ffd3026f090976c98c3c8600f7ae68e4506db93d911b2bfa299017ce29bf1aa&hlsid=HLS_2229635
+
 
 #EXTINF:-1,KTV AL ARABI 
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
+
 
 #EXTINF:-1,Aljazeera Documents
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
