@@ -282,9 +282,8 @@ http://lv7.oedg.ustvnow.com/dvrtest/mp4:0E234WHTMUSTVNOW3/chunklist.m3u8?f1a2823
 #EXTINF:-1,cbs
 http://lv7.oedg.ustvnow.com/dvrtest/mp4:AD870WHP0USTVNOW3/chunklist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1921fb440308fc82312e93769a4360a943c3e17aaedee328c704f5e3647bee3eeb47d7
 
-#EXTINF:-1,mbc2
-http://216.66.42.86:7777/MBC2_HD.m3u8?user=90840&session=c30c1c150199c577a7e6916c3dc74bdf9d004b847e26bc1d58cc7e124620afb3a299017ce29bf1aa
-
+#EXTINF:-1,PBS
+http://lv7.oedg.ustvnow.com/dvrtest/mp4:B8B5EWPSUUSTVNOW3/chunklist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1921fb440308fc82312e93769a4360a943c3e17aaedee328c704f5e3647bee3eeb47d7
 
 #EXTINF:-1,mb c 2
 http://38.99.146.36:7777/MBC2_HD/MBC2_High.m3u8?user=90840&session=c30c1c150199c577a7e6916c3dc74bdf9d004b847e26bc1d58cc7e124620afb3a299017ce29bf1aa&hlsid=HLS_2424744
