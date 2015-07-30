@@ -33,10 +33,10 @@ rtmp://78.100.40.195/brm/?gmswf=1268884471/brm
 http://38.99.146.37:7777/Fatafeat_HD/Fatafeat_HD.m3u8?user=42799&session=554d4d7b0b7319193be5bfbce745fef53af64832b6fa02fafc1d541385d4625c&hlsid=HLS_15252
     
 #EXTINF:-1,Fatafeat
-http://38.99.146.37:7777/Fatafeat_HD/Fatafeat_HD.m3u8?user=42799&session=554d4d7b0b7319193be5bfbce745fef53af64832b6fa02fafc1d541385d4625c&hlsid=HLS_15252
+http://38.99.146.36:7777/Fatafeat_HD/Fatafeat_HD.m3u8?user=79781&session=4b6bc47de584493d44d2ef6088a346ecb9bb6c985cfb564a0147213d33dd6216a299017ce29bf1aa&hlsid=HLS_2429631
 
-#EXTINF:-1,[COLOR yellow]»»------ Iraqi ---------««[/COLOR]
-rtmp://109.123.123.82/wesal/wesal1           
+#EXTINF:-1,[COLOR yellow]»»------ Iraqi---------««[/COLOR]
+rtmp://ns8.indexforce.com/home/mystream       
                          
        
 
@@ -173,7 +173,7 @@ http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
 
 
 #EXTINF:-1,MBC 2
-http://38.99.146.37:7777/MBC2_HD/MBC2_High.m3u8?user=93259&session=59c97bf496113b90ad6b4d3ad411b9e2e68b57d4ae8f02c33f71fe788f391d80a299017ce29bf1aa&hlsid=HLS_472469
+http://38.99.146.36:7777/MBC2_HD.m3u8?user=90840&session=c30c1c150199c577a7e6916c3dc74bdf9d004b847e26bc1d58cc7e124620afb3a299017ce29bf1aa
 
 #EXTINF:0,MBC Action
 http://38.99.146.37:7777/MBCAction_HD/MBCAction_High.m3u8?user=67104&session=d1d0df27f4d118c2761354bb1cdc54df7478c365222deef0ae213273550ef3d5a299017ce29bf1aa&hlsid=HLS_472975
@@ -281,3 +281,11 @@ http://lv7.oedg.ustvnow.com/dvrtest/mp4:0E234WHTMUSTVNOW3/chunklist.m3u8?f1a2823
 
 #EXTINF:-1,cbs
 http://lv7.oedg.ustvnow.com/dvrtest/mp4:AD870WHP0USTVNOW3/chunklist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1921fb440308fc82312e93769a4360a943c3e17aaedee328c704f5e3647bee3eeb47d7
+
+#EXTINF:-1,mbc2
+http://216.66.42.86:7777/MBC2_HD.m3u8?user=90840&session=c30c1c150199c577a7e6916c3dc74bdf9d004b847e26bc1d58cc7e124620afb3a299017ce29bf1aa
+
+
+#EXTINF:-1,mb c 2
+http://38.99.146.36:7777/MBC2_HD/MBC2_High.m3u8?user=90840&session=c30c1c150199c577a7e6916c3dc74bdf9d004b847e26bc1d58cc7e124620afb3a299017ce29bf1aa&hlsid=HLS_2424744
+
