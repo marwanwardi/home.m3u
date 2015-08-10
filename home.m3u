@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
 #EXTINF:-1,mbc1
-http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=99926&session=b6e40673aa74d33413a15fa2737a60d804ad82c221757167d6fee710a330d60d&hlsid=HLS_98787
+http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=79170&session=8e3999e74577a10c7343f2c41bb3296f23b0dbb26023c320eee2174f5468ab50&hlsid=HLS_496098
 
 
 #EXTINF:-1,[COLOR yellow]»»----------Cartoon----------««[/COLOR]
@@ -9,15 +9,15 @@ http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?user=99926&session=b6e40673aa74d
 
 
 #EXTINF:-1,Baraem 
-http://38.99.146.36:7777/Baraem_HD/Baraem_High.m3u8?user=33279&session=0b1d7d1692ecf923b1aae041007705841a7410834d399d41bd04f95da78d73b4&hlsid=HLS_95984
+http://38.99.146.36:7777/Baraem_HD/Baraem_High.m3u8?user=43611&session=675f2d62cad92835a56bef2fb915a2f5ac8101f9a8d3b10ff3cfd4a92db6661f&hlsid=HLS_496856
 
 
 #EXTINF:-1,CN Arabic
-http://38.99.146.36:7777/CNArabia_HD/CNArabia_High.m3u8?user=23749&session=993d094ef154d6658e19ffbc172a5bbbc69a83ad7772e0daef5931cdaa025e72&hlsid=HLS_97296
+http://38.99.146.36:7777/CNArabia_HD/CNArabia_High.m3u8?user=3105&session=20c3bd40249498fe9afee4e0db827e4b2c7487c0955fa747ed45ac20132a6d68&hlsid=HLS_497190
 
 
 #EXTINF:-1,MBC 3
-http://38.99.146.36:7777/MBC3_HD/MBC3_High.m3u8?user=33931&session=19fa4987cd1e4e84b0ce51c98ad38b131c7ff2be2bf7f2c4c867c29241e89ce4&hlsid=HLS_99854
+http://38.99.146.36:7777/MBC3_HD/MBC3_High.m3u8?user=41190&session=3ec74c1030422c5350344a257605e24ff33564ed69dc465dd3b127637cc5520a&hlsid=HLS_497686
 
 
 #EXTINF:-1,Al jazeera kids
@@ -104,7 +104,7 @@ http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w
 
 
 #EXTINF:-1,Moga Comedy
-http://38.99.146.36:7777/MogaComedy_HD/MogaComedy_High.m3u8?user=90389&session=4fcdc71ca7927e403107f9bdacee68eeb8a17c828d65ccb1fc57c3e6ce45c309&hlsid=HLS_116423
+http://38.99.146.36:7777/MogaComedy_HD/MogaComedy_High.m3u8?user=82964&session=055ef514e895e315614c2593ac3dafb588620e32708319511cf9dbcaf658f23a&hlsid=HLS_498560
 
 
 #EXTINF:-1,[COLOR yellow]»»-------Movies------««[/COLOR]
@@ -117,15 +117,14 @@ http://38.99.146.36:7777/CairoComedy_HD/CairoComedy_High.m3u8?user=52738&session
 http://38.99.146.36:7777/CairoCinema_HD/CairoCinema_HD.m3u8?user=5425&session=c4f842b605320343832866412f1a9c23a303283d728f80b1e57b9df264e8d856&hlsid=HLS_119379
 
 #EXTINF:0,Rotana Aflam
-http://38.99.146.36:7777/RotanaAflam_HD/RotanaAflam_High.m3u8?user=33207&session=79d4244e954f8eebbd34bcbc5f7f15be8f0a63b0d279ea583eca7aa41d45000c&hlsid=HLS_132138
+http://38.99.146.36:7777/RotanaAflam_HD/RotanaAflam_High.m3u8?user=82821&session=16606b4fbb6e88d6ecade9253d4e64dcd48fadec7a367aab806c1c9779e6c69a&hlsid=HLS_499186
 
 #EXTINF:0,Cima
 http://38.99.146.36:7777/Cima_HD/Cima_High.m3u8?user=86384&session=6ad3efc4d6558e608ee9d109640de62c767934299d94ca2c42a0dfee4ce21afa&hlsid=HLS_139945
 
 
 #EXTINF:-1,Panorama Film
-http://38.99.146.36:7777/PanoramaFilm_HD/PanoramaFilm_High.m3u8?user=16619&session=fe1d2e030a0a1f870c23021c6963e80684790a0aabe56c29942f87b0ac85c33f&hlsid=HLS_131181
-
+http://38.99.146.36:7777/PanoramaFilm_HD/PanoramaFilm_High.m3u8?user=71819&session=4afa7c4f85c906c738639270ccee7fc8953c05cdc920ab0755b7bd5381497760&hlsid=HLS_501830
 
 
 #EXTINF:-1,cairo Drama
@@ -181,7 +180,7 @@ http://63.237.48.8/ios/MBC_4/MBC_4.m3u8
 http://38.99.146.36:7777/MBCMaser_HD/MBCMaser_High.m3u8?user=92669&session=07f8814c9f99cfa3cf1126746c1db9b68e176ec8b67f8490a373dcc5e54642d5&hlsid=HLS_112046
 
 #EXTINF:-1,MBC MASR 2
-http://38.99.146.36:7777/MBCMasrPlus2_HD/MBCMasrPlus2_High.m3u8?user=90838&session=7692980ce4eea558a723fb442dda4181efb57ea77730d5c908ca8f3fd4ea3f3b&hlsid=HLS_113065
+http://38.99.146.36:7777/MBCMasrPlus2_HD/MBCMasrPlus2_High.m3u8?user=17785&session=bca54f4485f472b36a6482e592dfed2a376b9731cb205aab50aab907d61e9f85&hlsid=HLS_503068
 
 #EXTINF:-1,MBC 4
 http://38.99.146.36:7777/MBC4_HD/MBC4_High.m3u8?user=80775&session=96f1851f6522746c7c6d1fb9ecfa5986d44cf9ee3df7e0ed3c622e2bda97f8ea&hlsid=HLS_108520
@@ -247,7 +246,7 @@ http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_de
 
 
 #EXTINF:-1,National Geographic
-http://38.99.146.36:7777/ADNatGeo_HD/ADNatGeo_High.m3u8?user=48846&session=d285f811500467d73e230e0a87fe537c43317aea18a6775d53e672fb0beaf499&hlsid=HLS_133199
+http://38.99.146.36:7777/ADNatGeo_HD/ADNatGeo_High.m3u8?user=37170&session=7b01899f4000a42970412589cf8e2e5b520f4b1a8770160c92a9617168453628&hlsid=HLS_502343
 
 
 #EXTINF:-1,Aljazeera Documents
@@ -270,7 +269,7 @@ http://46.59.28.215:4949/bynumber/10
 
 
 #EXTINF:-1,National Geographic HD
-http://38.99.146.36:7777/ADNatGeo_HD/ADNatGeo_High.m3u8?user=48846&session=d285f811500467d73e230e0a87fe537c43317aea18a6775d53e672fb0beaf499&hlsid=HLS_133199
+http://38.99.146.36:7777/ADNatGeo_HD/ADNatGeo_High.m3u8?user=37170&session=7b01899f4000a42970412589cf8e2e5b520f4b1a8770160c92a9617168453628&hlsid=HLS_502343
 
 #EXTINF:-1,Discovery 
 http://80.80.160.168/live/9/5000000/live.m3u8
