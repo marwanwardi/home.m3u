@@ -3,7 +3,20 @@
 #EXTINF:0,SD Alsharq
 http://hls1.livestreamingcdn.com/livecdn753/livestreaming/chunklist.m3u8
 
+http://iptv.star7arab.com/free?token=905389425&id=20
+http://iptv.star7arab.com/free?token=905389425&id=24
 
+http://iptv.star7arab.com/free?token=905389425&id=33
+http://iptv.star7arab.com/free?token=905389425&id=36
+http://iptv.star7arab.com/free?token=905389425&id=37
+http://iptv.star7arab.com/free?token=905389425&id=40
+http://iptv.star7arab.com/free?token=905389425&id=43
+http://iptv.star7arab.com/free?token=905389425&id=49
+http://iptv.star7arab.com/free?token=905389425&id=65
+http://iptv.star7arab.com/free?token=905389425&id=66
+http://iptv.star7arab.com/free?token=905389425&id=67
+http://iptv.star7arab.com/free?token=905389425&id=68
+http://iptv.star7arab.com/free?token=905389425&id=70
 
 #EXTINF:-1, TEST
 http://178.33.88.130:888/udp/239.102.0.127:1234
