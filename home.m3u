@@ -3,827 +3,59 @@
 #EXTINF:0,SD Alsharq
 http://hls1.livestreamingcdn.com/livecdn753/livestreaming/chunklist.m3u8
 
+#EXTINF:0,Braaem
+http://iptv.star7arab.com/star7arab/7452541/1046.ch
 
-#EXTINF:-1,Arabic : Quran TV ksa
-http://38.99.146.38:7777/AlQuran_HD.m3u8
+#EXTINF:0,MBC1
+http://iptv.star7arab.com/star7arab/7452541/300.ch 
 
+#EXTINF:0,MBC 3
+http://iptv.star7arab.com/star7arab/7452541/302.ch
 
+#EXTINF:0,GEEM
+http://iptv.star7arab.com/star7arab/7452541/1050.ch
 
-#EXTM3U
+#EXTINF:0,Soace toon
+http://iptv.star7arab.com/star7arab/7452541/1053.ch
 
+#EXTINF:0,CN Arabic
+http://iptv.star7arab.com/star7arab/7452541/1052.ch
 
+#EXTINF:0,CN
+http://iptv.star7arab.com/star7arab/7452541/789.ch
 
-#EXTM3U
-#EXTINF:-1,MBC1 HD
-http://noussa31.no-ip.biz:8000/live/filip/filip/1378.m3u8
-#EXTINF:-1,MBC2_HD
-http://noussa31.no-ip.biz:8000/live/filip/filip/1371.m3u8
-#EXTINF:-1,MBC4 HD
-http://noussa31.no-ip.biz:8000/live/filip/filip/1377.m3u8
-#EXTINF:-1,MBC-1
-http://noussa31.no-ip.biz:8000/live/filip/filip/19.m3u8
-#EXTINF:-1,MBC2
-http://noussa31.no-ip.biz:8000/live/filip/filip/20.m3u8
-#EXTINF:-1,MBC3
-http://noussa31.no-ip.biz:8000/live/filip/filip/21.m3u8
-#EXTINF:-1,MBC4
-http://noussa31.no-ip.biz:8000/live/filip/filip/22.m3u8
-#EXTINF:-1,MBCDRAMA
-http://noussa31.no-ip.biz:8000/live/filip/filip/25.m3u8
-#EXTINF:-1,MBCAction
-http://noussa31.no-ip.biz:8000/live/filip/filip/23.m3u8
-#EXTINF:-1,MBCMAX
-http://noussa31.no-ip.biz:8000/live/filip/filip/26.m3u8
-#EXTINF:-1,MBCBollywood
-http://noussa31.no-ip.biz:8000/live/filip/filip/24.m3u8
-#EXTINF:-1,ART_Cinema
-http://noussa31.no-ip.biz:8000/live/filip/filip/53.m3u8
-#EXTINF:-1,Aflam_1
-http://noussa31.no-ip.biz:8000/live/filip/filip/51.m3u8
-#EXTINF:-1,Aflam_2
-http://noussa31.no-ip.biz:8000/live/filip/filip/52.m3u8
-#EXTINF:-1,Hekayat
-http://noussa31.no-ip.biz:8000/live/filip/filip/54.m3u8
-#EXTINF:-1,Hekayat_2
-http://noussa31.no-ip.biz:8000/live/filip/filip/75.m3u8
-#EXTINF:-1,FOX
-http://noussa31.no-ip.biz:8000/live/filip/filip/231.m3u8
-#EXTINF:-1,Fox_Movies
-http://noussa31.no-ip.biz:8000/live/filip/filip/232.m3u8
-#EXTINF:-1,Star_Movies
-http://noussa31.no-ip.biz:8000/live/filip/filip/339.m3u8
-#EXTINF:-1,STAR_WORLD
-http://noussa31.no-ip.biz:8000/live/filip/filip/338.m3u8
-#EXTINF:-1,AL-JAZEERA
-http://noussa31.no-ip.biz:8000/live/filip/filip/146.m3u8
-#EXTINF:-1,Al-Jazeera-Documentary
-http://noussa31.no-ip.biz:8000/live/filip/filip/155.m3u8
-#EXTINF:-1,Al-Jazeera-Mubasher
-http://noussa31.no-ip.biz:8000/live/filip/filip/833.m3u8
-#EXTINF:-1,Al-Arabiya
-http://noussa31.no-ip.biz:8000/live/filip/filip/150.m3u8
-#EXTINF:-1,AL-Hadath
-http://noussa31.no-ip.biz:8000/live/filip/filip/154.m3u8
-#EXTINF:-1,Alhurra
-http://noussa31.no-ip.biz:8000/live/filip/filip/124.m3u8
-#EXTINF:-1,BBC-ARABIC
-http://noussa31.no-ip.biz:8000/live/filip/filip/824.m3u8
-#EXTINF:-1,NBN
-http://noussa31.no-ip.biz:8000/live/filip/filip/826.m3u8
-#EXTINF:-1,Syria-News
-http://noussa31.no-ip.biz:8000/live/filip/filip/825.m3u8
-#EXTINF:-1,Al-Mayadeen
-http://noussa31.no-ip.biz:8000/live/filip/filip/816.m3u8
-#EXTINF:-1,CNBC-ARABIA
-http://noussa31.no-ip.biz:8000/live/filip/filip/818.m3u8
-#EXTINF:-1,AL-ALAM
-http://noussa31.no-ip.biz:8000/live/filip/filip/827.m3u8
-#EXTINF:-1,ANN-News
-http://noussa31.no-ip.biz:8000/live/filip/filip/828.m3u8
-#EXTINF:-1,DW-TV-ARABIA
-http://noussa31.no-ip.biz:8000/live/filip/filip/288.m3u8
-#EXTINF:-1,AD-NatGeo
-http://noussa31.no-ip.biz:8000/live/filip/filip/119.m3u8
-#EXTINF:-1,Rotana
-http://noussa31.no-ip.biz:8000/live/filip/filip/43.m3u8
-#EXTINF:-1,Rotana_Cinema_KSA
-http://noussa31.no-ip.biz:8000/live/filip/filip/45.m3u8
-#EXTINF:-1,Rotana_Cinema_EGY
-http://noussa31.no-ip.biz:8000/live/filip/filip/44.m3u8
-#EXTINF:-1,Rotana-Masriya
-http://noussa31.no-ip.biz:8000/live/filip/filip/49.m3u8
-#EXTINF:-1,Rotana_Clip
-http://noussa31.no-ip.biz:8000/live/filip/filip/47.m3u8
-#EXTINF:-1,Rotana_Khalijiah
-http://noussa31.no-ip.biz:8000/live/filip/filip/48.m3u8
-#EXTINF:-1,Rotana_Classic
-http://noussa31.no-ip.biz:8000/live/filip/filip/46.m3u8
-#EXTINF:-1,Melody_Classic
-http://noussa31.no-ip.biz:8000/live/filip/filip/140.m3u8
-#EXTINF:-1,Mazzika
-http://noussa31.no-ip.biz:8000/live/filip/filip/291.m3u8
-#EXTINF:-1,MUSIC_PLUS
-http://noussa31.no-ip.biz:8000/live/filip/filip/131.m3u8
-#EXTINF:-1,AWTAR-TV
-http://noussa31.no-ip.biz:8000/live/filip/filip/147.m3u8
-#EXTINF:-1,AD-DRAMA
-http://noussa31.no-ip.biz:8000/live/filip/filip/102.m3u8
-#EXTINF:-1,AD_ALOULA
-http://noussa31.no-ip.biz:8000/live/filip/filip/105.m3u8
-#EXTINF:-1,AD-ALEMARAT
-http://noussa31.no-ip.biz:8000/live/filip/filip/101.m3u8
-#EXTINF:-1,DUBAITV
-http://noussa31.no-ip.biz:8000/live/filip/filip/128.m3u8
-#EXTINF:-1,DUBAI-ONE
-http://noussa31.no-ip.biz:8000/live/filip/filip/126.m3u8
-#EXTINF:-1,SAMADUBAI
-http://noussa31.no-ip.biz:8000/live/filip/filip/133.m3u8
-#EXTINF:-1,AJMAN-TV
-http://noussa31.no-ip.biz:8000/live/filip/filip/153.m3u8
-#EXTINF:-1,AL-SHARJAH
-http://noussa31.no-ip.biz:8000/live/filip/filip/121.m3u8
-#EXTINF:-1,LBC
-http://noussa31.no-ip.biz:8000/live/filip/filip/139.m3u8
-#EXTINF:-1,FUTURE_TV
-http://noussa31.no-ip.biz:8000/live/filip/filip/280.m3u8
-#EXTINF:-1,BEIRUT_CINEMA
-http://noussa31.no-ip.biz:8000/live/filip/filip/286.m3u8
-#EXTINF:-1,mtv_lebanon
-http://noussa31.no-ip.biz:8000/live/filip/filip/209.m3u8
-#EXTINF:-1,MBC_Masr2
-http://noussa31.no-ip.biz:8000/live/filip/filip/28.m3u8
-#EXTINF:-1,MBC_MASR
-http://noussa31.no-ip.biz:8000/live/filip/filip/27.m3u8
-#EXTINF:-1,CBC
-http://noussa31.no-ip.biz:8000/live/filip/filip/56.m3u8
-#EXTINF:-1,CBC2
-http://noussa31.no-ip.biz:8000/live/filip/filip/57.m3u8
-#EXTINF:-1,CBC-Two
-http://noussa31.no-ip.biz:8000/live/filip/filip/61.m3u8
-#EXTINF:-1,CBC-Drama
-http://noussa31.no-ip.biz:8000/live/filip/filip/58.m3u8
-#EXTINF:-1,Alhayat-Muslsalat
-http://noussa31.no-ip.biz:8000/live/filip/filip/515.m3u8
-#EXTINF:-1,CBC-Extra
-http://noussa31.no-ip.biz:8000/live/filip/filip/59.m3u8
-#EXTINF:-1,CBC-Sofra
-http://noussa31.no-ip.biz:8000/live/filip/filip/60.m3u8
-#EXTINF:-1,Nile_news
-http://noussa31.no-ip.biz:8000/live/filip/filip/295.m3u8
-#EXTINF:-1,Nile_Life
-http://noussa31.no-ip.biz:8000/live/filip/filip/144.m3u8
-#EXTINF:-1,Nile_Family
-http://noussa31.no-ip.biz:8000/live/filip/filip/143.m3u8
-#EXTINF:-1,Nile_Drama
-http://noussa31.no-ip.biz:8000/live/filip/filip/142.m3u8
-#EXTINF:-1,Nile_Comedy
-http://noussa31.no-ip.biz:8000/live/filip/filip/141.m3u8
-#EXTINF:-1,Nile_Cinema
-http://noussa31.no-ip.biz:8000/live/filip/filip/294.m3u8
-#EXTINF:-1,ALHAYAT
-http://noussa31.no-ip.biz:8000/live/filip/filip/123.m3u8
-#EXTINF:-1,Alhayat_2
-http://noussa31.no-ip.biz:8000/live/filip/filip/157.m3u8
-#EXTINF:-1,Al-Hayat-Cinema
-http://noussa31.no-ip.biz:8000/live/filip/filip/136.m3u8
-#EXTINF:-1,AlNahar-Drama
-http://noussa31.no-ip.biz:8000/live/filip/filip/159.m3u8
-#EXTINF:-1,al-nahar-sport
-http://noussa31.no-ip.biz:8000/live/filip/filip/835.m3u8
-#EXTINF:-1,al-nahar-nour
-http://noussa31.no-ip.biz:8000/live/filip/filip/838.m3u8
-#EXTINF:-1,Al-Nahar-Al-Youm
-http://noussa31.no-ip.biz:8000/live/filip/filip/837.m3u8
-#EXTINF:-1,Al-Nahar+2
-http://noussa31.no-ip.biz:8000/live/filip/filip/834.m3u8
-#EXTINF:-1,Al-Nahar
-http://noussa31.no-ip.biz:8000/live/filip/filip/156.m3u8
-#EXTINF:-1,DREAM1
-http://noussa31.no-ip.biz:8000/live/filip/filip/287.m3u8
-#EXTINF:-1,Dream2
-http://noussa31.no-ip.biz:8000/live/filip/filip/163.m3u8
-#EXTINF:-1,Cairo-Zaman
-http://noussa31.no-ip.biz:8000/live/filip/filip/111.m3u8
-#EXTINF:-1,Cairo-Mosalsalat
-http://noussa31.no-ip.biz:8000/live/filip/filip/110.m3u8
-#EXTINF:-1,Cairo-Drama
-http://noussa31.no-ip.biz:8000/live/filip/filip/109.m3u8
-#EXTINF:-1,Cairo-Comedy
-http://noussa31.no-ip.biz:8000/live/filip/filip/108.m3u8
-#EXTINF:-1,Cairo-cinema
-http://noussa31.no-ip.biz:8000/live/filip/filip/107.m3u8
-#EXTINF:-1,Cairo-Aflam
-http://noussa31.no-ip.biz:8000/live/filip/filip/106.m3u8
-#EXTINF:-1,Panorama-Drama2
-http://noussa31.no-ip.biz:8000/live/filip/filip/41.m3u8
-#EXTINF:-1,Panorama-Drama
-http://noussa31.no-ip.biz:8000/live/filip/filip/40.m3u8
-#EXTINF:-1,Panorama-comedy
-http://noussa31.no-ip.biz:8000/live/filip/filip/844.m3u8
-#EXTINF:-1,Panorama-FOOD
-http://noussa31.no-ip.biz:8000/live/filip/filip/842.m3u8
-#EXTINF:-1,Layaly-Cinema
-http://noussa31.no-ip.biz:8000/live/filip/filip/115.m3u8
-#EXTINF:-1,time_cinema
-http://noussa31.no-ip.biz:8000/live/filip/filip/223.m3u8
-#EXTINF:-1,TIME-COMEDY
-http://noussa31.no-ip.biz:8000/live/filip/filip/849.m3u8
-#EXTINF:-1,STAR-CINEMA2
-http://noussa31.no-ip.biz:8000/live/filip/filip/850.m3u8
-#EXTINF:-1,STAR-CINEMA1
-http://noussa31.no-ip.biz:8000/live/filip/filip/851.m3u8
-#EXTINF:-1,STAR-AFLAM
-http://noussa31.no-ip.biz:8000/live/filip/filip/845.m3u8
-#EXTINF:-1,SAMA-CINEMA
-http://noussa31.no-ip.biz:8000/live/filip/filip/848.m3u8
-#EXTINF:-1,Sada-ElBalad-Drama
-http://noussa31.no-ip.biz:8000/live/filip/filip/843.m3u8
-#EXTINF:-1,ALMASRAWIA-AFLAM
-http://noussa31.no-ip.biz:8000/live/filip/filip/847.m3u8
-#EXTINF:-1,AL-MANAR
-http://noussa31.no-ip.biz:8000/live/filip/filip/853.m3u8
-#EXTINF:-1,AHRAM-CINEMA
-http://noussa31.no-ip.biz:8000/live/filip/filip/852.m3u8
-#EXTINF:-1,BEIRUT-AFLAM
-http://noussa31.no-ip.biz:8000/live/filip/filip/846.m3u8
-#EXTINF:-1,SHNPOO-AFLAM
-http://noussa31.no-ip.biz:8000/live/filip/filip/118.m3u8
-#EXTINF:-1,SHANABO-ZAMAN
-http://noussa31.no-ip.biz:8000/live/filip/filip/173.m3u8
-#EXTINF:-1,AL_BAIT_BAITAK_CINEMA
-http://noussa31.no-ip.biz:8000/live/filip/filip/284.m3u8
-#EXTINF:-1,Mehwer
-http://noussa31.no-ip.biz:8000/live/filip/filip/130.m3u8
-#EXTINF:-1,AL_kalemah_TV
-http://noussa31.no-ip.biz:8000/live/filip/filip/200.m3u8
-#EXTINF:-1,AlArabiya-Hadath
-http://noussa31.no-ip.biz:8000/live/filip/filip/151.m3u8
-#EXTINF:-1,Althanya
-http://noussa31.no-ip.biz:8000/live/filip/filip/199.m3u8
-#EXTINF:-1,ALGERIE
-http://noussa31.no-ip.biz:8000/live/filip/filip/832.m3u8
-#EXTINF:-1,Algerie3
-http://noussa31.no-ip.biz:8000/live/filip/filip/122.m3u8
-#EXTINF:-1,heddaf
-http://noussa31.no-ip.biz:8000/live/filip/filip/829.m3u8
-#EXTINF:-1,Echourouk
-http://noussa31.no-ip.biz:8000/live/filip/filip/831.m3u8
-#EXTINF:-1,Dzair_TV
-http://noussa31.no-ip.biz:8000/live/filip/filip/202.m3u8
-#EXTINF:-1,Samira-TV
-http://noussa31.no-ip.biz:8000/live/filip/filip/210.m3u8
-#EXTINF:-1,Echorouk-News
-http://noussa31.no-ip.biz:8000/live/filip/filip/203.m3u8
-#EXTINF:-1,EL-DJAZAIRIA
-http://noussa31.no-ip.biz:8000/live/filip/filip/205.m3u8
-#EXTINF:-1,EL-WATANDZ
-http://noussa31.no-ip.biz:8000/live/filip/filip/206.m3u8
-#EXTINF:-1,HOGAR-TV
-http://noussa31.no-ip.biz:8000/live/filip/filip/208.m3u8
-#EXTINF:-1,ENNAHAR-TV
-http://noussa31.no-ip.biz:8000/live/filip/filip/164.m3u8
-#EXTINF:-1,Ennahar-Laki
-http://noussa31.no-ip.biz:8000/live/filip/filip/207.m3u8
+http://iptv.star7arab.com/star7arab/7452541/595.ch
 
-#EXTINF:-1, Film : Djinn
-http://flv.alarab.net:8080//flv/85194.flv?start=0
-#EXTINF:-1,Film : Antar and Bissa
-http://flv.alarab.net:8080//flv/85444.flv?start=0
-#EXTINF:-1, Film : Almowatin bors
-http://flv.alarab.net:8080//flv/85363.flv?start=0
-#EXTINF:-1, Film : So2 tafahom
-http://flv.alarab.net:8080//flv/84844.flv?start=0
-#EXTINF:-1, Film : khota badila
-http://flv.alarab.net:8080//flv/84843.flv?start=0
-#EXTINF:-1, Film : yom malouch lazma
-http://flv.alarab.net:8080//flv/84681.flv?start=0
-#EXTINF:-1, Film : Haz wist lbalad
-http://flv.alarab.net:8080//flv/84679.flv?start=0
-#EXTINF:-1, ????? ???????? ??? 2015
-http://flv.alarab.net:8080//flv/84551.flv?start=0
-#EXTINF:-1,???? ????? ????? ???? ??? ???? 2015
-http://flv.alarab.net:8080//flv/84548.flv?start=0
-#EXTINF:-1, ?????? ??????? ?????? ??? ???? 2015
-http://flv.alarab.net:8080//flv/84539.flv?start=0
-#EXTINF:-1, ???? ?????? ???? ?????? ??? ???? 2015
-http://flv.alarab.net:8080//flv/84488.flv?start=0
-#EXTINF:-1, ???? ???? ????? ????? ?????? ??? ???? 2015
-http://flv.alarab.net:8080//flv/84208.flv?start=0
-#EXTINF:-1, ????_??????_???????_????_????_2015
-http://flv.alarab.net:8080//flv/84197.flv?start=0
-#EXTINF:-1, Film : al9it
-http://flv.alarab.net:8080//flv/84088.flv?start=0
-#EXTINF:-1, Film : the_festival_2014
-http://flv.alarab.net:8080//flv/83854.flv?start=0
-#EXTINF:-1, Film : almakida
-http://flv.alarab.net:8080//flv/83710.flv?start=0
-#EXTINF:-1, Film : garsonira
-http://flv.alarab.net:8080//flv/83685.flv?start=0
-#EXTINF:-1, Film : omar wi salma
-http://flv.alarab.net:8080//flv/83554.flv?start=0
-#EXTINF:-1, Film : hamati bithibini
-http://flv.alarab.net:8080//flv/83334.flv?start=0
-#EXTINF:-1, Film : nadariyat 3amiti
-http://flv.alarab.net:8080//flv/83198.flv?start=0
-#EXTINF:-1, Film : HIV
-http://flv.alarab.net:8080//flv/83196.flv?start=0
-#EXTINF:-1, Film : alkachach
-http://flv.alarab.net:8080//flv/83155.flv?start=0
-#EXTINF:-1, Film : wahed si3idi
-http://flv.alarab.net:8080//flv/83056.flv?start=0
-#EXTINF:-1,flv 3oche_elbolbol
-http://flv.alarab.net:8080//flv/81232.flv
-#EXTINF:-1,flv 5otat_jimi
-http://flv.alarab.net:8080//flv/74722.flv
-#EXTINF:-1,flv 7alawat_rou7
-http://flv.alarab.net:8080//flv/80106.flv
-#EXTINF:-1,flv 7amati_bit7ibini
-http://flv.alarab.net:8080//flv/83334.flv
-#EXTINF:-1,flv 7olm_omr
-http://flv.alarab.net:8080//flv/76547.flv
-#EXTINF:-1,flv achita_lifat
-http://flv.alarab.net:8080//flv/75166.flv
-#EXTINF:-1,flv al_9achach
-http://flv.alarab.net:8080//flv/83155.flv
-#EXTINF:-1,flv al7ab_al3alamia_athalitha
-http://flv.alarab.net:8080//flv/80272.flv
-#EXTINF:-1,flv alharibatan
-http://flv.alarab.net:8080//flv/76509.flv
-#EXTINF:-1,flv aljazeera2
-http://flv.alarab.net:8080//flv/81800.flv
-#EXTINF:-1,flv almo3dia
-http://flv.alarab.net:8080//flv/82374.flv
-#EXTINF:-1,flv amwaj_9assira
-http://flv.alarab.net:8080//flv/79349.flv
-#EXTINF:-1,flv atarik_adairi
-http://flv.alarab.net:8080//flv/81569.flv
-#EXTINF:-1,flv bibi
-http://flv.alarab.net:8080//flv/76517.flv
-#EXTINF:-1,flv captin_hima
-http://flv.alarab.net:8080//flv/81153.flv
-#EXTINF:-1,flv elphil_ alazra9
-http://flv.alarab.net:8080//flv/80344.flv
-#EXTINF:-1,flv hojoum_montasaf_alil
-http://flv.alarab.net:8080//flv/81251.flv
-#EXTINF:-1,flv houjoum_montasaf_alil
-http://flv.alarab.net:8080//flv/76585.flv
-#EXTINF:-1,flv jawazat_miry
-http://flv.alarab.net:8080//flv/80472.flv
-#EXTINF:-1,flv kalam_jarayad
-http://flv.alarab.net:8080//flv/74953.flv
-#EXTINF:-1,flv lamoa5da
-http://flv.alarab.net:8080//flv/81304.flv
-#EXTINF:-1,flv made_in_egypt
-http://flv.alarab.net:8080//flv/79970.flv
-#EXTINF:-1,flv marati_wa_zawjati
-http://flv.alarab.net:8080//flv/80578.flv
-#EXTINF:-1,flv morjan_ahmed_morjan
-http://flv.alarab.net:8080//flv/81372.flv
-#EXTINF:-1,flv mot3ib_wa_chadia
-http://flv.alarab.net:8080//flv/74720.flv
-#EXTINF:-1,flv nazariat_3amiti
-http://flv.alarab.net:8080//flv/83198.flv
-#EXTINF:-1,flv salam_abou_o5to
-http://flv.alarab.net:8080//flv/80018.flv
-#EXTINF:-1,flv taxi_albalad_lebanon
-http://flv.alarab.net:8080//flv/76253.flv
-#EXTINF:-1,flv THE_DEALER
-http://flv.alarab.net:8080//flv/80603.flv
-#EXTINF:-1,flv villa69
-http://flv.alarab.net:8080//flv/79937.flv
-#EXTINF:-1,Arabic : MBC 1
-http://38.99.146.38:7777/MBC1_HD.m3u8
-#EXTINF:-1,Arabic : MBC Masr
-http://38.99.146.38:7777/MBCMaser_HD.m3u8
-#EXTINF:-1,Arabic : MBCMasrPlus2
-http://38.99.146.38:7777/MBCMasrPlus2_HD.m3u8
+http://iptv.star7arab.com/star7arab/7452541/723.ch
+http://iptv.star7arab.com/star7arab/7452541/788.ch
+#EXTINF:0,XD
+http://iptv.star7arab.com/star7arab/7452541/724.ch
 
+http://iptv.star7arab.com/star7arab/7452541/807.ch
 
+http://iptv.star7arab.com/star7arab/7452541/713.ch
 
+http://iptv.star7arab.com/star7arab/7452541/802.ch
 
-#EXTINF:-1,National Geo Ad
-http://38.99.146.38:7777/ADNatGeo_HD.m3u8
+#EXTINF:0,Fatafeat
+http://iptv.star7arab.com/star7arab/7452541/1034.ch
 
-#EXTINF:-1,Arabic : Spacetoon
-http://38.99.146.38:7777/SpaceToonArabic_HD.m3u8
-#EXTINF:-1, Cartoon Network
-http://38.99.146.38:7777/CNArabia_HD.m3u8
+#EXTINF:0,E
+http://iptv.star7arab.com/star7arab/7452541/825.ch
 
-#EXTINF:-1, MBC 3
-http://38.99.146.38:7777/MBC3_HD.m3u8
+#EXTINF:0,Dubai 1
+http://iptv.star7arab.com/star7arab/7452541/1126.ch
 
-#EXTINF:-1,Arabic : Aljazeera Doc
-http://38.99.146.38:7777/AlJazeeraDocument_HD.m3u8
+#EXTINF:0,Dream
+http://iptv.star7arab.com/star7arab/7452541/1185.ch
 
-#EXTINF:-1, Baraem
-http://38.99.146.38:7777/Baraem_HD.m3u8
-#EXTINF:-1, Aljazeera Children
-http://38.99.146.38:7777/AlJazeeraKid_HD.m3u8
-
-#EXTINF:-1,Ajyal
-http://38.99.146.38:7777/AjyalTV_HD.m3u8
-
-
-#EXTINF:-1, AlJazeera
-http://38.99.146.38:7777/AlJazeera_HD.m3u8
-
-#EXTINF:-1,Alarabiya
-http://38.99.146.38:7777/AlArabiya_HD.m3u8
-
-#EXTINF:-1,Arabic : Alarabiya Ahdas
-http://38.99.146.38:7777/AlArabiyaHadath_HD.m3u8
-
-
-#EXTINF:-1,Arabic : Al Moustakilla
-http://38.99.146.38:7777/AlMustakila_HD.m3u8
-
-
-#EXTINF:-1,Arabic : Alan
-http://38.99.146.38:7777/AlAan_HD.m3u8
-
-#EXTINF:-1,Arabic : Abu Dhabi Emirates
-http://38.99.146.38:7777/ADEmirates_HD.m3u8
-
-
-#EXTINF:-1, Abu Dhabi
-http://38.99.146.38:7777/ADAlOula_HD.m3u8
-#EXTINF:-1,Arabic : Dubai
-http://38.99.146.38:7777/DubaiEurope_HD.m3u8
-#EXTINF:-1,Aghanina
-http://38.99.146.38:7777/Aghanina_HD.m3u8
-
-
-#EXTINF:-1,Arabic : Al Amaken Drama
-http://38.99.146.38:7777/AlAmakenDrama_HD.m3u8
-#EXTINF:-1,Arabic : Albait Baitak Cinema
-http://38.99.146.38:7777/AlbaitBaitakCinema_HD.m3u8
-
-#EXTINF:-1,Arabic : Alhayat2
-http://38.99.146.38:7777/Alhayat2_HD.m3u8
-#EXTINF:-1,Arabic : Alhayat-Series
-http://38.99.146.38:7777/AlHayatMousalsalat_HD.m3u8
-
-
-#EXTINF:-1,Arabic : Aljadeed
-http://38.99.146.38:7777/AlJadeed_HD.m3u8
-
-
-
-
-#EXTINF:-1,Arabic : AlQahera W Elnas
-http://38.99.146.38:7777/AlKaheraWalNas_HD.m3u8
-#EXTINF:-1,Arabic : AlQahera W Elnas 2
-http://38.99.146.38:7777/AlKaheraWalNas2_HD.m3u8
-
-
-#EXTINF:-1,Arabic : AlMasrawia
-http://38.99.146.38:7777/AlMasrawia_HD.m3u8
-#EXTINF:-1,Arabic : Al Masriyah
-http://38.99.146.38:7777/AlMasriyah_HD.m3u8
-
-
-
-
-#EXTINF:-1,Arabic : Al Nahar
-http://38.99.146.38:7777/AlNahar_HD.m3u8
-#EXTINF:-1,Arabic : Alnahar Alyoum
-http://38.99.146.38:7777/AlNahar2_HD.m3u8
-#EXTINF:-1,Arabic : Abu Dhabi Drama
-http://38.99.146.38:7777/ADDrama_HD.m3u8
-#EXTINF:-1,Arabic : Al-Nahar Drama
-http://38.99.146.38:7777/AlNaharDrama_HD.m3u8
-#EXTINF:-1,Arabic : Al Nahar 2
-http://38.99.146.38:7777/AlNaharMovies_HD.m3u8
-
-#EXTINF:-1,Arabic : Panorama Drama
-http://38.99.146.38:7777/PanoramaDrama_HD.m3u8
-#EXTINF:-1,Arabic : Panorama Drama 2
-http://38.99.146.38:7777/PanoramaDrama2_HD.m3u8
-#EXTINF:-1,Arabic : Panorama film
-http://38.99.146.38:7777/PanoramaFilm_HD.m3u8
-
-#EXTINF:-1,Arabic : Rotana Aflam
-http://38.99.146.38:7777/RotanaAflam_HD.m3u8
-#EXTINF:-1,Arabic : Rotana Cinema
-http://38.99.146.38:7777/RotanaCinema_HD.m3u8
-
-
-#EXTINF:-1,Arabic : Cairo Cinema
-http://38.99.146.38:7777/CairoCinema_HD.m3u8
-#EXTINF:-1,Arabic : Cairo Comedy
-http://38.99.146.38:7777/CairoComedy_HD.m3u8
-#EXTINF:-1,Arabic : Cairo Drama
-http://38.99.146.38:7777/CairoDrama_HD.m3u8
-#EXTINF:-1,Arabic : Cima
-http://38.99.146.38:7777/Cima_HD.m3u8
-
-#EXTINF:-1,Arabic : CBC
-http://38.99.146.38:7777/CBC_HD.m3u8
-#EXTINF:-1,Arabic : CBC Extra
-http://38.99.146.38:7777/CBC2_HD.m3u8
-#EXTINF:-1,Arabic : CBC Drama
-http://38.99.146.38:7777/CBCDrama_HD.m3u8
-
-#EXTINF:-1,Arabic : Dubai One
-http://38.99.146.38:7777/DubaiOne_HD.m3u8
-#EXTINF:-1,Arabic : Fx Arabia
-http://38.99.146.38:7777/Fox_HD.m3u8
-#EXTINF:-1,Arabic : Fox Movies
-http://38.99.146.38:7777/FoxMovies_HD.m3u8
-
-#EXTINF:-1,Arabic : Funoon
-http://38.99.146.38:7777/Funoon_HD.m3u8
-
-#EXTINF:-1,Arabic : Chobra Cima
-http://38.99.146.38:7777/LayaliCinema_HD.m3u8
-
-#EXTINF:-1,Arabic : Nile Cinema
-http://38.99.146.38:7777/NileCinema_HD.m3u8
-#EXTINF:-1,Arabic : Nile Comedy
-http://38.99.146.38:7777/NileComedy_HD.m3u8
-#EXTINF:-1,Arabic : Algharam Cinema
-http://38.99.146.38:7777/AlTet_HD.m3u8
-
-#EXTINF:-1,Dream 1
-http://38.99.146.38:7777/Dream1_HD.m3u8
-#EXTINF:-1,Arabic : Dream 2
-http://38.99.146.38:7777/Dream2_HD.m3u8
-
-
-#EXTINF:-1,Arabic : Masrawi Aflam
-http://38.99.146.38:7777/MasrawiAflam_HD.m3u8
-#EXTINF:-1,Arabic : MBC 2
-http://38.99.146.38:7777/MBC2_HD.m3u8
-
-#EXTINF:-1,Arabic : MBC 4
-http://38.99.146.38:7777/MBC4_HD.m3u8
-#EXTINF:-1,Arabic : MBC Action
-http://38.99.146.38:7777/MBCAction_HD.m3u8
-#EXTINF:-1,Arabic : MBC Drama
-http://38.99.146.38:7777/MBCDrama_HD.m3u8
-
-#EXTINF:-1,Arabic : MBC Max
-http://38.99.146.38:7777/MBCMax_HD.m3u8
-#EXTINF:-1,Arabic : Moga Comedy
-http://38.99.146.38:7777/MogaComedy_HD.m3u8
-#EXTINF:-1,Arabic : Cairo Cinema 2
-http://38.99.146.38:7777/Mosar3_HD.m3u8
-
-#EXTINF:-1,Arabic : Oscar Drama
-http://38.99.146.38:7777/OscarDrama_HD.m3u8
-#EXTINF:-1,Arabic : Oscar Drama 2
-http://38.99.146.38:7777/OscarDrama2_HD.m3u8
-
-#EXTINF:-1,Arabic : Time Cinema
-http://38.99.146.38:7777/TimeCinema_HD.m3u8
-#EXTINF:-1,Arabic : Time Drama
-http://38.99.146.38:7777/TimeDrama_HD.m3u8
-#EXTINF:-1,Arabic : Taxi El Sahra
-http://38.99.146.38:7777/TimeTiatro_HD.m3u8
-#EXTINF:-1,Arabic : Top Movies
-http://38.99.146.38:7777/TopMovies_HD.m3u8
-
-
-
-
-
-
-#EXTINF:-1,Arabic : Alrai
-http://38.99.146.38:7777/Alrai_HD.m3u8
-
-
-
-#EXTINF:-1,Arabic : sunnah TV
-http://38.99.146.38:7777/AlSunnah_HD.m3u8
-
-
-#EXTINF:-1,Arabic : alwatan
-http://38.99.146.38:7777/Alwatan_HD.m3u8
-#EXTINF:-1,Arabic : Alwatan Plus
-http://38.99.146.38:7777/AlwatanPlus_HD.m3u8
-
-#EXTINF:-1,Arabic : Arabica Music
-http://38.99.146.38:7777/ArabicaMusic_HD.m3u8
-
-
-#EXTINF:-1,Arabic : BBC Arabic
-http://38.99.146.38:7777/BBCArabic_HD.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1, Al Rasheed
-http://38.99.146.38:7777/AlRasheed_HD.m3u8
-
-#EXTINF:-1, AlBabeleyia
-http://38.99.146.38:7777/AlBabeleyia_HD.m3u8
-#EXTINF:-1,Arabic : Al Baghdadia
-http://38.99.146.38:7777/AlBaghdadia_HD.m3u8
-
-#EXTINF:-1,Arabic : Aldiyar
-http://38.99.146.38:7777/AldiyarSat_HD.m3u8
-#EXTINF:-1,Arabic : Al Fayhaa
-http://38.99.146.38:7777/AlFayhaa_HD.m3u8
-
-#EXTINF:-1,Arabic : Al Rafidain
-http://38.99.146.38:7777/AlRafidain_HD.m3u8
-#EXTINF:-1,Arabic : Al Sharqiya
-http://38.99.146.38:7777/AlSharqiya_HD.m3u8
-#EXTINF:-1,Arabic : Al Sharqiya News
-http://38.99.146.38:7777/AlsharqiyaNews_HD.m3u8
-
-#EXTINF:-1,Arabic : Al Sumaria
-http://38.99.146.38:7777/Alsumaria_HD.m3u8
-#EXTINF:-1, Dejlah
-http://38.99.146.38:7777/Dejlah_HD.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1,Arabic : DW Arabic
-http://38.99.146.38:7777/DWTVArabia_HD.m3u8
-
-#EXTINF:-1,Arabic : Fatafeat
-http://38.99.146.38:7777/Fatafeat_HD.m3u8
-#EXTINF:-1,Arabic : CBC Sofra
-http://38.99.146.38:7777/CBCSofra_HD.m3u8
-
-
-#EXTINF:-1,Arabic : Future TV
-http://38.99.146.38:7777/Future_HD.m3u8
-#EXTINF:-1,Arabic : Future News
-http://38.99.146.38:7777/FutureNews_HD.m3u8
-
-
-#EXTINF:-1,Arabic : GearOne
-http://38.99.146.38:7777/GearOne_HD.m3u8
-
-
-#EXTINF:-1,Arabic : Alhayat 1
-http://38.99.146.38:7777/Hayat_HD.m3u8
-
-
-
-
-#EXTINF:-1,Arabic : Lbc Europe
-http://38.99.146.38:7777/LBC_HD.m3u8
-
-#EXTINF:-1,Arabic : LDC
-http://38.99.146.38:7777/LDC_HD.m3u8
-
-#EXTINF:-1,Arabic : Cine Majesti
-http://38.99.146.38:7777/MajesticCinema_HD.m3u8
-#EXTINF:-1,Arabic : Mara7
-http://38.99.146.38:7777/Mara7_HD.m3u8
-
-#EXTINF:-1,Arabic : Massaya
-http://38.99.146.38:7777/Massaya_HD.m3u8
-
-
-
-
-
-#EXTINF:-1,Arabic : MTV Arabia
-http://38.99.146.38:7777/MTVArabia_HD.m3u8
-#EXTINF:-1,Arabic : MTV
-http://38.99.146.38:7777/MTVLebanon_HD.m3u8
-#EXTINF:-1,Arabic : Al Haneen Music
-http://38.99.146.38:7777/MusicAlhanen_HD.m3u8
-#EXTINF:-1,Arabic : Music+
-http://38.99.146.38:7777/MusicPlus_HD.m3u8
-
-
-
-#EXTINF:-1,Arabic : Nojoom1
-http://38.99.146.38:7777/Nojoom1_HD.m3u8
-#EXTINF:-1,Arabic : Noon Kids
-http://38.99.146.38:7777/Noon_HD.m3u8
-#EXTINF:-1,Arabic : Noor Dubai
-http://38.99.146.38:7777/NoorDubai_HD.m3u8
-
-#EXTINF:-1,Arabic : Syria Nour
-http://38.99.146.38:7777/NourElSham_HD.m3u8
-#EXTINF:-1,Arabic : Nourmina
-http://38.99.146.38:7777/Nourmina_HD.m3u8
-
-
-#EXTINF:-1,Arabic : On TV
-http://38.99.146.38:7777/ONTV_HD.m3u8
-#EXTINF:-1,Arabic : ONTV Live
-http://38.99.146.38:7777/ONTVLive_HD.m3u8
-#EXTINF:-1,Arabic : Orient News
-http://38.99.146.38:7777/OrientNews_HD.m3u8
-#EXTINF:-1,Arabic : ORTM
-http://38.99.146.38:7777/ORTM_HD.m3u8
-
-#EXTINF:-1,Arabic : OTV Lebanon
-http://38.99.146.38:7777/OTV_HD.m3u8
-
-
-
-
-#EXTINF:-1, AAAMusic
-http://38.99.146.38:7777/AAAMusic_HD.m3u8
-#EXTINF:-1,Arabic : Alqithara
-http://38.99.146.38:7777/AlQithara_HD.m3u8
-#EXTINF:-1,Arabic : Rotana Clip
-http://38.99.146.38:7777/RotanaClip_HD.m3u8
-#EXTINF:-1,Arabic : Rotana Khaligi
-http://38.99.146.38:7777/RotanaKhalijiah_HD.m3u8
-#EXTINF:-1,Arabic : Rotana Masriya
-http://38.99.146.38:7777/RotanaMasriya_HD.m3u8
-#EXTINF:-1,Arabic : Rotana Music
-http://38.99.146.38:7777/RotanaMusic_HD.m3u8
-#EXTINF:-1,Arabic : Rotana Classic
-http://38.99.146.38:7777/RotanaZaman_HD.m3u8
-
-
-#EXTINF:-1,Arabic : Russia Alyaum
-http://38.99.146.38:7777/RussiyaAlYaum_HD.m3u8
-#EXTINF:-1,Arabic : Sada Al Balad
-http://38.99.146.38:7777/SadaAlBalad_HD.m3u8
-#EXTINF:-1,Arabic : Sada AlBalad Drama
-http://38.99.146.38:7777/SadaAlBaladDrama_HD.m3u8
-#EXTINF:-1,Arabic : Sama Cinema
-http://38.99.146.38:7777/SamaCinema_HD.m3u8
-#EXTINF:-1,Arabic : Sama Dubai
-http://38.99.146.38:7777/SamaDubai_HD.m3u8
-
-#EXTINF:-1,Arabic : Samira TV
-http://38.99.146.38:7777/SamiraTV_HD.m3u8
-
-
-
-#EXTINF:-1,Arabic : SkyNewsArabia
-http://38.99.146.38:7777/SkyNews_HD.m3u8
-
-#EXTINF:-1,Arabic : Space Power
-http://38.99.146.38:7777/SpacePower_HD.m3u8
-
-#EXTINF:-1,Arabic : Star 1 Cinema
-http://38.99.146.38:7777/StarCinema1_HD.m3u8
-#EXTINF:-1,Arabic : Star 2 Cinema
-http://38.99.146.38:7777/StarCinema2_HD.m3u8
-
-#EXTINF:-1,Arabic : Syria Drama
-http://38.99.146.38:7777/SyriaDrama_HD.m3u8
-
-
-
-#EXTINF:-1,Arabic : Toyor Al Janah
-http://38.99.146.38:7777/ToyorAlJanah_HD.m3u8
-#EXTINF:-1,Arabic : TRT Arabic
-http://38.99.146.38:7777/TRTArabic_HD.m3u8
-
-#EXTINF:-1,Arabic : TV 5 MONDE
-http://38.99.146.38:7777/TV5_HD.m3u8
-
-#EXTINF:-1,Arabic : Wanasah
-http://38.99.146.38:7777/Wanasah_HD.m3u8
-
-
-
-#EXTINF:-1, TEST
-http://178.33.88.130:888/udp/239.102.0.127:1234
-
-#EXTINF:-1,++++++++++++++++++++++++++++++++++++++++++++++
-
-
-
-
-
-#EXTINF:-1,----------------------------------------------------------------------------------
-
-
-#EXTINF:-1,mbc1
-
-
-
-#EXTINF:-1,mbc masr
-
-#EXTINF:-1,MBC MASR 2
-
-
-#EXTINF:-1,Baraem 
-
-
-#EXTINF:-1,CN Arabic
-
-#EXTINF:-1,MBC 3
-
-
-#EXTINF:-1,Al jazeera kids
-
-
-#EXTINF:-1,Tom and Jerry
-rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
-
-
-
-#EXTINF:-1,Fatafeat
-
-
-#EXTINF:-1,Al Sumaria
+#EXTINF:0,
 
 #EXTINF:-1,Al Sharqiya
 rtmp://ns8.indexforce.com/home/mystream
 
-#EXTINF:-1,Al Sharqiya HD
-http://38.99.146.36:7777/AlSharqiya_HD/AlSharqiya_HD.m3u8?user=22811&session=87b3e50a141abe1bf25cfe9dac7922c41c2741e2cc70eecb485fd2c4e74e6b26&hlsid=HLS_126398
-
 #EXTINF:-1,Al Sharqiya_news
 rtmp://ns8.indexforce.com/alsharqiyalive/mystream
-
-#EXTINF:-1,AL Sharqiya News HD
-http://38.99.146.36:7777/AlsharqiyaNews_HD/AlsharqiyaNews_HD.m3u8?user=73451&session=b127beabfe330814c14d32a1eb2f9ccfe60040f5ce3254e6164fe824cac280bb&hlsid=HLS_125050
 
 
 #EXTINF:0,Al Baghdadia
@@ -831,9 +63,6 @@ http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 
 #EXTINF:0,Al-Baghdadia 2
 http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
-
-#EXTINF:-1,Alrasheed
-http://94.127.209.149:8080/alrashid/alrashid_1mbps/index.m3u8?v=1268884471
 
 #EXTINF:-1,Dijla
 rtmp://stream.joinvisions.net/dij//dij
@@ -845,73 +74,75 @@ http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
 #EXTINF:0,Hona Baghdad
 rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
 
-#EXTINF:0,Kurdistan
-rtmp://84.244.187.12/live?gmswf=1269310610/livestream
-
 
 
 #EXTINF:0,Funoon
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8?v=1269310610
 
-
-#EXTINF:-1,Alnahar drama
-http://38.99.146.36:7777/AlNaharDrama_HD/AlNaharDrama_High.m3u8?user=43340&session=26e6755811e84146af909e5302f8eb9fd8cea68f9bc3e7f29a76c88ce53ef4c0&hlsid=HLS_129202
-
 #EXTINF:-1,Dubai Drama
 http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w7946196_b1200000.m3u8
 
 
-#EXTINF:-1,Moga Comedy
-http://38.99.146.36:7777/MogaComedy_HD/MogaComedy_High.m3u8?user=82964&session=055ef514e895e315614c2593ac3dafb588620e32708319511cf9dbcaf658f23a&hlsid=HLS_498560
-
-
-#EXTINF:-1,time comedy
-http://38.99.146.36:7777/CairoComedy_HD/CairoComedy_High.m3u8?user=52738&session=b4c059a8ee374860fdb28b4f43d5579b7b72ea27b5ee6e6fbee2d1e82b4eff73&hlsid=HLS_120429
-
 #EXTINF:-1,cairo cinema
-http://38.99.146.36:7777/CairoCinema_HD/CairoCinema_HD.m3u8?user=5425&session=c4f842b605320343832866412f1a9c23a303283d728f80b1e57b9df264e8d856&hlsid=HLS_119379
+http://iptv.star7arab.com/star7arab/7452541/1198.ch
 
-#EXTINF:0,Rotana Aflam
-http://38.99.146.36:7777/RotanaAflam_HD/RotanaAflam_High.m3u8?user=82821&session=16606b4fbb6e88d6ecade9253d4e64dcd48fadec7a367aab806c1c9779e6c69a&hlsid=HLS_499186
+#EXTINF:-1,cairo drama
+http://iptv.star7arab.com/star7arab/7452541/1199.ch
 
+#EXTINF:-1,Time comedy
+http://iptv.star7arab.com/star7arab/7452541/1205.ch
 #EXTINF:0,Cima
-http://38.99.146.36:7777/Cima_HD/Cima_High.m3u8?user=86384&session=6ad3efc4d6558e608ee9d109640de62c767934299d94ca2c42a0dfee4ce21afa&hlsid=HLS_139945
-
+http://iptv.star7arab.com/star7arab/7452541/1188.ch
 
 #EXTINF:-1,Panorama Film
-http://38.99.146.36:7777/PanoramaFilm_HD/PanoramaFilm_High.m3u8?user=71819&session=4afa7c4f85c906c738639270ccee7fc8953c05cdc920ab0755b7bd5381497760&hlsid=HLS_501830
-
-
-#EXTINF:-1,cairo Drama
-http://38.99.146.36:7777/CairoDrama_HD/CairoDrama_High.m3u8?user=31933&session=472c204bebee30fb89646e4f725876ef5e95e53faa12d926e052bf2e33b275de&hlsid=HLS_153622
-
+http://iptv.star7arab.com/star7arab/7452541/328.ch 
 
 #EXTINF:-1,Panorama Drama
-http://38.99.146.36:7777/PanoramaDrama_HD/PanoramaDrama_High.m3u8?user=72020&session=36567bb315ff5392666625d1fb95fad2bb648a2f5220c47679436cba5e9abc57&hlsid=HLS_149176
+http://iptv.star7arab.com/star7arab/7452541/316.ch
 
-#EXTINF:-1,Panorama Drama 2
-http://38.99.146.36:7777/PanoramaDrama2_HD/PanoramaDrama2_High.m3u8?user=18490&session=fd90ec3d2f7c1b25a3c255d1297f568551cad38cf967e72a1219ab284bf7de68&hlsid=HLS_154885
+http://iptv.star7arab.com/star7arab/7452541/747.ch
+
+http://iptv.star7arab.com/star7arab/7452541/1164.ch
+
+#EXTINF:-1,Panorama Comedy
+http://iptv.star7arab.com/star7arab/7452541/327.ch
 
 #EXTINF:-1,CBC Drama
-http://38.99.146.36:7777/CBCDrama_HD/CBCDrama_High.m3u8?user=95906&session=18cc537476313351a2d4af6a989f484511153240fd6c1f3b141963232305a2fe&hlsid=HLS_152536
+http://iptv.star7arab.com/star7arab/7452541/1054.ch
+#EXTINF:-1,CBC
+http://iptv.star7arab.com/star7arab/7452541/324.ch
+#EXTINF:-1,CBC extra
+
+http://iptv.star7arab.com/star7arab/7452541/325.ch
 
 #EXTINF:-1,AlHayatMousalsalat
-http://38.99.146.36:7777/AlHayatMousalsalat_HD/AlHayatMousalsalat_High.m3u8?user=90024&session=2c33d8d5e417845f645ff8abc409925ba08a1d1c77d78ec2dfd160789746c3b1&hlsid=HLS_156472
+http://iptv.star7arab.com/star7arab/7452541/1161.ch 
 
+http://iptv.star7arab.com/star7arab/7452541/1162.ch
 
+#EXTINF:-1,ART1
+http://iptv.star7arab.com/star7arab/7452541/650.ch
+
+#EXTINF:-1,ART 2
+http://iptv.star7arab.com/star7arab/7452541/651.ch
+
+#EXTINF:-1,ART 3
+http://iptv.star7arab.com/star7arab/7452541/652.ch
+#EXTINF:-1,ART H
+http://iptv.star7arab.com/star7arab/7452541/653.ch
+#EXTINF:-1,ART h
+http://iptv.star7arab.com/star7arab/7452541/654.ch
+http://iptv.star7arab.com/star7arab/7452541/313.ch
+#EXTINF:-1,MBC Drama
+http://iptv.star7arab.com/star7arab/7452541/308.ch
 #EXTINF:-1, Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w1042183914_b1200000.m3u8
 
+http://iptv.star7arab.com/star7arab/7452541/1187.ch
 
-#EXTINF:-1,LDC
-http://38.99.146.36:7777/LDC_HD/LDC_High.m3u8?user=2713&session=6eecd00d9bc06adbbd64e47948ef9507b429d9db1482041bdcbacadf5bf8eefb&hlsid=HLS_144961
+http://iptv.star7arab.com/star7arab/7452541/314.ch
 
-
-#EXTINF:-1,Mtv
-http://38.99.146.36:7777/MTVLebanon_HD/MTVLebanon_HD.m3u8?user=39686&session=9c8b7e0a3eae29d892e35dd1df1b77fdba2aefbd5a680d39406f1bd1eca89133&hlsid=HLS_143475
-
-#EXTINF:0,ALaan
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_828.m3u8?v=1268884471
+http://iptv.star7arab.com/star7arab/7452541/1183.ch
 
 #EXTINF:-1,Sama Dubai TV 
 http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w517203350_b1200000.m3u8
@@ -922,51 +153,33 @@ http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w15795
 #EXTINF:-1,QURAAN
 rtmp://208.75.224.165:1935/map-alquraan/mp4:map-alquraan.stream 
 
+http://iptv.star7arab.com/star7arab/7452541/1022.ch
 
-
-#EXTINF:-1,MBC 4
-http://38.99.146.36:7777/MBC4_HD/MBC4_High.m3u8?user=80775&session=96f1851f6522746c7c6d1fb9ecfa5986d44cf9ee3df7e0ed3c622e2bda97f8ea&hlsid=HLS_108520
 
 
 #EXTINF:-1,MBC MAX
-http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
-
-#EXTINF:-1,MBC MAX
-http://38.99.146.36:7777/MBCMax_HD/MBCMax_High.m3u8?user=58665&session=30532804d49bcc515cfb9adc5832a1e45350b2c9a1a2f0c711e0d9f84aa9723f&hlsid=HLS_114157
+http://iptv.star7arab.com/star7arab/7452541/304.ch
 
 #EXTINF:-1,MBC 2
-http://38.99.146.36:7777/MBC2_HD/MBC2_High.m3u8?user=75410&session=2dbcf14828223bb894f16a3a9d99f249aa83e0565e61913c91696e6d6de5251f&hlsid=HLS_106699
+http://iptv.star7arab.com/star7arab/7452541/301.ch
 
 #EXTINF:0,MBC Action
-http://38.99.146.36:7777/MBCAction_HD/MBCAction_High.m3u8?user=60016&session=d5f355c92bed77639dc13e70e2de582c991b2e51661a9485b2c94fd3f4760e0b&hlsid=HLS_109974
+http://iptv.star7arab.com/star7arab/7452541/306.ch
+
+#EXTINF:0,MBC 4
+http://iptv.star7arab.com/star7arab/7452541/303.ch 
 
 #EXTINF:0,Fox movies
-http://38.99.146.36:7777/FoxMovies_HD/FoxMovies_High.m3u8?user=68158&session=8402c8336e594e0d7724acf3d6c893fea5e79d999a3525286d1674ccf677e2f8&hlsid=HLS_103752
-
-
-#EXTINF:0,Fox
-http://38.99.146.36:7777/Fox_HD/Fox_High.m3u8?user=67100&session=583b7fdf889638670acaa02eea2bd9489c46966cbb78a1fbee7d92813df4d451&hlsid=HLS_105437
+http://iptv.star7arab.com/star7arab/7452541/311.ch
 
 
 
-#EXTINF:-1,ROTANA 
-http://38.99.146.36:7777/RotanaMusic_HD/RotanaMusic_HD.m3u8?user=98936&session=2cc34b9a34e972025dd36dbd03e2714e5c5e624412a797cd3bf5eceb6dfb4871&hlsid=HLS_136704
 
+#EXTINF:-1,ROTANA cenema
+http://iptv.star7arab.com/star7arab/7452541/318.ch
 
 #EXTINF:-1,ROTANA clip
-http://38.99.146.36:7777/RotanaClip_HD/RotanaClip_High.m3u8?user=1931&session=34e15ab1a189c03c1c520db481ccbed3092c043e479bc24f4120f901770ddfcc&hlsid=HLS_137484
-
-#EXTINF:-1,Marina FM TV
-rtmp://38.96.175.16/live/MarinaFM2
-
-#EXTINF:-1,AGHANI Tv
-http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
-
-
-
-#EXTINF:-1,[COLOR yellow]»»---News & Documentry----««[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-
+http://iptv.star7arab.com/star7arab/7452541/1100.ch #Channel
 
 
 #EXTINF:-1 ,TRT Arabic 
@@ -986,13 +199,19 @@ http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_de
 
 
 #EXTINF:-1,National Geographic
-http://38.99.146.36:7777/ADNatGeo_HD/ADNatGeo_High.m3u8?user=37170&session=7b01899f4000a42970412589cf8e2e5b520f4b1a8770160c92a9617168453628&hlsid=HLS_502343
+http://iptv.star7arab.com/star7arab/7452541/1294.ch
 
+#EXTINF:-1,Discovery
+http://iptv.star7arab.com/star7arab/7452541/823.ch
+http://iptv.star7arab.com/star7arab/7452541/1294.ch
+http://iptv.star7arab.com/star7arab/7452541/627.ch
 
+#EXTINF:-1,D S
+http://iptv.star7arab.com/star7arab/7452541/45.ch
 #EXTINF:-1,Aljazeera Documents
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
-
+http://iptv.star7arab.com/star7arab/7452541/1071.ch
 
 
 #EXTINF:0,Rotana Cinema
@@ -1007,7 +226,6 @@ http://46.59.28.215:4949/bynumber/10
 
 
 #EXTINF:-1,National Geographic HD
-http://38.99.146.36:7777/ADNatGeo_HD/ADNatGeo_High.m3u8?user=37170&session=7b01899f4000a42970412589cf8e2e5b520f4b1a8770160c92a9617168453628&hlsid=HLS_502343
 
 
 
