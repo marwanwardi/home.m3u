@@ -1,5 +1,9 @@
 ﻿#EXTM3U
 
+
+#EXTINF:0,MBC
+http://iptv.star7arab.com:80/1day/seerverrrrsdqsd522/300.ch
+
 #EXTINF:0,SD Alsharq
 http://hls1.livestreamingcdn.com/livecdn753/livestreaming/chunklist.m3u8
 
