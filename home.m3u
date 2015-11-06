@@ -2,7 +2,8 @@
 
 
 #EXTINF:0,MBC
-http://iptv.star7arab.com:80/1day/seerverrrrsdqsd522/300.ch
+http://iptv.star7arab.com:80/1day/star7arab4ever/300.ch
+
 
 #EXTINF:0,SD Alsharq
 http://hls1.livestreamingcdn.com/livecdn753/livestreaming/chunklist.m3u8
@@ -79,4 +80,265 @@ rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 
 
 
+#EXTM3U
+#EXTINF:-1,Bein Movies 1 HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/1309.ch
+#EXTINF:-1,Bein Movies 2 HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/1310.ch
+#EXTINF:-1,beinHD Sports HD1
+http://iptv.star7arab.com:80/1day/star7arab4ever/1.ch
+#EXTINF:-1,beinHD Sports HD2
+http://iptv.star7arab.com:80/1day/star7arab4ever/2.ch
+#EXTINF:-1,beinHD Sports HD3
+http://iptv.star7arab.com:80/1day/star7arab4ever/3.ch
+#EXTINF:-1,beinHD Sports HD4
+http://iptv.star7arab.com:80/1day/star7arab4ever/4.ch
+#EXTINF:-1,beinHD Sports HD5
+http://iptv.star7arab.com:80/1day/star7arab4ever/5.ch
+#EXTINF:-1,beinHD Sports HD6
+http://iptv.star7arab.com:80/1day/star7arab4ever/6.ch
+#EXTINF:-1,beinHD Sports HD7
+http://iptv.star7arab.com:80/1day/star7arab4ever/7.ch
+#EXTINF:-1,beinHD Sports HD8
+http://iptv.star7arab.com:80/1day/star7arab4ever/8.ch
+#EXTINF:-1,beinHD Sports HD9
+http://iptv.star7arab.com:80/1day/star7arab4ever/9.ch
+#EXTINF:-1,beinHD Sports HD10
+http://iptv.star7arab.com:80/1day/star7arab4ever/10.ch
+#EXTINF:-1,OSN Movies Box Office 1 HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/502.ch
+#EXTINF:-1,OSN Movies Box Office 2 HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/503.ch
+#EXTINF:-1,OSN Movies Box Office 3 HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/504.ch
+#EXTINF:-1,OSN Movies Action HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/507.ch
+#EXTINF:-1,OSN Yahala HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/528.ch
+#EXTINF:-1,ARTE HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/745.ch
+#EXTINF:-1,OSN Yahala Drama HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/529.ch
+#EXTINF:-1,OSN Movies HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/505.ch
+#EXTINF:-1,OSN MBC Drama HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/506.ch
+#EXTINF:-1,TF1 HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/703.ch
+#EXTINF:-1,FRANCE 2 HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/718.ch
+#EXTINF:-1,FRANCE 3 HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/717.ch
+#EXTINF:-1,FRANCE 4 HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/716.ch
+#EXTINF:-1,FRANCE 5 HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/715.ch
+#EXTINF:-1,FRANCE 0 HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/719.ch
+#EXTINF:-1,W9 HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/700.ch
+#EXTINF:-1,M6 HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/711.ch
+#EXTINF:-1,ACTION HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/747.ch
+#EXTINF:-1,CINE EMOTION HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/734.ch
+#EXTINF:-1,CINE FRISSON HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/732.ch
+#EXTINF:-1,CINE PREMIER HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/731.ch
+#EXTINF:-1,CINE CLASSIC HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/730.ch
+#EXTINF:-1,Canal+ HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/743.ch
+#EXTINF:-1,Canal  Family HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/741.ch
+#EXTINF:-1,Canal+ Cinema HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/742.ch
+#EXTINF:-1,Canal+ Series HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/740.ch
+#EXTINF:-1,Canal+ Sport HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/739.ch
+#EXTINF:-1,13 EME RUE HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/748.ch
+#EXTINF:-1,DISNEY CHANNEL HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/772.ch
+#EXTINF:-1,BOOMERANG HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/788.ch
+#EXTINF:-1,CARTOON NETWORK HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/789.ch
+#EXTINF:-1,GULLI HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/713.ch
+#EXTINF:-1,Mangas
+http://iptv.star7arab.com:80/1day/star7arab4ever/819.ch
+#EXTINF:-1,TELETOON 
+http://iptv.star7arab.com:80/1day/star7arab4ever/802.ch
+#EXTINF:-1,FRENCE24 HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/714.ch
+#EXTINF:-1,animaux HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/746.ch
+#EXTINF:-1,6ter HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/814.ch
+#EXTINF:-1,Chasse et Peche
+http://iptv.star7arab.com:80/1day/star7arab4ever/736.ch
+#EXTINF:-1,National Geo Fr
+http://iptv.star7arab.com:80/1day/star7arab4ever/766.ch
+#EXTINF:-1,Ushuaia HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/749.ch
+#EXTINF:-1,Teva
+http://iptv.star7arab.com:80/1day/star7arab4ever/754.ch
+#EXTINF:-1,Bein Sport 1 FR
+http://iptv.star7arab.com:80/1day/star7arab4ever/17.ch
+#EXTINF:-1,Bein Sport 2 FR
+http://iptv.star7arab.com:80/1day/star7arab4ever/18.ch
+#EXTINF:-1,Bein Sport 3 FR
+http://iptv.star7arab.com:80/1day/star7arab4ever/19.ch
+#EXTINF:-1,BFMTV HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/744.ch
+#EXTINF:-1,2M_Maroc
+http://iptv.star7arab.com:80/1day/star7arab4ever/170.ch
+#EXTINF:-1,AD Aloula  1
+http://iptv.star7arab.com:80/1day/star7arab4ever/1038.ch
+#EXTINF:-1,AD Sport 1
+http://iptv.star7arab.com:80/1day/star7arab4ever/1041.ch
+#EXTINF:-1,AD Sport 2
+http://iptv.star7arab.com:80/1day/star7arab4ever/1042.ch
+#EXTINF:-1,AD Drama
+http://iptv.star7arab.com:80/1day/star7arab4ever/320.ch
+#EXTINF:-1,Al Jazeera
+http://iptv.star7arab.com:80/1day/star7arab4ever/1071.ch
+#EXTINF:-1,France 24
+http://iptv.star7arab.com:80/1day/star7arab4ever/1072.ch
+#EXTINF:-1,Canal Algerie
+http://iptv.star7arab.com:80/1day/star7arab4ever/120.ch
+#EXTINF:-1,Algeria 3
+http://iptv.star7arab.com:80/1day/star7arab4ever/101.ch
+#EXTINF:-1,EL Djazairia
+http://iptv.star7arab.com:80/1day/star7arab4ever/106.ch
+#EXTINF:-1,Dzair TV
+http://iptv.star7arab.com:80/1day/star7arab4ever/107.ch
+#EXTINF:-1,Echorouk TV
+http://iptv.star7arab.com:80/1day/star7arab4ever/104.ch
+#EXTINF:-1,EL WatanDZ
+http://iptv.star7arab.com:80/1day/star7arab4ever/108.ch
+#EXTINF:-1,Al Hayat
+http://iptv.star7arab.com:80/1day/star7arab4ever/1161.ch
+#EXTINF:-1,Al Hayat 2
+http://iptv.star7arab.com:80/1day/star7arab4ever/1162.ch
+#EXTINF:-1,Al Hayat Cinema
+http://iptv.star7arab.com:80/1day/star7arab4ever/1164.ch
+#EXTINF:-1,Al Maghribia
+http://iptv.star7arab.com:80/1day/star7arab4ever/173.ch
+#EXTINF:-1,Al Mustakila
+http://iptv.star7arab.com:80/1day/star7arab4ever/1087.ch
+#EXTINF:-1,Al Resala
+http://iptv.star7arab.com:80/1day/star7arab4ever/1063.ch
+#EXTINF:-1,ART Aflam 1
+http://iptv.star7arab.com:80/1day/star7arab4ever/650.ch
+#EXTINF:-1,ART Aflam 2
+http://iptv.star7arab.com:80/1day/star7arab4ever/651.ch
+#EXTINF:-1,ART CINEMA
+http://iptv.star7arab.com:80/1day/star7arab4ever/652.ch
+#EXTINF:-1,ART Hekayat 1
+http://iptv.star7arab.com:80/1day/star7arab4ever/653.ch
+#EXTINF:-1,ART Hekayat 2
+http://iptv.star7arab.com:80/1day/star7arab4ever/654.ch
+#EXTINF:-1,B4U Aflam
+http://iptv.star7arab.com:80/1day/star7arab4ever/1105.ch
+#EXTINF:-1,B4U Plus
+http://iptv.star7arab.com:80/1day/star7arab4ever/1106.ch
+#EXTINF:-1,BBC Arabic
+http://iptv.star7arab.com:80/1day/star7arab4ever/1073.ch
+#EXTINF:-1,Cairo Cinema
+http://iptv.star7arab.com:80/1day/star7arab4ever/1198.ch
+#EXTINF:-1,Cairo Drama
+http://iptv.star7arab.com:80/1day/star7arab4ever/1199.ch
+#EXTINF:-1,CBC
+http://iptv.star7arab.com:80/1day/star7arab4ever/324.ch
+#EXTINF:-1,CBC Extra
+http://iptv.star7arab.com:80/1day/star7arab4ever/325.ch
+#EXTINF:-1,CBC SOFRA
+http://iptv.star7arab.com:80/1day/star7arab4ever/1054.ch
+#EXTINF:-1,Cima
+http://iptv.star7arab.com:80/1day/star7arab4ever/1188.ch
+#EXTINF:-1,CN Arabia
+http://iptv.star7arab.com:80/1day/star7arab4ever/1052.ch
+#EXTINF:-1,Dubai One
+http://iptv.star7arab.com:80/1day/star7arab4ever/1126.ch
+#EXTINF:-1,El Hiwar Ettounsi
+http://iptv.star7arab.com:80/1day/star7arab4ever/1141.ch
+#EXTINF:-1,Ennahar TV
+http://iptv.star7arab.com:80/1day/star7arab4ever/109.ch
+#EXTINF:-1,Fox Movies
+http://iptv.star7arab.com:80/1day/star7arab4ever/311.ch
+#EXTINF:-1,Hannibal-TV
+http://iptv.star7arab.com:80/1day/star7arab4ever/151.ch
+#EXTINF:-1,Karameesh
+http://iptv.star7arab.com:80/1day/star7arab4ever/1048.ch
+#EXTINF:-1,MBC  Drama HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/308.ch
+#EXTINF:-1,MBC 1
+http://iptv.star7arab.com:80/1day/star7arab4ever/300.ch
+#EXTINF:-1,MBC 2
+hhttp://iptv.star7arab.com:80/1day/star7arab4ever/300.ch
+#EXTINF:-1,MBC 3
+http://iptv.star7arab.com:80/1day/star7arab4ever/302.ch
+#EXTINF:-1,MBC 4
+http://iptv.star7arab.com:80/1day/star7arab4ever/303.ch
+#EXTINF:-1,MBC Action
+http://iptv.star7arab.com:80/1day/star7arab4ever/306.ch
+#EXTINF:-1,MBC Bollywood
+http://iptv.star7arab.com:80/1day/star7arab4ever/307.ch
+#EXTINF:-1,MBC MAX
+http://iptv.star7arab.com:80/1day/star7arab4ever/304.ch
+#EXTINF:-1,Nat Geo AD
+http://iptv.star7arab.com:80/1day/star7arab4ever/100.ch
+#EXTINF:-1,Nat Geo Wild HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/627.ch
+#EXTINF:-1,NatGeoWild HD
+http://iptv.star7arab.com:80/1day/star7arab4ever/822.ch
+#EXTINF:-1,Nessma TV
+http://iptv.star7arab.com:80/1day/star7arab4ever/103.ch
+#EXTINF:-1,Nile Cinema
+http://iptv.star7arab.com:80/1day/star7arab4ever/1183.ch
+#EXTINF:-1,Nile Comedy
+http://iptv.star7arab.com:80/1day/star7arab4ever/314.ch
+#EXTINF:-1,Nile Drama
+http://iptv.star7arab.com:80/1day/star7arab4ever/313.ch
+#EXTINF:-1,Nile Life
+http://iptv.star7arab.com:80/1day/star7arab4ever/1177.ch
+#EXTINF:-1,Panorama Comedy
+http://iptv.star7arab.com:80/1day/star7arab4ever/327.ch
+#EXTINF:-1,Panorama Drama
+http://iptv.star7arab.com:80/1day/star7arab4ever/316.ch
+#EXTINF:-1,Panorama Film
+http://iptv.star7arab.com:80/1day/star7arab4ever/328.ch
+#EXTINF:-1,Rotana cinema
+http://iptv.star7arab.com:80/1day/star7arab4ever/318.ch
+#EXTINF:-1,Rotana Classic
+http://iptv.star7arab.com:80/1day/star7arab4ever/1101.ch
+#EXTINF:-1,Rotana Clip
+http://iptv.star7arab.com:80/1day/star7arab4ever/1100.ch
+#EXTINF:-1,Rotana Khalijiah
+http://iptv.star7arab.com:80/1day/star7arab4ever/1102.ch
+#EXTINF:-1,Rotana Masriya
+http://iptv.star7arab.com:80/1day/star7arab4ever/1103.ch
+#EXTINF:-1,Samira TV
+http://iptv.star7arab.com:80/1day/star7arab4ever/102.ch
+#EXTINF:-1,Space Toon
+http://iptv.star7arab.com:80/1day/star7arab4ever/1053.ch
+#EXTINF:-1,Time Comedy
+http://iptv.star7arab.com:80/1day/star7arab4ever/1205.ch
+#EXTINF:-1,TMC
+http://iptv.star7arab.com:80/1day/star7arab4ever/816.ch
+#EXTINF:-1,Toyor Al Janah
+http://iptv.star7arab.com:80/1day/star7arab4ever/1044.ch
+#EXTINF:-1,Zee Aflam
+http://iptv.star7arab.com:80/1day/star7arab4ever/1104.ch
+#EXTINF:-1,Zee Alwan
+http://iptv.star7arab.com:80/1day/star7arab4ever/315.ch
+#EXTINF:-1,PrimaFila 4
+http://iptv.star7arab.com:80/1day/star7arab4ever/404.ch
+#EXTINF:-1,Bein Sport 1 SD
+http://iptv.star7arab.com:80/1day/star7arab4ever/50.ch
 
