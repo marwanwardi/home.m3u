@@ -74,3 +74,11 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 #EXTINF:-1,AL Sharqiya News
 rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 
+#EXTINF:-1,TJ
+rtmp://extondemand.livestream.com/ondemand
+
+#EXTINF:-1,tom
+rtmp://extondemand.livestream.com:1935/ondemand
+
+#EXTINF:-1,tom J
+http://cdn.livestream.com/grid/LSPlayer.swf?channel=filmon&clip=&time=&color=0xffad4b&autoPlay=true&mute=false&iconColorOver=0xe17b00&iconColor=0xb96500&allowchat=true&height=430&width=600
