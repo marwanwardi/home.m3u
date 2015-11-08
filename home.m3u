@@ -74,11 +74,75 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 #EXTINF:-1,AL Sharqiya News
 rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 
-#EXTINF:-1,TJ
-rtmp://extondemand.livestream.com/ondemand
+#EXTINF:-1,ART Aflam 1
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/650.ch
+#EXTINF:-1,ART Aflam 2
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/651.ch
+#EXTINF:-1,ART CINEMA
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/652.ch
+#EXTINF:-1,ART Hekayat 1
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/653.ch
+#EXTINF:-1,ART Hekayat 2
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/654.ch
 
-#EXTINF:-1,tom
-rtmp://extondemand.livestream.com:1935/ondemand
+#EXTINF:-1,BOOMERANG HD
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/788.ch
+#EXTINF:-1,Cairo Cinema
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/1198.ch
+#EXTINF:-1,Cairo Drama
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/1199.ch
 
-#EXTINF:-1,tom J
-http://cdn.livestream.com/grid/LSPlayer.swf?channel=filmon&clip=&time=&color=0xffad4b&autoPlay=true&mute=false&iconColorOver=0xe17b00&iconColor=0xb96500&allowchat=true&height=430&width=600
+#EXTINF:-1,CBC
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/324.ch
+#EXTINF:-1,CBC Extra
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/325.ch
+#EXTINF:-1,CBC SOFRA
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/1054.ch
+
+#EXTINF:-1,MBC  Drama HD
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/308.ch
+#EXTINF:-1,MBC 1
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/300.ch
+#EXTINF:-1,MBC 2
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/301.ch
+#EXTINF:-1,MBC 3
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/302.ch
+#EXTINF:-1,MBC 4
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/303.ch
+#EXTINF:-1,MBC Action
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/306.ch
+
+#EXTINF:-1,OSN MBC Drama HD
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/506.ch
+#EXTINF:-1,OSN Movies Action HD
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/507.ch
+#EXTINF:-1,OSN Movies HD
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/505.ch
+#EXTINF:-1,OSN Yahala Drama HD
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/529.ch
+#EXTINF:-1,OSN Yahala HD
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/528.ch
+#EXTINF:-1,Panorama Comedy
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/327.ch
+#EXTINF:-1,Panorama Drama
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/316.ch
+#EXTINF:-1,Panorama Film
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/328.ch
+
+
+#EXTINF:-1,OSN MBC Drama HD
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/506.ch
+#EXTINF:-1,OSN Movies Action HD
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/507.ch
+#EXTINF:-1,OSN Movies HD
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/505.ch
+#EXTINF:-1,OSN Yahala Drama HD
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/529.ch
+#EXTINF:-1,OSN Yahala HD
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/528.ch
+#EXTINF:-1,Panorama Comedy
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/327.ch
+#EXTINF:-1,Panorama Drama
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/316.ch
+#EXTINF:-1,Panorama Film
+http://iptv.star7arab.com:80/Temporary-server/jfnduiejps87460/328.ch
