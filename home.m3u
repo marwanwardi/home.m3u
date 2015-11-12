@@ -1,22 +1,14 @@
 ﻿#EXTM3U
 
 
-#EXTINF:-1,MBC 4
-http://p-cdn3_1-cg15-linear-cbd46b77.movetv.com:80/15104/live/HISSTR/31ebfad886b011e5a3a690e2ba833899/008C/09000088BC.ts
-#EXTINF:-1,MBC 3
-http://p-cdn3_1-cg15-linear-cbd46b77.movetv.com:80/15104/live/HISSTR/31ebfad886b011e5a3a690e2ba833899/008C/09000088BD.ts
-#EXTINF:-1,MBC 2
-http://su.ff.avast.com/R/A28KIGY4OGZlYTU4N2UzODQwNzI4Y2Q4NGM1ZGU0ZTg5Y2Q1EgQCCREVGJgDIgH-KgcIBBCp94Y6MgoIBBCp94Y6GIAKOLGRjFBCIHCC02uen75FXGPB3VrhtJu8IVruyclrDrVhUB2-zHSJSICDmBg=
-#EXTINF:-1,MBC 1
-http://su.ff.avast.com/R/A28KIGY4OGZlYTU4N2UzODQwNzI4Y2Q4NGM1ZGU0ZTg5Y2Q1EgQCCREVGJgDIgH-KgcIBBDm-IY6MgoIBBDm-IY6GIAKOLGRjFBCIHCC02uen75FXGPB3VrhtJu8IVruyclrDrVhUB2-zHSJSICDmBg=
+#EXTINF:-1,Jeem 
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterPlaylist.m3u8
 
+#EXTINF:-1,CN
+http://54.255.155.24:1935/Live/_definst_/sweetbcha1novD28_W_250.sdp/chunklist.m3u8
 
-#EXTINF:-1,Fox Movies
-http://p-cdn3_1-cg15-linear-cbd46b77.movetv.com:80/15104/live/HISSTR/31ebfad886b011e5a3a690e2ba833899/008C/0A000088D4.ts
-
-
-#EXTINF:-1,BOOMERANG HD
-http://173.194.219.105/search?site=&amp;q=Hedy+Lamarr&amp;oi=ddle&amp;ct=hedy-lamarrs-101st-birthday-5679746450980864&amp;hl=en&amp;sa=X&amp;ved=0CAMQNmoVChMIuZLmh-6EyQIVRy8mCh0fHARM
+#EXTINF:-1,MBC masr
+http://cdn.waframedia5.com/wafra/tags/xdirect/xdirect.html?p=60601200&serverdomain=wafra&ct=html&ap=1303
 
 
 
@@ -55,7 +47,7 @@ rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
 
 
 #EXTINF:0,Funoon
-http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8?v=1269310610
+http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonhigh.m3u8
 
 #EXTINF:-1,Dubai Drama
 http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w7946196_b1200000.m3u8
