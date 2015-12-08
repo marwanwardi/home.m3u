@@ -19,8 +19,18 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterP
 #EXTINF:-1,CN
 http://54.255.155.24:1935/Live/_definst_/sweetbcha1novD28_W_250.sdp/chunklist.m3u8
 
-#EXTINF:-1,MBC masr
-http://cdn.waframedia5.com/wafra/tags/xdirect/xdirect.html?p=60601200&serverdomain=wafra&ct=html&ap=1303
+#EXTINF:0,RMC
+http://mc-doualiya.scdn.arkena.com/mc-doualiya.mp3
+
+#EXTINF:0,Sawa
+http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03
+
+#EXTINF:0,Nojom fm
+http://ice33.securenetsystems.net/NOGOUM?type=.flv
+
+
+#EXTINF:0,alaan fm
+http://audiostreaming.itworkscdn.com:9078/;*.nsv
 
 
 
