@@ -1,5 +1,7 @@
 ﻿#EXTM3U
 
+#EXTINF:-1,mbc3_3
+http://live1.tvarab.org:8081/live/mbc-3/chunks.m3u8?nimblesessionid=61512&wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDE1IDQ6MDc6MDkgQU0maGFzaF92YWx1ZT0yUjRMTTdWd2lTOVhlWGJmVjVobEpBPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1,mbc11
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1379.ts
