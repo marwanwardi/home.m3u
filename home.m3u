@@ -1,7 +1,11 @@
 ﻿#EXTM3U
 
-#EXTINF:-1,mbc3_3
-http://live1.tvarab.org:8081/live/mbc-3/chunks.m3u8?nimblesessionid=61512&wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDE1IDQ6MDc6MDkgQU0maGFzaF92YWx1ZT0yUjRMTTdWd2lTOVhlWGJmVjVobEpBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1,وحوش هتلر
+http://proxy-86.dailymotion.com/sec(4f1f485d746280b4eb1b086ff88fa507)/video/830/015/210510038_mp4_h264_aac_hd_1.m3u8
+
+#EXTINF:-1,
+
+
 
 #EXTINF:-1,mbc11
 http://iptv777.dyndns.tv:8000/live/gravity/gravity/1379.ts
