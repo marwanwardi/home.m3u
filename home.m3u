@@ -3,12 +3,68 @@
 #EXTINF:-1,وحوش هتلر
 http://proxy-86.dailymotion.com/sec(4f1f485d746280b4eb1b086ff88fa507)/video/830/015/210510038_mp4_h264_aac_hd_1.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1,الاسلحة الحربية
+http://proxy-04.dailymotion.com/sec(61301c8fc681d78f9319d9839fe5de03)/video/742/262/206262247_mp4_h264_aac_hq_1.m3u8
+
+#EXTINF:-1,الغواصة السرية
+http://proxy-23.dailymotion.com/sec(9d3e759723ddf100ff9d5805a5a3c3d1)/video/063/352/210253360_mp4_h264_aac_hq_1.m3u8
+
+#EXTINF:-1,رحلة لي تشان استراليا
+http://proxy-018.dc3.dailymotion.com/sec(6307480ca7690f5c48072f533e213077)/video/992/578/191875299_mp4_h264_aac_hq_1.m3u8
 
 
+#EXTINF:-1,قصة الغذاء الشعور بالذنب
+http://proxy-57.dailymotion.com/sec(76f93f1026dc73175c875f2e39605cf7)/video/814/508/177805418_mp4_h264_aac_hq_1.m3u8
 
-#EXTINF:-1,mbc11
-http://iptv777.dyndns.tv:8000/live/gravity/gravity/1379.ts
+#EXTINF:-1,ملفات الغذاء القهوة
+http://proxy-27.dailymotion.com/sec(ed5f573c2530e2bd55d18490a4af56d4)/video/454/909/179909454_mp4_h264_aac_hq_1.m3u8
+
+#EXTINF:-1, المكسرات
+http://proxy-14.dailymotion.com/sec(89195cba0f4303c3447389eaf9738eac)/video/250/684/179486052_mp4_h264_aac_hq_1.m3u8
+
+#EXTINF:-1,القبض على المهربين : مطار جون إف كينيدي  ساعي المخدرات
+http://proxy-75.dailymotion.com/sec(ef0708bbe6425d59630797d6ee814428)/video/531/180/211081135_mp4_h264_aac_hq_1.m3u8
+
+
+#EXTINF:-1,ستيفن هوكينغ وعلم المستقبل اتصالات الهايبر
+http://proxy-33.dailymotion.com/sec(c7daf40b00c1ee3cc4740718cd03228e)/video/628/778/208877826_mp4_h264_aac_hq_1.m3u8
+
+#EXTINF:-1,ادمان هتلر
+http://proxy-017.dc3.dailymotion.com/sec(c5b824ab4803f5c15397751cedc891c3)/video/745/860/208068547_mp4_h264_aac_hq_1.m3u8
+
+#EXTINF:-1,علم البسطاء 7
+http://proxy-004.dc3.dailymotion.com/sec(b0813ea406c00d9f020ce14591034aa8)/video/869/201/206102968_mp4_h264_aac_hq_1.m3u8
+
+#EXTINF:-1,افضل المطاعن اسطنبول
+http://proxy-71.dailymotion.com/sec(c932ac7af404670952f4e8ec8ded08f3)/video/260/632/204236062_mp4_h264_aac_hq_1.m3u8
+
+#EXTINF:-1,اللحم والخضروات
+http://proxy-53.dailymotion.com/sec(1dc10a3f61742965fe738dc1ff5bdeb6)/video/601/741/204147106_mp4_h264_aac_hq_1.m3u8
+
+#EXTINF:-1,علم البسطاء9
+http://proxy-13.dailymotion.com/sec(ae1549fb3516bb47709d9da32f241e81)/video/417/865/204568714_mp4_h264_aac_hq_1.m3u8
+
+#EXTINF:-1,ألعاب العقل 
+http://proxy-05.dailymotion.com/sec(ae4160997ba42fa0361842d004993cfb)/video/912/482/198284219_mp4_h264_aac_hq_1.m3u8
+
+#EXTINF:-1,ألعاب العقل Paranorma
+http://proxy-24.dailymotion.com/sec(b3b27cef2ffc40ec2e11f874941fa56b)/video/681/236/195632186_mp4_h264_aac_hq_1.m3u8
+
+#EXTINF:-1,لي تشان مصر
+http://proxy-66.dailymotion.com/sec(2cc41cd6e3706b5d9edce415c9444809)/video/279/355/181553972_mp4_h264_aac_hq_1.m3u8
+
+#EXTINF:-1,قصة الغذاء  المبالغة في السكر
+http://proxy-015.dc3.dailymotion.com/sec(e6414ac19e9c68946e86f8b8fc8b33d2)/video/735/552/175255537_mp4_h264_aac_hq_1.m3u8
+
+#EXTINF:-1,CBC
+plugin://plugin.video.youtube/?action=play_video&videoid=1yEMLzYzE1g
+
+#EXTINF:-1,CBC Sofra
+plugin://plugin.video.youtube/?action=play_video&videoid=K8XaIiikpAo
+
+#EXTINF:-1,CBC Drama
+plugin://plugin.video.youtube/?action=play_video&videoid=uMvhnVugCjo
+
 
 #EXTINF:-1,wisal
 rtmp://109.123.123.82/wesal/wesal1
