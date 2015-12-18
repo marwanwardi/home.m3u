@@ -2,71 +2,15 @@
 
 
 
-#EXTINF:-1,Baraem
-http://spain.iptv.re:80/live/star7arab.com/star7arab.com/144.ts
-#EXTINF:-1,Cartoon network
-http://spain.iptv.re:80/live/star7arab.com/star7arab.com/200.ts
+
+#EXTINF:-1,mbc 1
+http://selling-team.net:8000/live/ali/ali/5571.m3u8
 #EXTINF:-1,MBC 1
 http://spain.iptv.re:80/live/star7arab.com/star7arab.com/163.ts
 #EXTINF:-1,MBC 1
 http://yosriiptv.zapto.org:8000/live/test1/test1/100.ts
-#EXTINF:-1,MBC 3
-http://spain.iptv.re:80/live/star7arab.com/star7arab.com/161.ts
-#EXTINF:-1,Nat Geo
-http://spain.iptv.re:80/live/star7arab.com/star7arab.com/156.ts
-#EXTINF:-1,MBC 3
-http://yosriiptv.zapto.org:8000/live/test1/test1/102.ts
-#EXTINF:-1,Nat Geo Ad
-http://yosriiptv.zapto.org:8000/live/test1/test1/151.ts
-#EXTINF:-1,israel channel 10
-http://yosriiptv.zapto.org:8000/live/test1/test1/1.ts
-#EXTINF:-1,Fatafeat
-http://yosriiptv.zapto.org:8000/live/test1/test1/150.ts
-
-#EXTINF:-1,osn
-http://spain.iptv.re:80/live/star7arab.com/star7arab.com/135.ts
-#EXTM3U
-#EXTINF:-1,osn action
-http://spain.iptv.re:80/live/star7arab.com/star7arab.com/141.ts
-#EXTM3U
-#EXTINF:-1,osn mov
-http://tvservice.webhop.me:80/live/iris/iris/230.ts
-#EXTINF:-1,osn cinema art 2
-http://spain.iptv.re:80/live/star7arab.com/star7arab.com/131.ts
-#EXTINF:-1,OSN Yahala Shabab
-http://yosriiptv.zapto.org:8000/live/test1/test1/191.ts
-#EXTINF:-1,OSN Yahala HD
-http://yosriiptv.zapto.org:8000/live/test1/test1/192.ts
-#EXTINF:-1,OSN Yahala Drama HD
-http://yosriiptv.zapto.org:8000/live/test1/test1/193.ts
-#EXTINF:-1,OSN Movies Premiere HD
-http://yosriiptv.zapto.org:8000/live/test1/test1/194.ts
-#EXTINF:-1,OSN Movies HD
-http://yosriiptv.zapto.org:8000/live/test1/test1/195.ts
-#EXTINF:-1,OSN Movies COMEDY
-http://yosriiptv.zapto.org:8000/live/test1/test1/196.ts
-#EXTINF:-1,OSN Movies Box Office 3 HD
-http://yosriiptv.zapto.org:8000/live/test1/test1/197.ts
-#EXTINF:-1,OSN Movies Box Office 2 HD
-http://yosriiptv.zapto.org:8000/live/test1/test1/198.ts
-#EXTINF:-1,OSN Movies Box Office 1 HD
-http://yosriiptv.zapto.org:8000/live/test1/test1/199.ts
-#EXTINF:-1,OSN Movies Action HD
-http://yosriiptv.zapto.org:8000/live/test1/test1/200.ts
-#EXTINF:-1,OSN Movies Action 2
-http://yosriiptv.zapto.org:8000/live/test1/test1/201.ts
-#EXTINF:-1,OSN MBC Drama HD
-http://yosriiptv.zapto.org:8000/live/test1/test1/202.ts
-#EXTINF:-1,OSN First HD
-http://yosriiptv.zapto.org:8000/live/test1/test1/203.ts
-#EXTINF:-1,OSN First Comedy
-http://yosriiptv.zapto.org:8000/live/test1/test1/204.ts
-#EXTINF:-1,OSN Cinema 2
-http://yosriiptv.zapto.org:8000/live/test1/test1/205.ts
-#EXTINF:-1,OSN Cinema 1
-http://yosriiptv.zapto.org:8000/live/test1/test1/206.ts
-#EXTINF:-1,OSN Al youm
-http://yosriiptv.zapto.org:8000/live/test1/test1/207.ts
+#EXTINF:-1,MBC 1
+http://portal.rapidiptv.com:8080/live/steph/steph/5707.ts
 
 
 
