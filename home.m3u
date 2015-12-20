@@ -1,8 +1,6 @@
 ﻿#EXTM3U
 
 
-
-
 #EXTINF:-1,mbc 1
 http://selling-team.net:8000/live/ali/ali/5571.m3u8
 #EXTINF:-1,MBC 1
@@ -11,7 +9,8 @@ http://spain.iptv.re:80/live/star7arab.com/star7arab.com/163.ts
 http://yosriiptv.zapto.org:8000/live/test1/test1/100.ts
 #EXTINF:-1,MBC 1
 http://portal.rapidiptv.com:8080/live/steph/steph/5707.ts
-
+#EXTINF:-1,MBC 1
+http://streamup.global.ssl.fastly.net/app/sami2015s-channel/playlist.m3u8
 
 
 #EXTINF:-1,وحوش هتلر
