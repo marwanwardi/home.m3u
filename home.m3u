@@ -96,13 +96,13 @@ http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/153.ts
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/181.ts
 #EXTINF:-1,beIN Sports 1 HD
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/336.ts
-#EXTINF:-1,AR: bEIN Sports 2 HD
+#EXTINF:-1,bEIN Sports 2 HD
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/337.ts
 #EXTINF:-1,beIN Sports 3 HD
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/338.ts
-#EXTINF:-1,AR: beIN Sports 4 HD
+#EXTINF:-1,beIN Sports 4 HD
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/339.ts
-#EXTINF:-1,AR: beIN Sports 5 HD
+#EXTINF:-1,beIN Sports 5 HD
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/340.ts
 #EXTINF:-1,beIN Sports 6 HD
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/341.ts
@@ -183,75 +183,73 @@ http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1399.ts
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/516.ts
 #EXTINF:-1,CBC
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1398.ts
-#EXTINF:-1,AR: Rotana Aflam
+#EXTINF:-1,Rotana Aflam
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/707.ts
-#EXTINF:-1,AR: YAS AD SPORTS
+#EXTINF:-1,YAS AD SPORTS
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/860.ts
-#EXTINF:-1,AR: ROTANA CLIP ARABIC
+#EXTINF:-1,ROTANA CLIP
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/929.ts
-#EXTINF:-1,AR: Rotana Masriya
+#EXTINF:-1,Rotana Masriya
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/142.ts
-#EXTINF:-1,AR: Rotana Classic
+#EXTINF:-1,Rotana Classic
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/143.ts
-#EXTINF:-1,AR: Rotana cinema
+#EXTINF:-1,Rotana cinema
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/144.ts
-#EXTINF:-1,BBC NEWS-AR
+#EXTINF:-1,BBC Arabic
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/95.ts
-#EXTINF:-1,AR: 2M
+#EXTINF:-1,2M
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/10.ts
 #EXTINF:-1,AL-JAZEERA
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/96.ts
-#EXTINF:-1,AR: SAMA DUBAI
+#EXTINF:-1,SAMA DUBAI
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1648.ts
-#EXTINF:-1,AR: DUBAI TV
+#EXTINF:-1,DUBAI TV
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1646.ts
-#EXTINF:-1,AR: DUBAI SPORTS
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1649.ts
+
 #EXTINF:-1,AR: DUBAI ONE
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1647.ts
 
 
-#EXTINF:-1,FR: BOOMERANG
+#EXTINF:-1,BOOMERANG
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1652.ts
 
-#EXTINF:-1,UK: Sky Movies Thriller
+#EXTINF:-1,Sky Movies Thriller
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1416.ts
-#EXTINF:-1,UK: Sky Movies Showcase
+#EXTINF:-1,Sky Movies Showcase
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1417.ts
-#EXTINF:-1,UK: Sky Movies ScFi-Horror
+#EXTINF:-1,Sky Movies ScFi-Horror
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1419.ts
 #EXTINF:-1,Sky Movies Premiere
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1420.ts
 #EXTINF:-1,Sky Movies Modern_Greats
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1421.ts
-#EXTINF:-1,UK: Sky Movies Family
+#EXTINF:-1,Sky Movies Family
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1422.ts
-#EXTINF:-1,UK: Sky Movies Disney
+#EXTINF:-1,Sky Movies Disney
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1424.ts
-#EXTINF:-1,UK: Sky Movies Comedy
+#EXTINF:-1,Sky Movies Comedy
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1426.ts
 #EXTINF:-1,UK: Sky Movies Action&Adventure
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1427.ts
-#EXTINF:-1,UK: ITV1
+#EXTINF:-1,ITV1
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1432.ts
-#EXTINF:-1,UK: ITV2
+#EXTINF:-1,ITV2
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1431.ts
-#EXTINF:-1,UK: ITV3
+#EXTINF:-1,ITV3
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1430.ts
-#EXTINF:-1,UK: ITV4
+#EXTINF:-1,ITV4
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1429.ts
-#EXTINF:-1,UK: Comedy Central
+#EXTINF:-1,Comedy Central
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1445.ts
-#EXTINF:-1,UK: BBC1
+#EXTINF:-1,BBC1
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1437.ts
-#EXTINF:-1,UK: BBC2
+#EXTINF:-1,BBC2
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1436.ts
-#EXTINF:-1,UK: BBC3
+#EXTINF:-1,BBC3
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1435.ts
-#EXTINF:-1,UK: BBC4
+#EXTINF:-1,BBC4
 http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1434.ts
-#EXTINF:-1,DIGITURK:LIGTV HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1156.ts
+
 
 #EXTINF:-1,mbc 1
 http://selling-team.net:8000/live/ali/ali/5571.m3u8
@@ -341,18 +339,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterP
 #EXTINF:-1,CN
 http://54.255.155.24:1935/Live/_definst_/sweetbcha1novD28_W_250.sdp/chunklist.m3u8
 
-#EXTINF:0,RMC
-http://mc-doualiya.scdn.arkena.com/mc-doualiya.mp3
-
-#EXTINF:0,Sawa
-http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03
-
-#EXTINF:0,Nojom fm
-http://ice33.securenetsystems.net/NOGOUM?type=.flv
-
-
-#EXTINF:0,alaan fm
-http://audiostreaming.itworkscdn.com:9078/;*.nsv
 
 
 
@@ -362,8 +348,6 @@ http://hls1.livestreamingcdn.com/livecdn753/livestreaming/chunklist.m3u8
 #EXTINF:0,Al Mass
 rtmp://edge.streamspot.com/live2/almastea1d
 
-#EXTINF:0,MEA Tv
-http://livestream-f.akamaihd.net/5943550_2507246_6d3e64a3_1_10095@124877?v=3.6.0&fp=WIN%2019,0,0,226&r=LHMRB&g=WFQIKUFEWLLE
 
 #EXTINF:-1,Al Sharqiya
 rtmp://ns8.indexforce.com/home/mystream
@@ -382,8 +366,6 @@ http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
 rtmp://stream.joinvisions.net/dij//dij
 
 
-#EXTINF:0,Baghdad tv
-http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
 
 #EXTINF:0,Hona Baghdad
 rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
@@ -428,5 +410,18 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 
 #EXTINF:-1,AL Sharqiya News
 rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+
+#EXTINF:0,RMC
+http://mc-doualiya.scdn.arkena.com/mc-doualiya.mp3
+
+#EXTINF:0,Sawa
+http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03
+
+#EXTINF:0,Nojom fm
+http://ice33.securenetsystems.net/NOGOUM?type=.flv
+
+
+#EXTINF:0,alaan fm
+http://audiostreaming.itworkscdn.com:9078/;*.nsv
 
 
