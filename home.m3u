@@ -2,254 +2,8 @@
 
 
 
-
-#EXTM3U
-
-
-#EXTINF:-1,ART Aflam 1
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/159.ts
-#EXTINF:-1,ART Aflam 2
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/158.ts
-#EXTINF:-1,ART CINEMA
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/930.ts
-#EXTINF:-1,ART Hekayat 1
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/509.ts
-#EXTINF:-1,ART Hekayat 2
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/156.ts
-#EXTINF:-1,NAT GEO WILD HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1244.ts
-#EXTINF:-1,OSN-Discovery-Sc-HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/921.ts
-#EXTINF:-1,OSN Discovery Science
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1188.ts
-#EXTINF:-1,OSN-Animal-Planet-HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/923.ts
-#EXTINF:-1,Travel Channel HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/919.ts
-#EXTINF:-1,Extreme Sports Channel
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/920.ts
-#EXTINF:-1,OSN Movies Action 1 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/229.ts
-#EXTINF:-1,OSN Movies Premiere HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/121.ts
-#EXTINF:-1,OSN Movies Action HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1019.ts
-#EXTINF:-1,OSN:MOVIES ACTION 2
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1243.ts
-#EXTINF:-1,OSN: MOVIES ACTION 2 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1242.ts
-#EXTINF:-1,OSN YAHALA SHABAB HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1161.ts
-#EXTINF:-1,OSN YAHALA DRAMA HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1165.ts
-#EXTINF:-1,OSN YA HALA HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1158.ts
-#EXTINF:-1,OSN MOVIES FESTIVAL HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1166.ts
-#EXTINF:-1,OSN MOVIES ACTION 2 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1160.ts
-#EXTINF:-1,OSN FIRST HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1159.ts
-#EXTINF:-1,OSN Cinema 1
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/980.ts
-#EXTINF:-1,OSN CINEMA 2
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1162.ts
-#EXTINF:-1,OSN-CBS Reality
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/922.ts
-#EXTINF:-1,OSN Fann
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1187.ts
-#EXTINF:-1,OSN MBC P Variety HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/924.ts
-#EXTINF:-1,OSN Ya Hala Shabab
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/884.ts
-#EXTINF:-1,OSN Movies HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/887.ts
-#EXTINF:-1,OSN Movies Comedy
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/888.ts
-#EXTINF:-1,OSN MBC Plus Drama HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/890.ts
-#EXTINF:-1,OSN Ya Hala
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/991.ts
-#EXTINF:-1,OSN Premiere
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/989.ts
-#EXTINF:-1,OSN FIRST COMEDY
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/986.ts
-#EXTINF:-1,OSN Movies Drama
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/984.ts
-#EXTINF:-1,OSN First Comedy HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/983.ts
-#EXTINF:-1,OSN MOVIES Comedy HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1245.ts
-#EXTINF:-1,OSN MOVIES ACTION HD PACKUP
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1246.ts
-#EXTINF:-1,OSN MOVIES ACTION 2 HD PACKUP
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1247.ts
-#EXTINF:-1,OSN YAHALA HD packup
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1558.ts
-#EXTINF:-1,OSN Moussalsalat
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/982.ts
-#EXTINF:-1,OSN Action HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/979.ts
-#EXTINF:-1,BeIN Movies 1 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/153.ts
-#EXTINF:-1,BeIN Movies 2 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/181.ts
-#EXTINF:-1,beIN Sports 1 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/336.ts
-#EXTINF:-1,bEIN Sports 2 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/337.ts
-#EXTINF:-1,beIN Sports 3 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/338.ts
-#EXTINF:-1,beIN Sports 4 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/339.ts
-#EXTINF:-1,beIN Sports 5 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/340.ts
-#EXTINF:-1,beIN Sports 6 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/341.ts
-#EXTINF:-1,beIN Sports 7 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/342.ts
-#EXTINF:-1,beIN Sports 8 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/343.ts
-#EXTINF:-1,beIN Sports 9 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/344.ts
-#EXTINF:-1,beIN Sports 10 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/345.ts
-#EXTINF:-1,beIN Sports 11 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1170.ts
-#EXTINF:-1,beINSports 1 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1020.ts
-#EXTINF:-1,beINSports 2 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1021.ts
-#EXTINF:-1,beINSports 3 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1022.ts
-#EXTINF:-1,beINSports 4 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1023.ts
-#EXTINF:-1,beINSports 5 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1024.ts
-#EXTINF:-1,beINSports 6 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1025.ts
-#EXTINF:-1,beINSports 7 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1026.ts
-#EXTINF:-1,beINSports 8 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1027.ts
-#EXTINF:-1,beINSports 9 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1028.ts
-#EXTINF:-1,beINSports 10 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1248.ts
-#EXTINF:-1,Packup: :BEIN SPORT 1 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1644.ts
-#EXTINF:-1,Packup: :BEIN SPORT 2 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1640.ts
-#EXTINF:-1,Packup: :BEIN SPORT 3 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1639.ts
-#EXTINF:-1,Packup: :BEIN SPORT 4 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1638.ts
-#EXTINF:-1,Packup: :BEIN SPORT 5 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1637.ts
-#EXTINF:-1,Packup: :BEIN SPORT 6 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1636.ts
-#EXTINF:-1,Packup: :BEIN SPORT 7 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1635.ts
-#EXTINF:-1,Packup: :BEIN SPORT 8 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1634.ts
-#EXTINF:-1,Packup: BEIN SPORT 9 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1633.ts
-#EXTINF:-1,Packup: :BEIN SPORT 10 HD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1643.ts
-#EXTINF:-1,BEINSports_1_usa
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/67.ts
-#EXTINF:-1,BEINSports_2_usa
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/68.ts
-#EXTINF:-1,BEINSports_3_usa
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/69.ts
-
-#EXTINF:-1,MBC_BOLLYWOOD
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/21.ts
-#EXTINF:-1,MBC MASR
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/579.ts
-#EXTINF:-1,MBC MASR 2
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/578.ts
-#EXTINF:-1,MBC MAX
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1293.ts
-#EXTINF:-1,MBC Action
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/515.ts
-#EXTINF:-1,MBC 1
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1249.ts
-#EXTINF:-1,MBC 2
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/518.ts
-#EXTINF:-1,MBC 3
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1399.ts
-#EXTINF:-1,MBC 4
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/516.ts
-#EXTINF:-1,CBC
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1398.ts
-#EXTINF:-1,Rotana Aflam
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/707.ts
-#EXTINF:-1,YAS AD SPORTS
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/860.ts
-#EXTINF:-1,ROTANA CLIP
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/929.ts
-#EXTINF:-1,Rotana Masriya
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/142.ts
-#EXTINF:-1,Rotana Classic
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/143.ts
-#EXTINF:-1,Rotana cinema
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/144.ts
-#EXTINF:-1,BBC Arabic
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/95.ts
-#EXTINF:-1,2M
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/10.ts
-#EXTINF:-1,AL-JAZEERA
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/96.ts
-#EXTINF:-1,SAMA DUBAI
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1648.ts
-#EXTINF:-1,DUBAI TV
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1646.ts
-
-#EXTINF:-1,AR: DUBAI ONE
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1647.ts
-
-
-#EXTINF:-1,BOOMERANG
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1652.ts
-
-#EXTINF:-1,Sky Movies Thriller
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1416.ts
-#EXTINF:-1,Sky Movies Showcase
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1417.ts
-#EXTINF:-1,Sky Movies ScFi-Horror
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1419.ts
-#EXTINF:-1,Sky Movies Premiere
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1420.ts
-#EXTINF:-1,Sky Movies Modern_Greats
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1421.ts
-#EXTINF:-1,Sky Movies Family
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1422.ts
-#EXTINF:-1,Sky Movies Disney
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1424.ts
-#EXTINF:-1,Sky Movies Comedy
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1426.ts
-#EXTINF:-1,UK: Sky Movies Action&Adventure
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1427.ts
-#EXTINF:-1,ITV1
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1432.ts
-#EXTINF:-1,ITV2
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1431.ts
-#EXTINF:-1,ITV3
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1430.ts
-#EXTINF:-1,ITV4
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1429.ts
-#EXTINF:-1,Comedy Central
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1445.ts
-#EXTINF:-1,BBC1
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1437.ts
-#EXTINF:-1,BBC2
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1436.ts
-#EXTINF:-1,BBC3
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1435.ts
-#EXTINF:-1,BBC4
-http://iptv-dm.dynu.com:8080/live/dreambox/tunisie/1434.ts
-
+#EXTINF:0,NAT GEO
+http://portal.rapidiptv.com:8080/live/steph/steph/5787.m3u8
 
 #EXTINF:-1,mbc 1
 http://selling-team.net:8000/live/ali/ali/5571.m3u8
@@ -261,6 +15,151 @@ http://yosriiptv.zapto.org:8000/live/test1/test1/100.ts
 http://portal.rapidiptv.com:8080/live/steph/steph/5707.ts
 #EXTINF:-1,MBC 1
 http://streamup.global.ssl.fastly.net/app/sami2015s-channel/playlist.m3u8
+
+
+#EXTINF:-1,Jeem 
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterPlaylist.m3u8
+
+#EXTINF:-1,CN
+http://54.255.155.24:1935/Live/_definst_/sweetbcha1novD28_W_250.sdp/chunklist.m3u8
+
+
+
+#EXTINF:0,Al Baghdadia
+http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
+
+#EXTINF:0,Al-Baghdadia 2
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
+
+
+
+#EXTINF:0,SD Alsharq
+http://hls1.livestreamingcdn.com/livecdn753/livestreaming/chunklist.m3u8
+#EXTINF:-1,Dubai Drama
+http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w7946196_b1200000.m3u8
+
+
+#EXTINF:-1,Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w1042183914_b1200000.m3u8
+
+#EXTINF:-1,Sama Dubai TV 
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w517203350_b1200000.m3u8
+
+#EXTINF:-1,Noor Dubai TV 
+http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w157951105_b1200000.m3u8
+
+
+#EXTINF:-1,Al hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+
+#EXTINF:-1,BBC
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+
+
+
+#EXTINF:-1,arabya alhadath
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+
+
+#EXTINF:-1,Aljazeera Documents
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
+#EXTINF:-1,DW tv
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+
+#EXTINF:-1,guli
+http://92.39.251.36/live/48810028wdi/m3u8/48810028wdi.m3u8
+
+#EXTINF:0,MBC 2
+http://portal.rapidiptv.com:8080/live/steph/steph/5708.m3u8
+
+#EXTINF:0,MBC 4
+http://portal.rapidiptv.com:8080/live/steph/steph/5710.m3u8
+
+#EXTINF:0,MBC MASR
+http://portal.rapidiptv.com:8080/live/steph/steph/5712.m3u8
+
+#EXTINF:0,MBC MASR 2
+http://portal.rapidiptv.com:8080/live/steph/steph/5715.m3u8
+
+#EXTINF:0,AR: MBC DRAMA
+http://portal.rapidiptv.com:8080/live/steph/steph/5714.m3u8
+
+
+#EXTINF:0,MBC MAX
+http://portal.rapidiptv.com:8080/live/steph/steph/5711.m3u8
+#EXTINF:0,AR: MBC BOLLYWOOD
+http://portal.rapidiptv.com:8080/live/steph/steph/5716.m3u8
+#EXTINF:0,AR: MBC ACTION
+http://portal.rapidiptv.com:8080/live/steph/steph/5713.m3u8
+
+#EXTINF:0,AR: DUBAI ONE
+http://portal.rapidiptv.com:8080/live/steph/steph/7988.m3u8
+#EXTINF:0,AR: DUBAI DRAMA
+http://portal.rapidiptv.com:8080/live/steph/steph/7993.m3u8
+#EXTINF:0,AR: DUBAI ALOLA
+http://portal.rapidiptv.com:8080/live/steph/steph/7989.m3u8
+#EXTINF:0,AR: ROTANA MUSIC
+http://portal.rapidiptv.com:8080/live/steph/steph/5794.m3u8
+#EXTINF:0,AR: ROTANA MASRIYA
+http://portal.rapidiptv.com:8080/live/steph/steph/5793.m3u8
+#EXTINF:0,AR: ROTANA KHALIJI
+http://portal.rapidiptv.com:8080/live/steph/steph/5792.m3u8
+#EXTINF:0,AR: ROTANA CLIP
+http://portal.rapidiptv.com:8080/live/steph/steph/5791.m3u8
+#EXTINF:0,AR: ROTANA CLASSIC
+http://portal.rapidiptv.com:8080/live/steph/steph/5790.m3u8
+#EXTINF:0,AR: ROTANA CINEMA
+http://portal.rapidiptv.com:8080/live/steph/steph/5789.m3u8
+#EXTINF:0,AR: ROTANA AFLAM
+http://portal.rapidiptv.com:8080/live/steph/steph/5788.m3u8
+#EXTINF:0,AR: NAT GEO AD
+http://portal.rapidiptv.com:8080/live/steph/steph/5787.m3u8
+#EXTINF:0,AR: ART HEKAYAT 2
+http://portal.rapidiptv.com:8080/live/steph/steph/5784.m3u8
+#EXTINF:0,AR: ART HEKAYAT
+http://portal.rapidiptv.com:8080/live/steph/steph/5783.m3u8
+#EXTINF:0,AR: ART CINEMA
+http://portal.rapidiptv.com:8080/live/steph/steph/5782.m3u8
+#EXTINF:0,AR: ART AFLAM 2
+http://portal.rapidiptv.com:8080/live/steph/steph/5786.m3u8
+#EXTINF:0,AR: ART AFLAM 1
+http://portal.rapidiptv.com:8080/live/steph/steph/5785.m3u8
+
+#EXTINF:-1,Nat Geo
+http://yosriiptv.zapto.org:8000/live/test1/test1/151.ts
+#EXTINF:-1,Fatafeat
+http://yosriiptv.zapto.org:8000/live/test1/test1/150.ts
+#EXTINF:-1,MBC Max
+http://yosriiptv.zapto.org:8000/live/test1/test1/105.ts
+#EXTINF:-1,MBC BOLLYWOOD
+http://yosriiptv.zapto.org:8000/live/test1/test1/106.ts
+#EXTINF:-1,MBC ACTION
+http://yosriiptv.zapto.org:8000/live/test1/test1/104.ts
+#EXTINF:-1,MBC 4
+http://yosriiptv.zapto.org:8000/live/test1/test1/103.ts
+#EXTINF:-1,MBC 2
+http://yosriiptv.zapto.org:8000/live/test1/test1/101.ts
+#EXTINF:-1,MBC 1
+http://yosriiptv.zapto.org:8000/live/test1/test1/100.ts
+
+#EXTINF:0,AR: Time Taxi
+http://portal.rapidiptv.com:8080/live/steph/steph/8047.m3u8
+#EXTINF:0,AR: Time Film
+http://portal.rapidiptv.com:8080/live/steph/steph/8046.m3u8
+#EXTINF:0,AR: Time Comedy
+http://portal.rapidiptv.com:8080/live/steph/steph/8045.m3u8
+#EXTINF:0,AR: Time Cinema
+http://portal.rapidiptv.com:8080/live/steph/steph/8044.m3u8
+#EXTINF:0,AR: Star Cinema 2
+http://portal.rapidiptv.com:8080/live/steph/steph/8051.m3u8
+#EXTINF:0,AR: Star Cinema
+http://portal.rapidiptv.com:8080/live/steph/steph/8050.m3u8
+#EXTINF:0,AR: Star Aflam
+http://portal.rapidiptv.com:8080/live/steph/steph/8049.m3u8
+#EXTINF:0,AR: Star Academy
+http://portal.rapidiptv.com:8080/live/steph/steph/8048.m3u8
+FREE IPTV LINKS 21/12/2015
 
 
 #EXTINF:-1,وحوش هتلر
@@ -333,17 +232,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=uMvhnVugCjo
 rtmp://AgendaStreamer2.qna.org.qa/brm///brm
 
 
-#EXTINF:-1,Jeem 
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterPlaylist.m3u8
-
-#EXTINF:-1,CN
-http://54.255.155.24:1935/Live/_definst_/sweetbcha1novD28_W_250.sdp/chunklist.m3u8
 
 
 
-
-#EXTINF:0,SD Alsharq
-http://hls1.livestreamingcdn.com/livecdn753/livestreaming/chunklist.m3u8
 
 #EXTINF:0,Al Mass
 rtmp://edge.streamspot.com/live2/almastea1d
@@ -355,12 +246,6 @@ rtmp://ns8.indexforce.com/home/mystream
 #EXTINF:-1,Al Sharqiya_news
 rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 
-
-#EXTINF:0,Al Baghdadia
-http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
-
-#EXTINF:0,Al-Baghdadia 2
-http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
 
 #EXTINF:-1,Dijla
 rtmp://stream.joinvisions.net/dij//dij
@@ -375,37 +260,12 @@ rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
 #EXTINF:0,Funoon
 http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonhigh.m3u8
 
-#EXTINF:-1,Dubai Drama
-http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w7946196_b1200000.m3u8
 
-
-#EXTINF:-1, Dubai TV
-http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w1042183914_b1200000.m3u8
-
-#EXTINF:-1,Sama Dubai TV 
-http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w517203350_b1200000.m3u8
-
-#EXTINF:-1,Noor Dubai TV 
-http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w157951105_b1200000.m3u8
 
 #EXTINF:-1,QURAAN
 rtmp://208.75.224.165:1935/map-alquraan/mp4:map-alquraan.stream 
 
 
-#EXTINF:-1,Al hurra
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-
-#EXTINF:-1,BBC
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-
-
-
-#EXTINF:-1,arabya alhadath
-http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-
-
-#EXTINF:-1,Aljazeera Documents
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 
 #EXTINF:-1,AL Sharqiya News
