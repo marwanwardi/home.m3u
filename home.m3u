@@ -2,16 +2,33 @@
 
 
 
-#EXTINF:-1,AR:MBC 3
+#EXTINF:-1,MBC 3
 http://iptv-elhouari.com:8000/live/star/test/357.ts
-#EXTINF:-1,AR:Cairo.Cinema
+#EXTINF:-1,Cairo.Cinema
 http://iptv-elhouari.com:8000/live/star/test/376.ts
-#EXTINF:-1,AR:Cairo-Drama
+#EXTINF:-1,Cairo-Drama
 http://iptv-elhouari.com:8000/live/star/test/377.ts
-#EXTINF:-1,AR:MBC 1
+#EXTINF:-1,MBC 1
 http://iptv-elhouari.com:8000/live/star/test/384.ts
 
-#EXTINF:-1,mbc_2
+#EXTINF:-1,Mbc 1
+http://40.113.21.146:8000/Daziptv/Streamall/151.ch
+#EXTINF:-1,MBC 2
+http://40.113.21.146:8000/Daziptv/Streamall/145.ch
+#EXTINF:-1,MBC 4
+http://40.113.21.146:8000/Daziptv/Streamall/144.ch
+#EXTINF:-1,Mbc Drama
+http://40.113.21.146:8000/Daziptv/Streamall/152.ch
+#EXTINF:-1,Mbc Masr
+http://40.113.21.146:8000/Daziptv/Streamall/153.ch
+#EXTINF:-1,MBC ACTION
+http://40.113.21.146:8000/Daziptv/Streamall/143.ch
+#EXTINF:-1,MBC BOLLYWOOD
+http://40.113.21.146:8000/Daziptv/Streamall/141.ch
+#EXTINF:-1,MBC MAX
+http://40.113.21.146:8000/Daziptv/Streamall/244.ch
+
+#EXTINF:-1,mbc2
 http://iptv-elhouari.com:8000/live/star/test/14.ts
 #EXTINF:-1,MBC_ACTION
 http://iptv-elhouari.com:8000/live/star/test/15.ts
@@ -71,22 +88,7 @@ http://40.113.21.146:8000/Daziptv/Streamall/106.ch
 
 #EXTINF:-1,Al Hadath
 http://40.113.21.146:8000/Daziptv/Streamall/146.ch
-#EXTINF:-1,Mbc
-http://40.113.21.146:8000/Daziptv/Streamall/151.ch
-#EXTINF:-1,MBC 2
-http://40.113.21.146:8000/Daziptv/Streamall/145.ch
-#EXTINF:-1,MBC 4
-http://40.113.21.146:8000/Daziptv/Streamall/144.ch
-#EXTINF:-1,Mbc Drama
-http://40.113.21.146:8000/Daziptv/Streamall/152.ch
-#EXTINF:-1,Mbc Masr
-http://40.113.21.146:8000/Daziptv/Streamall/153.ch
-#EXTINF:-1,MBC ACTION
-http://40.113.21.146:8000/Daziptv/Streamall/143.ch
-#EXTINF:-1,MBC BOLLYWOOD
-http://40.113.21.146:8000/Daziptv/Streamall/141.ch
-#EXTINF:-1,MBC MAX
-http://40.113.21.146:8000/Daziptv/Streamall/244.ch
+
 #EXTINF:-1,Real madrid
 http://40.113.21.146:8000/Daziptv/Streamall/154.ch
 #EXTINF:-1,Arriadia HD Full
@@ -103,26 +105,22 @@ http://40.113.21.146:8000/Daziptv/Streamall/163.ch
 http://40.113.21.146:8000/Daziptv/Streamall/164.ch
 #EXTINF:-1,Sports 4  HD
 http://40.113.21.146:8000/Daziptv/Streamall/165.ch
-#EXTINF:-1,VIP: Sky Sports 5  HD
+#EXTINF:-1,Sky Sports 5  HD
 http://40.113.21.146:8000/Daziptv/Streamall/166.ch
-#EXTINF:-1,AS:ABLA FAHEETA
+#EXTINF:-1,ABLA FAHEETA
 http://40.113.21.146:8000/Daziptv/Streamall/192.ch
-#EXTINF:-1,AS:AL GOMHOR CINEMA
+#EXTINF:-1,AL GOMHOR CINEMA
 http://40.113.21.146:8000/Daziptv/Streamall/236.ch
-#EXTINF:-1,AS:AL SAHAT
-http://40.113.21.146:8000/Daziptv/Streamall/242.ch
-#EXTINF:-1,AS:AMC
-http://40.113.21.146:8000/Daziptv/Streamall/190.ch
 
-#EXTINF:-1,AS:MBC PRO SP 1
+#EXTINF:-1,MBC PRO SP 1
 http://40.113.21.146:8000/Daziptv/Streamall/217.ch
-#EXTINF:-1,AS:MBC PRO SP 2
+#EXTINF:-1,MBC PRO SP 2
 http://40.113.21.146:8000/Daziptv/Streamall/208.ch
-#EXTINF:-1,AS:MBC PRO SP 3
+#EXTINF:-1,MBC PRO SP 3
 http://40.113.21.146:8000/Daziptv/Streamall/230.ch
-#EXTINF:-1,AS:MBC PRO SP 4
+#EXTINF:-1,MBC PRO SP 4
 http://40.113.21.146:8000/Daziptv/Streamall/176.ch
-#EXTINF:-1,AS:Motors TV
+#EXTINF:-1,Motors TV
 http://40.113.21.146:8000/Daziptv/Streamall/204.ch
 
 
