@@ -1,7 +1,21 @@
 ﻿#EXTM3U
 
 
-#EXTM3U
+
+#EXTINF:-1,AR:MBC 3
+http://iptv-elhouari.com:8000/live/star/test/357.ts
+#EXTINF:-1,AR:Cairo.Cinema
+http://iptv-elhouari.com:8000/live/star/test/376.ts
+#EXTINF:-1,AR:Cairo-Drama
+http://iptv-elhouari.com:8000/live/star/test/377.ts
+#EXTINF:-1,AR:MBC 1
+http://iptv-elhouari.com:8000/live/star/test/384.ts
+
+#EXTINF:-1,mbc_2
+http://iptv-elhouari.com:8000/live/star/test/14.ts
+#EXTINF:-1,MBC_ACTION
+http://iptv-elhouari.com:8000/live/star/test/15.ts
+
 #EXTINF:-1,quran karem
 http://40.113.21.146:8000/Daziptv/Streamall/101.ch
 #EXTINF:-1,Bein Sport News
@@ -55,8 +69,6 @@ http://40.113.21.146:8000/Daziptv/Streamall/105.ch
 #EXTINF:-1,OSN Movies Premier
 http://40.113.21.146:8000/Daziptv/Streamall/106.ch
 
-#EXTINF:-1,eurosport HD
-http://40.113.21.146:8000/Daziptv/Streamall/140.ch
 #EXTINF:-1,Al Hadath
 http://40.113.21.146:8000/Daziptv/Streamall/146.ch
 #EXTINF:-1,Mbc
@@ -315,5 +327,77 @@ http://ice33.securenetsystems.net/NOGOUM?type=.flv
 
 #EXTINF:0,alaan fm
 http://audiostreaming.itworkscdn.com:9078/;*.nsv
+
+#EXTINF:-1,AD Drama
+http://iptv-elhouari.com:8000/live/star/test/378.ts
+
+
+
+#EXTINF:-1,---------------------------------------
+
+http://iptv-elhouari.com:8000/live/star/test/356.ts
+
+
+#EXTINF:-1,MBC Drama
+http://iptv-elhouari.com:8000/live/star/test/356.ts
+#EXTINF:-1,MBC 3
+http://iptv-elhouari.com:8000/live/star/test/357.ts
+
+#EXTINF:-1,Aljazeera Doc
+http://iptv-elhouari.com:8000/live/star/test/360.ts
+#EXTINF:-1,Aljazeera Children
+http://iptv-elhouari.com:8000/live/star/test/358.ts
+
+#EXTINF:-1,MBC Bollywood
+http://iptv-elhouari.com:8000/live/star/test/126.ts
+#EXTINF:-1,Rotana Cinema
+http://iptv-elhouari.com:8000/live/star/test/127.ts
+#EXTINF:-1,Zee Aflam
+http://iptv-elhouari.com:8000/live/star/test/128.ts
+
+#EXTINF:-1,mbc 2
+http://iptv-elhouari.com:8000/live/star/test/14.ts
+#EXTINF:-1,MBC ACTION
+http://iptv-elhouari.com:8000/live/star/test/15.ts
+
+#EXTINF:-1,alarabiya
+http://iptv-elhouari.com:8000/live/star/test/111.ts
+
+#EXTINF:-1,aljazeera
+http://iptv-elhouari.com:8000/live/star/test/112.ts
+#EXTINF:-1,ART AFLAM1
+http://iptv-elhouari.com:8000/live/star/test/124.ts
+#EXTINF:-1,ART AFLAM2
+http://iptv-elhouari.com:8000/live/star/test/123.ts
+#EXTINF:-1,Art Cinema
+http://iptv-elhouari.com:8000/live/star/test/122.ts
+#EXTINF:-1,ART.Hekayat1
+http://iptv-elhouari.com:8000/live/star/test/121.ts
+#EXTINF:-1,ART HIKEYET2
+http://iptv-elhouari.com:8000/live/star/test/120.ts
+#EXTINF:-1,beINSPORT01_HD
+http://iptv-elhouari.com:8000/live/star/test/110.ts
+#EXTINF:-1,beINSPORT02_HD
+http://iptv-elhouari.com:8000/live/star/test/109.ts
+#EXTINF:-1,beINSPORT03_HD
+http://iptv-elhouari.com:8000/live/star/test/108.ts
+#EXTINF:-1,beINSPORT04_HD
+http://iptv-elhouari.com:8000/live/star/test/107.ts
+#EXTINF:-1,beINSPORT05_HD
+http://iptv-elhouari.com:8000/live/star/test/106.ts
+#EXTINF:-1,beINSPORT06_HD
+http://iptv-elhouari.com:8000/live/star/test/105.ts
+#EXTINF:-1,beINSPORT07_HD
+http://iptv-elhouari.com:8000/live/star/test/104.ts
+#EXTINF:-1,beINSPORT08_HD
+http://iptv-elhouari.com:8000/live/star/test/103.ts
+#EXTINF:-1,beINSPORT09_HD
+http://iptv-elhouari.com:8000/live/star/test/102.ts
+#EXTINF:-1,beINSPORT10_HD
+http://iptv-elhouari.com:8000/live/star/test/101.ts
+#EXTINF:-1,Bein.movies.1HD
+http://iptv-elhouari.com:8000/live/star/test/413.ts
+#EXTINF:-1,Bein.movies.2HD
+http://iptv-elhouari.com:8000/live/star/test/414.ts
 
 
