@@ -2,14 +2,37 @@
 
 
 
+#EXTINF:-1,alarabiya
+http://iptv-elhouari.com:8000/live/star/test/111.ts
+
+#EXTINF:-1,aljazeera
+http://iptv-elhouari.com:8000/live/star/test/112.ts
+#EXTINF:-1,ART AFLAM1
+http://iptv-elhouari.com:8000/live/star/test/124.ts
+#EXTINF:-1,ART AFLAM2
+http://iptv-elhouari.com:8000/live/star/test/123.ts
+#EXTINF:-1,Art Cinema
+http://iptv-elhouari.com:8000/live/star/test/122.ts
 #EXTINF:-1,MBC 3
 http://iptv-elhouari.com:8000/live/star/test/357.ts
-#EXTINF:-1,Cairo.Cinema
-http://iptv-elhouari.com:8000/live/star/test/376.ts
-#EXTINF:-1,Cairo-Drama
+#EXTINF:-1,MBC 3
+http://iptv-elhouari.com:8000/live/star/test/357.ts
+
+#EXTINF:-1,Cairo Drama
 http://iptv-elhouari.com:8000/live/star/test/377.ts
-#EXTINF:-1,MBC 1
-http://iptv-elhouari.com:8000/live/star/test/384.ts
+
+#EXTINF:-1,MBC 1 تشتغل
+http://streamup.global.ssl.fastly.net/app/sami2015s-channel/playlist.m3u8
+
+#EXTINF:-1,MBC 1 تشتغل
+http://portal.rapidiptv.com:8080/live/steph/steph/5707.ts
+
+#EXTINF:-1,mbc2 تشتغل
+http://iptv-elhouari.com:8000/live/star/test/14.ts
+#EXTINF:-1,MBC ACTION تشتغل
+http://iptv-elhouari.com:8000/live/star/test/15.ts
+#EXTINF:-1,MBC Drama
+http://iptv-elhouari.com:8000/live/star/test/356.ts
 
 #EXTINF:-1,Mbc 1
 http://40.113.21.146:8000/Daziptv/Streamall/151.ch
@@ -28,128 +51,46 @@ http://40.113.21.146:8000/Daziptv/Streamall/141.ch
 #EXTINF:-1,MBC MAX
 http://40.113.21.146:8000/Daziptv/Streamall/244.ch
 
-#EXTINF:-1,mbc2
-http://iptv-elhouari.com:8000/live/star/test/14.ts
-#EXTINF:-1,MBC_ACTION
-http://iptv-elhouari.com:8000/live/star/test/15.ts
+
 
 #EXTINF:-1,quran karem
 http://40.113.21.146:8000/Daziptv/Streamall/101.ch
-#EXTINF:-1,Bein Sport News
-http://40.113.21.146:8000/Daziptv/Streamall/134.ch
-#EXTINF:-1,Bein Movies 1 HD
-http://40.113.21.146:8000/Daziptv/Streamall/323.ch
-#EXTINF:-1,Bein Movies 2 HD
-http://40.113.21.146:8000/Daziptv/Streamall/322.ch
-#EXTINF:-1,Bien sport 1 HD
-http://40.113.21.146:8000/Daziptv/Streamall/88.ch
-#EXTINF:-1,Bein sport 2 HD
-http://40.113.21.146:8000/Daziptv/Streamall/99.ch
-#EXTINF:-1,Bein sport 3 HD
-http://40.113.21.146:8000/Daziptv/Streamall/98.ch
-#EXTINF:-1,Bein sport 4 HD
-http://40.113.21.146:8000/Daziptv/Streamall/97.ch
-#EXTINF:-1,Bien sport 5 HD
-http://40.113.21.146:8000/Daziptv/Streamall/112.ch
-#EXTINF:-1,Bein sport 6 HD
-http://40.113.21.146:8000/Daziptv/Streamall/96.ch
-#EXTINF:-1,Bein sport 7 HD
-http://40.113.21.146:8000/Daziptv/Streamall/95.ch
-#EXTINF:-1,Bein sport 8 HD
-http://40.113.21.146:8000/Daziptv/Streamall/94.ch
-#EXTINF:-1,bein sport 9 HD
-http://40.113.21.146:8000/Daziptv/Streamall/111.ch
-#EXTINF:-1,Bien sport 10 HD
-http://40.113.21.146:8000/Daziptv/Streamall/108.ch
-#EXTINF:-1,Bien sport 11 HD
-http://40.113.21.146:8000/Daziptv/Streamall/109.ch
-#EXTINF:-1,BEIN SPORTS MAX 4
-http://40.113.21.146:8000/Daziptv/Streamall/188.ch
-#EXTINF:-1,OSN-CINEMA1
+
+#EXTINF:-1,OSN CINEMA 1
 http://40.113.21.146:8000/Daziptv/Streamall/90.ch
-#EXTINF:-1,OSN-CINEMA2
+#EXTINF:-1,OSN CINEMA 2
 http://40.113.21.146:8000/Daziptv/Streamall/91.ch
 #EXTINF:-1,OSN YaHala Drama
 http://40.113.21.146:8000/Daziptv/Streamall/107.ch
-#EXTINF:-1,OSN-MBC DRAMA
+#EXTINF:-1,OSN MBC DRAMA
 http://40.113.21.146:8000/Daziptv/Streamall/93.ch
-#EXTINF:-1,OSN-YaHala-HD
+#EXTINF:-1,OSN YaHala HD
 http://40.113.21.146:8000/Daziptv/Streamall/92.ch
-#EXTINF:-1,OSN-Movies HD
+#EXTINF:-1,OSN Movies HD
 http://40.113.21.146:8000/Daziptv/Streamall/102.ch
-#EXTINF:-1,OSN-Movies Action HD
+#EXTINF:-1,OSN Movies Action HD
 http://40.113.21.146:8000/Daziptv/Streamall/103.ch
-#EXTINF:-1,OSN-Movies First more
+#EXTINF:-1,OSN Movies First more
 http://40.113.21.146:8000/Daziptv/Streamall/104.ch
 #EXTINF:-1,OSN YaHala Shabab
 http://40.113.21.146:8000/Daziptv/Streamall/105.ch
 #EXTINF:-1,OSN Movies Premier
 http://40.113.21.146:8000/Daziptv/Streamall/106.ch
 
+#EXTINF:-1,ART Hekayat 1
+http://iptv-elhouari.com:8000/live/star/test/121.ts
+#EXTINF:-1,ART HIKEYET 2
+http://iptv-elhouari.com:8000/live/star/test/120.ts
 #EXTINF:-1,Al Hadath
 http://40.113.21.146:8000/Daziptv/Streamall/146.ch
 
-#EXTINF:-1,Real madrid
-http://40.113.21.146:8000/Daziptv/Streamall/154.ch
-#EXTINF:-1,Arriadia HD Full
-http://40.113.21.146:8000/Daziptv/Streamall/155.ch
-#EXTINF:-1,Dubai Racing HD
-http://40.113.21.146:8000/Daziptv/Streamall/158.ch
-#EXTINF:-1,Dubai Sport 3 HD
-http://40.113.21.146:8000/Daziptv/Streamall/156.ch
-#EXTINF:-1,Sky Sports 1  HD
-http://40.113.21.146:8000/Daziptv/Streamall/168.ch
-#EXTINF:-1,Sky Sports 2  HD
-http://40.113.21.146:8000/Daziptv/Streamall/163.ch
-#EXTINF:-1,Sky Sports 3  HD
-http://40.113.21.146:8000/Daziptv/Streamall/164.ch
-#EXTINF:-1,Sports 4  HD
-http://40.113.21.146:8000/Daziptv/Streamall/165.ch
-#EXTINF:-1,Sky Sports 5  HD
-http://40.113.21.146:8000/Daziptv/Streamall/166.ch
-#EXTINF:-1,ABLA FAHEETA
-http://40.113.21.146:8000/Daziptv/Streamall/192.ch
-#EXTINF:-1,AL GOMHOR CINEMA
-http://40.113.21.146:8000/Daziptv/Streamall/236.ch
-
-#EXTINF:-1,MBC PRO SP 1
-http://40.113.21.146:8000/Daziptv/Streamall/217.ch
-#EXTINF:-1,MBC PRO SP 2
-http://40.113.21.146:8000/Daziptv/Streamall/208.ch
-#EXTINF:-1,MBC PRO SP 3
-http://40.113.21.146:8000/Daziptv/Streamall/230.ch
-#EXTINF:-1,MBC PRO SP 4
-http://40.113.21.146:8000/Daziptv/Streamall/176.ch
-#EXTINF:-1,Motors TV
-http://40.113.21.146:8000/Daziptv/Streamall/204.ch
-
-
-#EXTINF:-1,Sky sport 1
-http://40.113.21.146:8000/Daziptv/Streamall/306.ch
-#EXTINF:-1,Sky sport 2
-http://40.113.21.146:8000/Daziptv/Streamall/305.ch
-#EXTINF:-1,Sky sport 3
-http://40.113.21.146:8000/Daziptv/Streamall/304.ch
-#EXTINF:-1,Sky sport 4
-http://40.113.21.146:8000/Daziptv/Streamall/303.ch
-#EXTINF:-1,Sky sport 5
-http://40.113.21.146:8000/Daziptv/Streamall/302.ch
 #EXTINF:-1,Sky Movies Disney
 http://40.113.21.146:8000/Daziptv/Streamall/315.ch
 
 #EXTINF:0,NAT GEO
 http://portal.rapidiptv.com:8080/live/steph/steph/5787.m3u8
 
-#EXTINF:-1,mbc 1
-http://selling-team.net:8000/live/ali/ali/5571.m3u8
-#EXTINF:-1,MBC 1
-http://spain.iptv.re:80/live/star7arab.com/star7arab.com/163.ts
-#EXTINF:-1,MBC 1
-http://yosriiptv.zapto.org:8000/live/test1/test1/100.ts
-#EXTINF:-1,MBC 1
-http://portal.rapidiptv.com:8080/live/steph/steph/5707.ts
-#EXTINF:-1,MBC 1
-http://streamup.global.ssl.fastly.net/app/sami2015s-channel/playlist.m3u8
+
 
 
 #EXTINF:-1,Jeem 
@@ -167,6 +108,12 @@ http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
 
 
+#EXTINF:-1,mbc 1 test
+http://selling-team.net:8000/live/ali/ali/5571.m3u8
+#EXTINF:-1,MBC 1_test
+http://spain.iptv.re:80/live/star7arab.com/star7arab.com/163.ts
+#EXTINF:-1,MBC 1__test
+http://yosriiptv.zapto.org:8000/live/test1/test1/100.ts
 
 #EXTINF:0,SD Alsharq
 http://hls1.livestreamingcdn.com/livecdn753/livestreaming/chunklist.m3u8
@@ -336,10 +283,7 @@ http://iptv-elhouari.com:8000/live/star/test/378.ts
 http://iptv-elhouari.com:8000/live/star/test/356.ts
 
 
-#EXTINF:-1,MBC Drama
-http://iptv-elhouari.com:8000/live/star/test/356.ts
-#EXTINF:-1,MBC 3
-http://iptv-elhouari.com:8000/live/star/test/357.ts
+
 
 #EXTINF:-1,Aljazeera Doc
 http://iptv-elhouari.com:8000/live/star/test/360.ts
@@ -358,21 +302,6 @@ http://iptv-elhouari.com:8000/live/star/test/14.ts
 #EXTINF:-1,MBC ACTION
 http://iptv-elhouari.com:8000/live/star/test/15.ts
 
-#EXTINF:-1,alarabiya
-http://iptv-elhouari.com:8000/live/star/test/111.ts
-
-#EXTINF:-1,aljazeera
-http://iptv-elhouari.com:8000/live/star/test/112.ts
-#EXTINF:-1,ART AFLAM1
-http://iptv-elhouari.com:8000/live/star/test/124.ts
-#EXTINF:-1,ART AFLAM2
-http://iptv-elhouari.com:8000/live/star/test/123.ts
-#EXTINF:-1,Art Cinema
-http://iptv-elhouari.com:8000/live/star/test/122.ts
-#EXTINF:-1,ART.Hekayat1
-http://iptv-elhouari.com:8000/live/star/test/121.ts
-#EXTINF:-1,ART HIKEYET2
-http://iptv-elhouari.com:8000/live/star/test/120.ts
 #EXTINF:-1,beINSPORT01_HD
 http://iptv-elhouari.com:8000/live/star/test/110.ts
 #EXTINF:-1,beINSPORT02_HD
@@ -397,5 +326,4 @@ http://iptv-elhouari.com:8000/live/star/test/101.ts
 http://iptv-elhouari.com:8000/live/star/test/413.ts
 #EXTINF:-1,Bein.movies.2HD
 http://iptv-elhouari.com:8000/live/star/test/414.ts
-
 
