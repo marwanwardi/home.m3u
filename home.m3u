@@ -1,94 +1,88 @@
 ﻿#EXTM3U
 
 
-
-#EXTINF:-1,alarabiya
-http://iptv-elhouari.com:8000/live/star/test/111.ts
-
-#EXTINF:-1,aljazeera
-http://iptv-elhouari.com:8000/live/star/test/112.ts
-#EXTINF:-1,ART AFLAM1
-http://iptv-elhouari.com:8000/live/star/test/124.ts
-#EXTINF:-1,ART AFLAM2
-http://iptv-elhouari.com:8000/live/star/test/123.ts
-#EXTINF:-1,Art Cinema
-http://iptv-elhouari.com:8000/live/star/test/122.ts
-#EXTINF:-1,MBC 3
-http://iptv-elhouari.com:8000/live/star/test/357.ts
-#EXTINF:-1,MBC 3
-http://iptv-elhouari.com:8000/live/star/test/357.ts
-
-#EXTINF:-1,Cairo Drama
-http://iptv-elhouari.com:8000/live/star/test/377.ts
-
-#EXTINF:-1,MBC 1 تشتغل
+#EXTINF:-1,MBC 1
 http://streamup.global.ssl.fastly.net/app/sami2015s-channel/playlist.m3u8
 
-#EXTINF:-1,MBC 1 تشتغل
+#EXTINF:-1,MBC 1 
 http://portal.rapidiptv.com:8080/live/steph/steph/5707.ts
 
-#EXTINF:-1,mbc2 تشتغل
-http://iptv-elhouari.com:8000/live/star/test/14.ts
-#EXTINF:-1,MBC ACTION تشتغل
-http://iptv-elhouari.com:8000/live/star/test/15.ts
-#EXTINF:-1,MBC Drama
-http://iptv-elhouari.com:8000/live/star/test/356.ts
-
-#EXTINF:-1,Mbc 1
-http://40.113.21.146:8000/Daziptv/Streamall/151.ch
-#EXTINF:-1,MBC 2
-http://40.113.21.146:8000/Daziptv/Streamall/145.ch
-#EXTINF:-1,MBC 4
-http://40.113.21.146:8000/Daziptv/Streamall/144.ch
-#EXTINF:-1,Mbc Drama
-http://40.113.21.146:8000/Daziptv/Streamall/152.ch
-#EXTINF:-1,Mbc Masr
-http://40.113.21.146:8000/Daziptv/Streamall/153.ch
-#EXTINF:-1,MBC ACTION
-http://40.113.21.146:8000/Daziptv/Streamall/143.ch
-#EXTINF:-1,MBC BOLLYWOOD
-http://40.113.21.146:8000/Daziptv/Streamall/141.ch
-#EXTINF:-1,MBC MAX
-http://40.113.21.146:8000/Daziptv/Streamall/244.ch
-
-
-
-#EXTINF:-1,quran karem
-http://40.113.21.146:8000/Daziptv/Streamall/101.ch
-
-#EXTINF:-1,OSN CINEMA 1
-http://40.113.21.146:8000/Daziptv/Streamall/90.ch
-#EXTINF:-1,OSN CINEMA 2
-http://40.113.21.146:8000/Daziptv/Streamall/91.ch
-#EXTINF:-1,OSN YaHala Drama
-http://40.113.21.146:8000/Daziptv/Streamall/107.ch
-#EXTINF:-1,OSN MBC DRAMA
-http://40.113.21.146:8000/Daziptv/Streamall/93.ch
-#EXTINF:-1,OSN YaHala HD
-http://40.113.21.146:8000/Daziptv/Streamall/92.ch
-#EXTINF:-1,OSN Movies HD
-http://40.113.21.146:8000/Daziptv/Streamall/102.ch
-#EXTINF:-1,OSN Movies Action HD
-http://40.113.21.146:8000/Daziptv/Streamall/103.ch
-#EXTINF:-1,OSN Movies First more
-http://40.113.21.146:8000/Daziptv/Streamall/104.ch
-#EXTINF:-1,OSN YaHala Shabab
-http://40.113.21.146:8000/Daziptv/Streamall/105.ch
+#EXTINF:-1,OSN-CINEMA1
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/90.ch
+#EXTINF:-1,OSN-CINEMA2
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/91.ch
+#EXTINF:-1,OSN-Movies Comedy
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/109.ch
+#EXTINF:-1,OSN-MBC DRAMA
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/93.ch
+#EXTINF:-1,OSN-Movies Drama
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/104.ch
+#EXTINF:-1,OSN-Movies HD
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/102.ch
+#EXTINF:-1,OSN-Movies Action HD
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/103.ch
+#EXTINF:-1,OSN Movies Action +2 HD
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/118.ch
 #EXTINF:-1,OSN Movies Premier
-http://40.113.21.146:8000/Daziptv/Streamall/106.ch
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/106.ch
+#EXTINF:-1,OSN-YaHala-HD
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/92.ch
+#EXTINF:-1,OSN YaHala Shabab
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/105.ch
+#EXTINF:-1,OSN YaHala Drama
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/107.ch
+#EXTINF:-1,Spectre 2015
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/889.ch
+#EXTINF:-1,Osn Wwe
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/507.ch
+#EXTINF:-1,Art Aflam 1
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/757.ch
+#EXTINF:-1,Art Aflam 2
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/758.ch
+#EXTINF:-1,Art Hekayat
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/759.ch
+#EXTINF:-1,Melody Aflam
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/760.ch
+#EXTINF:-1,Melody Classic
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/761.ch
+#EXTINF:-1,Mbc
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/151.ch
+#EXTINF:-1,MBC 2
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/145.ch
+#EXTINF:-1,MBC 3
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/763.ch
+#EXTINF:-1,MBC 4
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/144.ch
+#EXTINF:-1,Mbc Drama
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/152.ch
+#EXTINF:-1,Mbc Masr
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/153.ch
+#EXTINF:-1,Mbc Masr +2
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/337.ch
+#EXTINF:-1,MBC ACTION
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/143.ch
+#EXTINF:-1,MBC MAX
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/244.ch
 
-#EXTINF:-1,ART Hekayat 1
-http://iptv-elhouari.com:8000/live/star/test/121.ts
-#EXTINF:-1,ART HIKEYET 2
-http://iptv-elhouari.com:8000/live/star/test/120.ts
-#EXTINF:-1,Al Hadath
-http://40.113.21.146:8000/Daziptv/Streamall/146.ch
+#EXTINF:-1,Al Nahar
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/332.ch
+#EXTINF:-1,Al Nahar AlYoum
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/333.ch
+#EXTINF:-1,Al Nahar Drama
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/334.ch
+#EXTINF:-1,MBC2
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/338.ch
 
-#EXTINF:-1,Sky Movies Disney
-http://40.113.21.146:8000/Daziptv/Streamall/315.ch
+#EXTINF:-1,DUBAI ONE
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/424.ch
+#EXTINF:-1,Pbs Kids
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/517.ch
+#EXTINF:-1,The Weather Channel
+http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/514.ch
 
-#EXTINF:0,NAT GEO
-http://portal.rapidiptv.com:8080/live/steph/steph/5787.m3u8
+
+
+
 
 
 
@@ -107,13 +101,6 @@ http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 #EXTINF:0,Al-Baghdadia 2
 http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
 
-
-#EXTINF:-1,mbc 1 test
-http://selling-team.net:8000/live/ali/ali/5571.m3u8
-#EXTINF:-1,MBC 1_test
-http://spain.iptv.re:80/live/star7arab.com/star7arab.com/163.ts
-#EXTINF:-1,MBC 1__test
-http://yosriiptv.zapto.org:8000/live/test1/test1/100.ts
 
 #EXTINF:0,SD Alsharq
 http://hls1.livestreamingcdn.com/livecdn753/livestreaming/chunklist.m3u8
@@ -276,54 +263,4 @@ http://audiostreaming.itworkscdn.com:9078/;*.nsv
 #EXTINF:-1,AD Drama
 http://iptv-elhouari.com:8000/live/star/test/378.ts
 
-
-
-#EXTINF:-1,---------------------------------------
-
-http://iptv-elhouari.com:8000/live/star/test/356.ts
-
-
-
-
-#EXTINF:-1,Aljazeera Doc
-http://iptv-elhouari.com:8000/live/star/test/360.ts
-#EXTINF:-1,Aljazeera Children
-http://iptv-elhouari.com:8000/live/star/test/358.ts
-
-#EXTINF:-1,MBC Bollywood
-http://iptv-elhouari.com:8000/live/star/test/126.ts
-#EXTINF:-1,Rotana Cinema
-http://iptv-elhouari.com:8000/live/star/test/127.ts
-#EXTINF:-1,Zee Aflam
-http://iptv-elhouari.com:8000/live/star/test/128.ts
-
-#EXTINF:-1,mbc 2
-http://iptv-elhouari.com:8000/live/star/test/14.ts
-#EXTINF:-1,MBC ACTION
-http://iptv-elhouari.com:8000/live/star/test/15.ts
-
-#EXTINF:-1,beINSPORT01_HD
-http://iptv-elhouari.com:8000/live/star/test/110.ts
-#EXTINF:-1,beINSPORT02_HD
-http://iptv-elhouari.com:8000/live/star/test/109.ts
-#EXTINF:-1,beINSPORT03_HD
-http://iptv-elhouari.com:8000/live/star/test/108.ts
-#EXTINF:-1,beINSPORT04_HD
-http://iptv-elhouari.com:8000/live/star/test/107.ts
-#EXTINF:-1,beINSPORT05_HD
-http://iptv-elhouari.com:8000/live/star/test/106.ts
-#EXTINF:-1,beINSPORT06_HD
-http://iptv-elhouari.com:8000/live/star/test/105.ts
-#EXTINF:-1,beINSPORT07_HD
-http://iptv-elhouari.com:8000/live/star/test/104.ts
-#EXTINF:-1,beINSPORT08_HD
-http://iptv-elhouari.com:8000/live/star/test/103.ts
-#EXTINF:-1,beINSPORT09_HD
-http://iptv-elhouari.com:8000/live/star/test/102.ts
-#EXTINF:-1,beINSPORT10_HD
-http://iptv-elhouari.com:8000/live/star/test/101.ts
-#EXTINF:-1,Bein.movies.1HD
-http://iptv-elhouari.com:8000/live/star/test/413.ts
-#EXTINF:-1,Bein.movies.2HD
-http://iptv-elhouari.com:8000/live/star/test/414.ts
 
