@@ -33,16 +33,14 @@ http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/105.ch
 http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/107.ch
 #EXTINF:-1,Spectre 2015
 http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/889.ch
-#EXTINF:-1,Osn Wwe
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/507.ch
+
 #EXTINF:-1,Art Aflam 1
 http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/757.ch
 #EXTINF:-1,Art Aflam 2
 http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/758.ch
 #EXTINF:-1,Art Hekayat
 http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/759.ch
-#EXTINF:-1,Melody Aflam
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/760.ch
+
 #EXTINF:-1,Melody Classic
 http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/761.ch
 #EXTINF:-1,Mbc
@@ -81,11 +79,11 @@ http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/517.ch
 http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/514.ch
 
 
+#EXTINF:-1,Ajyal
+rtmp://babflashlivefs.fplive.net/babflash5live-live//stream2
 
-
-
-
-
+#EXTINF:-1,Ajyal 2
+http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
 
 #EXTINF:-1,Jeem 
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterPlaylist.m3u8
@@ -263,4 +261,6 @@ http://audiostreaming.itworkscdn.com:9078/;*.nsv
 #EXTINF:-1,AD Drama
 http://iptv-elhouari.com:8000/live/star/test/378.ts
 
+#EXTINF:-1,nat geo
+http://iptv-planet.com/nationalgeographic.html' width='600' height='400'
 
