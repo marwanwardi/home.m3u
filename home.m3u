@@ -2,8 +2,8 @@
 
 
 #EXTINF:-1,MBC 1
-http://iptv.re:80/live/marwanwardy/kdkdk/300.ts
 
+http://iptv.re:80/live/marwanwardy/kdkdk/300.m3u8
 #EXTINF:-1,Nat Geo
 http://iptv.re:80/live/marwanwardy/kdkdk/100.ts
 
