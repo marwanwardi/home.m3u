@@ -10,7 +10,7 @@ http://portal.rapidiptv.com:8080/live/steph/steph/5707.ts
 #EXTINF:-1,MBC 1
 http://iptv.re:80/live/marwanwardy/kdkdk/300.m3u8
 #EXTINF:-1,Nat Geo
-http://iptv.re:80/live/marwanwardy/kdkdk/100.ts
+http://iptv.re:80/live/marwanwardy/kdkdk/100.m3u8
 
 #EXTINF:-1,Jeem 
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterPlaylist.m3u8
@@ -20,7 +20,7 @@ http://iptv.re:80/live/marwanwardy/kdkdk/1052.ts
 #EXTINF:-1,Baraem
 http://iptv.re:80/live/marwanwardy/kdkdk/1046.ts
 #EXTINF:-1,MBC 3
-http://iptv.re:80/live/marwanwardy/kdkdk/302.ts
+http://iptv.re:80/live/marwanwardy/kdkdk/302.m3u8
 #EXTINF:-1,GULLI HD
 http://iptv.re:80/live/marwanwardy/kdkdk/713.ts
 
