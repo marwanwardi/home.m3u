@@ -404,55 +404,56 @@ http://iptv.re:80/movie/marwanwardy1/HjUJm47/1976.mkv
 http://iptv.re:80/movie/marwanwardy1/HjUJm47/1829.mkv
 #EXTINF:-1,Cinderella
 http://iptv.re:80/movie/marwanwardy1/HjUJm47/1975.mkv
-#EXTINF:-1,Baraem
+
+#EXTINF:-1,------Test Area--------------
 http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/152.ts
 
 
-#EXTINF:-1,MBC 3
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/763.ch
+#EXTINF:-1,AR: OSN Yahala Shabab
+http://tvispan.sytes.net:8000/live/test100/test100/130.ts
 
-#EXTINF:-1,Art Aflam 1
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/757.ch
-#EXTINF:-1,Art Aflam 2
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/758.ch
-#EXTINF:-1,Art Hekayat
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/759.ch
-
-#EXTINF:-1,Art Hekayat2
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/761.ch
-#EXTINF:-1,Mbc
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/151.ch
-#EXTINF:-1,MBC 2
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/145.ch
-
-#EXTINF:-1,MBC 4
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/144.ch
-#EXTINF:-1,Mbc Drama
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/152.ch
-#EXTINF:-1,Mbc Masr
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/153.ch
-#EXTINF:-1,Mbc Masr +2
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/337.ch
-
-#EXTINF:-1,MBC MAX
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/244.ch
-
-#EXTINF:-1,Al Nahar
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/332.ch
-#EXTINF:-1,Al Nahar AlYoum
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/333.ch
-#EXTINF:-1,Al Nahar Drama
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/334.ch
-#EXTINF:-1,MBC2
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/338.ch
-
-#EXTINF:-1,DUBAI ONE
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/424.ch
-#EXTINF:-1,Pbs Kids
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/517.ch
-#EXTINF:-1,The Weather Channel
-http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/514.ch
-
+#EXTINF:-1,AR: OSN Yahala HD
+http://tvispan.sytes.net:8000/live/test100/test100/131.ts
+#EXTINF:-1,AR: OSN Yahala Drama HD
+http://tvispan.sytes.net:8000/live/test100/test100/132.ts
+#EXTINF:-1,AR: OSN Movies Premiere HD
+http://tvispan.sytes.net:8000/live/test100/test100/133.ts
+#EXTINF:-1,AR: OSN Movies HD
+http://tvispan.sytes.net:8000/live/test100/test100/134.ts
+#EXTINF:-1,AR: OSN MOVIE KIDS HD
+http://tvispan.sytes.net:8000/live/test100/test100/135.ts
+#EXTINF:-1,AR: OSN Movies Drama HD
+http://tvispan.sytes.net:8000/live/test100/test100/136.ts
+#EXTINF:-1,AR: OSN Discovery
+http://tvispan.sytes.net:8000/live/test100/test100/137.ts
+#EXTINF:-1,AR: OSN AnimalPlanet
+http://tvispan.sytes.net:8000/live/test100/test100/138.ts
+#EXTINF:-1,AR: OSN Movies Action HD
+http://tvispan.sytes.net:8000/live/test100/test100/139.ts
+#EXTINF:-1,AR: OSN Movies Action 2
+http://tvispan.sytes.net:8000/live/test100/test100/140.ts
+#EXTINF:-1,AR: OSN MBC Drama HD
+http://tvispan.sytes.net:8000/live/test100/test100/141.ts
+#EXTINF:-1,AR: OSN First HD
+http://tvispan.sytes.net:8000/live/test100/test100/142.ts
+#EXTINF:-1,AR: OSN First Comedy
+http://tvispan.sytes.net:8000/live/test100/test100/143.ts
+#EXTINF:-1,AR: OSN Cinema 2
+http://tvispan.sytes.net:8000/live/test100/test100/144.ts
+#EXTINF:-1,AR: OSN Cinema 1
+http://tvispan.sytes.net:8000/live/test100/test100/145.ts
+#EXTINF:-1,AR: OSN Al youm
+http://tvispan.sytes.net:8000/live/test100/test100/146.ts
+#EXTINF:-1,AR: ART Hekayat 2
+http://tvispan.sytes.net:8000/live/test100/test100/147.ts
+#EXTINF:-1,AR: ART Hekayat 1
+http://tvispan.sytes.net:8000/live/test100/test100/148.ts
+#EXTINF:-1,AR: ART CINEMA
+http://tvispan.sytes.net:8000/live/test100/test100/149.ts
+#EXTINF:-1,AR: ART Aflam 2
+http://tvispan.sytes.net:8000/live/test100/test100/150.ts
+#EXTINF:-1,AR: ART Aflam 1
+http://tvispan.sytes.net:8000/live/test100/test100/151.ts
 
 #EXTINF:-1,Ajyal
 rtmp://babflashlivefs.fplive.net/babflash5live-live//stream2
@@ -595,18 +596,7 @@ rtmp://208.75.224.165:1935/map-alquraan/mp4:map-alquraan.stream
 #EXTINF:-1,AL Sharqiya News
 rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 
-#EXTINF:0,RMC
-http://mc-doualiya.scdn.arkena.com/mc-doualiya.mp3
-
-#EXTINF:0,Sawa
-http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03
-
-#EXTINF:0,Nojom fm
-http://ice33.securenetsystems.net/NOGOUM?type=.flv
-
-
-#EXTINF:0,alaan fm
-http://audiostreaming.itworkscdn.com:9078/;*.nsv
-
-#EXTINF:-1,AD Drama
+#EXTINF:-1,30-12 2:08
 http://iptv-elhouari.com:8000/live/star/test/378.ts
+
+
