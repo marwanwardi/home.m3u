@@ -2,7 +2,12 @@
 
 
 #EXTINF:-1,MBC 1
+http://streamup.global.ssl.fastly.net/app/sami2015s-channel/playlist.m3u8
 
+#EXTINF:-1,MBC 1 
+http://portal.rapidiptv.com:8080/live/steph/steph/5707.ts
+
+#EXTINF:-1,MBC 1
 http://iptv.re:80/live/marwanwardy/kdkdk/300.m3u8
 #EXTINF:-1,Nat Geo
 http://iptv.re:80/live/marwanwardy/kdkdk/100.ts
@@ -500,11 +505,6 @@ http://iptv.re:80/movie/marwanwardy/kdkdk/1975.mkv
 #EXTINF:-1,Baraem
 http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/152.ts
 
-#EXTINF:-1,MBC 1
-http://streamup.global.ssl.fastly.net/app/sami2015s-channel/playlist.m3u8
-
-#EXTINF:-1,MBC 1 
-http://portal.rapidiptv.com:8080/live/steph/steph/5707.ts
 
 #EXTINF:-1,MBC 3
 http://sall-diptv.tk:8000/Daziptv/skype:bassem.magdy80/763.ch
