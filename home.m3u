@@ -2,67 +2,289 @@
 
 
 #EXTINF:-1,MBC 1
-http://streamup.global.ssl.fastly.net/app/sami2015s-channel/playlist.m3u8
+http://iptv.re:80/live/marwanwardy/kdkdk/300.ts
 
-#EXTINF:-1,MBC 1 
-http://portal.rapidiptv.com:8080/live/steph/steph/5707.ts
+#EXTINF:-1,Nat Geo
+http://iptv.re:80/live/marwanwardy/kdkdk/100.ts
 
 
+#EXTINF:-1,Al Jazeera Doc
+http://iptv.re:80/live/marwanwardy/kdkdk/105.ts
+
+#EXTINF:-1,Fatafeat TV
+http://iptv.re:80/live/marwanwardy/kdkdk/1034.ts
+
+#EXTINF:-1,BeinHD Movies 1
+http://iptv.re:80/live/marwanwardy/kdkdk/20.ts
+#EXTINF:-1,BeinHD Movies 2
+http://iptv.re:80/live/marwanwardy/kdkdk/21.ts
+#EXTINF:-1,OSN First HD
+http://iptv.re:80/live/marwanwardy/kdkdk/547.ts
+#EXTINF:-1,OSN First Comedy
+http://iptv.re:80/live/marwanwardy/kdkdk/548.ts
+#EXTINF:-1,Yahala HD
+http://iptv.re:80/live/marwanwardy/kdkdk/528.ts
+#EXTINF:-1,Yahala Drama HD
+http://iptv.re:80/live/marwanwardy/kdkdk/529.ts
+#EXTINF:-1,OSN Yahala Shabab
+http://iptv.re:80/live/marwanwardy/kdkdk/530.ts
+#EXTINF:-1,Al youm
+http://iptv.re:80/live/marwanwardy/kdkdk/550.ts
+#EXTINF:-1,OSN Cinema 1
+http://iptv.re:80/live/marwanwardy/kdkdk/516.ts
+#EXTINF:-1,OSN Cinema 2
+http://iptv.re:80/live/marwanwardy/kdkdk/517.ts
+#EXTINF:-1,ART CINEMA
+http://iptv.re:80/live/marwanwardy/kdkdk/652.ts
+#EXTINF:-1,ART Aflam 1
+http://iptv.re:80/live/marwanwardy/kdkdk/650.ts
+#EXTINF:-1,ART Aflam 2
+http://iptv.re:80/live/marwanwardy/kdkdk/651.ts
+#EXTINF:-1,OSN Movies HD
+http://iptv.re:80/live/marwanwardy/kdkdk/505.ts
+#EXTINF:-1,OSN Movies Premiere HD
+http://iptv.re:80/live/marwanwardy/kdkdk/509.ts
+#EXTINF:-1,OSN Movies Action HD
+http://iptv.re:80/live/marwanwardy/kdkdk/507.ts
+#EXTINF:-1,OSN Movies Box Office 1 HD
+http://iptv.re:80/live/marwanwardy/kdkdk/502.ts
+#EXTINF:-1,OSN Movies Box Office 2 HD
+http://iptv.re:80/live/marwanwardy/kdkdk/503.ts
+#EXTINF:-1,OSN Movies Box Office 3 HD
+http://iptv.re:80/live/marwanwardy/kdkdk/504.ts
+#EXTINF:-1,OSN Movies Action 2
+http://iptv.re:80/live/marwanwardy/kdkdk/521.ts
+#EXTINF:-1,OSN Movies COMEDY
+http://iptv.re:80/live/marwanwardy/kdkdk/512.ts
+#EXTINF:-1,MBC Drama HD
+http://iptv.re:80/live/marwanwardy/kdkdk/506.ts
+
+#EXTINF:-1,ART Hekayat 1
+http://iptv.re:80/live/marwanwardy/kdkdk/653.ts
+#EXTINF:-1,ART Hekayat 2
+http://iptv.re:80/live/marwanwardy/kdkdk/654.ts
+
+#EXTINF:-1,MBC 2
+http://iptv.re:80/live/marwanwardy/kdkdk/301.ts
+
+#EXTINF:-1,MBC 4
+http://iptv.re:80/live/marwanwardy/kdkdk/303.ts
+#EXTINF:-1,MBC Action
+http://iptv.re:80/live/marwanwardy/kdkdk/306.ts
+#EXTINF:-1,MBC MAX
+http://iptv.re:80/live/marwanwardy/kdkdk/304.ts
+#EXTINF:-1,MBC  Drama
+http://iptv.re:80/live/marwanwardy/kdkdk/308.ts
+#EXTINF:-1,MBC Bollywood
+http://iptv.re:80/live/marwanwardy/kdkdk/307.ts
+#EXTINF:-1,MBC Masr
+http://iptv.re:80/live/marwanwardy/kdkdk/1955.ts
+
+#EXTINF:-1,Panorama Film
+http://iptv.re:80/live/marwanwardy/kdkdk/328.ts
+#EXTINF:-1,Panorama Drama
+http://iptv.re:80/live/marwanwardy/kdkdk/316.ts
+#EXTINF:-1,Panorama Comedy
+http://iptv.re:80/live/marwanwardy/kdkdk/327.ts
+
+#EXTINF:-1,Rotana cinema
+http://iptv.re:80/live/marwanwardy/kdkdk/318.ts
+
+#EXTINF:-1,Rotana Khalijiah
+http://iptv.re:80/live/marwanwardy/kdkdk/1102.ts
+#EXTINF:-1,Rotana Classic
+http://iptv.re:80/live/marwanwardy/kdkdk/1101.ts
+
+#EXTINF:-1,Rotana Masriya
+http://iptv.re:80/live/marwanwardy/kdkdk/1103.ts
+#EXTINF:-1,Rotana Clip
+http://iptv.re:80/live/marwanwardy/kdkdk/1100.ts
+
+#EXTINF:-1,CBC Extra
+http://iptv.re:80/live/marwanwardy/kdkdk/325.ts
+#EXTINF:-1,CBC
+http://iptv.re:80/live/marwanwardy/kdkdk/324.ts
+#EXTINF:-1,MTV Lebanon
+http://iptv.re:80/live/marwanwardy/kdkdk/1894.ts
+
+
+#EXTINF:-1,El Haddaf
+http://iptv.re:80/live/marwanwardy/kdkdk/122.ts
+#EXTINF:-1,Samira TV
+http://iptv.re:80/live/marwanwardy/kdkdk/102.ts
+
+
+
+
+
+#EXTINF:-1,Arabia
+http://iptv.re:80/live/marwanwardy/kdkdk/1897.ts
+#EXTINF:-1,Al Jazeera
+http://iptv.re:80/live/marwanwardy/kdkdk/1071.ts
+#EXTINF:-1,BBC Arabic
+http://iptv.re:80/live/marwanwardy/kdkdk/1073.ts
+#EXTINF:-1,France 24
+http://iptv.re:80/live/marwanwardy/kdkdk/1072.ts
+#EXTINF:-1,Sky News Arabic
+http://iptv.re:80/live/marwanwardy/kdkdk/1075.ts
+
+
+#EXTINF:0,SD Alsharq
+http://hls1.livestreamingcdn.com/livecdn753/livestreaming/chunklist.m3u8
+
+
+
+
+
+#EXTINF:-1,El Hiwar TV
+http://iptv.re:80/live/marwanwardy/kdkdk/2003.ts
+#EXTINF:-1,RT ARABIC
+http://iptv.re:80/live/marwanwardy/kdkdk/1210.ts
+#EXTINF:-1,DW TV Arabia
+http://iptv.re:80/live/marwanwardy/kdkdk/2002.ts
+#EXTINF:-1,Arabia Al Hadath
+http://iptv.re:80/live/marwanwardy/kdkdk/1953.ts
+#EXTINF:-1,Al Sharqiya
+http://iptv.re:80/live/marwanwardy/kdkdk/2001.ts
+#EXTINF:-1,Al Rahma
+http://iptv.re:80/live/marwanwardy/kdkdk/1126.ts
+#EXTINF:-1,El Haddaf
+http://iptv.re:80/live/marwanwardy/kdkdk/122.ts
+#EXTINF:-1,Samira TV
+http://iptv.re:80/live/marwanwardy/kdkdk/102.ts
+
+
+#EXTINF:-1,Toyor Al Janah
+http://iptv.re:80/live/marwanwardy/kdkdk/1044.ts
+#EXTINF:-1,Syria TV
+http://iptv.re:80/live/marwanwardy/kdkdk/1027.ts
+#EXTINF:-1,Karameesh
+http://iptv.re:80/live/marwanwardy/kdkdk/1048.ts
+#EXTINF:-1,Al Resala
+http://iptv.re:80/live/marwanwardy/kdkdk/1063.ts
+#EXTINF:-1,Zee Aflam
+http://iptv.re:80/live/marwanwardy/kdkdk/1104.ts
+#EXTINF:-1,Space Toon
+http://iptv.re:80/live/marwanwardy/kdkdk/1053.ts
+#EXTINF:-1,Nile Drama
+http://iptv.re:80/live/marwanwardy/kdkdk/313.ts
+
+#EXTINF:-1,Ennahar TV
+http://iptv.re:80/live/marwanwardy/kdkdk/109.ts
+
+
+#EXTINF:-1,B4U Aflam
+http://iptv.re:80/live/marwanwardy/kdkdk/1105.ts
+
+#EXTINF:-1,abu dhabi Drama
+http://iptv.re:80/live/marwanwardy/kdkdk/320.ts
+#EXTINF:-1,MTA Al Arabya
+http://iptv.re:80/live/marwanwardy/kdkdk/1803.ts
+
+
+#EXTINF:-1,Sama Dubai
+http://iptv.re:80/live/marwanwardy/kdkdk/1895.ts
+#EXTINF:-1,Roya
+http://iptv.re:80/live/marwanwardy/kdkdk/1158.ts
+
+#EXTINF:-1,Kurdistan TV
+http://iptv.re:80/live/marwanwardy/kdkdk/1797.ts
+#EXTINF:-1,Future TV
+http://iptv.re:80/live/marwanwardy/kdkdk/1902.ts
+#EXTINF:-1,AttesiaTV
+http://iptv.re:80/live/marwanwardy/kdkdk/1816.ts
+
+
+#EXTINF:-1,Abu Dhabi
+http://iptv.re:80/live/marwanwardy/kdkdk/1038.ts
+#EXTINF:-1,Quran TV
+http://iptv.re:80/live/marwanwardy/kdkdk/99.ts
+
+
+
+
+#EXTINF:-1,Animal Planet UK
+http://iptv.re:80/live/marwanwardy/kdkdk/1800.ts
+#EXTINF:-1,Sky Movies Family UK
+http://iptv.re:80/live/marwanwardy/kdkdk/1799.ts
+#EXTINF:-1,Sky Movies Premiere UK
+http://iptv.re:80/live/marwanwardy/kdkdk/1798.ts
+
+#EXTINF:-1,Sky Select 1
+http://iptv.re:80/live/marwanwardy/kdkdk/1831.ts
+#EXTINF:-1,Sky Select 2
+http://iptv.re:80/live/marwanwardy/kdkdk/1832.ts
+#EXTINF:-1,Sky Select 3
+http://iptv.re:80/live/marwanwardy/kdkdk/1833.ts
+#EXTINF:-1,Sky Select 4
+http://iptv.re:80/live/marwanwardy/kdkdk/1834.ts
+
+#EXTINF:-1,TF1 HD
+http://iptv.re:80/live/marwanwardy/kdkdk/703.ts
+#EXTINF:-1,FRANCE 2 HD
+http://iptv.re:80/live/marwanwardy/kdkdk/718.ts
+#EXTINF:-1,FRANCE 3 HD
+http://iptv.re:80/live/marwanwardy/kdkdk/717.ts
+#EXTINF:-1,FRANCE 4 HD
+http://iptv.re:80/live/marwanwardy/kdkdk/716.ts
+#EXTINF:-1,FRANCE 5 HD
+http://iptv.re:80/live/marwanwardy/kdkdk/715.ts
+#EXTINF:-1,M6 HD
+http://iptv.re:80/live/marwanwardy/kdkdk/711.ts
+#EXTINF:-1,W9 HD
+http://iptv.re:80/live/marwanwardy/kdkdk/700.ts
+#EXTINF:-1,ACTION HD
+http://iptv.re:80/live/marwanwardy/kdkdk/747.ts
+
+#EXTINF:-1,CINE PREMIER HD
+http://iptv.re:80/live/marwanwardy/kdkdk/731.ts
+#EXTINF:-1,CINE FRISSON HD
+http://iptv.re:80/live/marwanwardy/kdkdk/732.ts
+#EXTINF:-1,CINE CLASSIC HD
+http://iptv.re:80/live/marwanwardy/kdkdk/730.ts
+#EXTINF:-1,Canal+ HD
+http://iptv.re:80/live/marwanwardy/kdkdk/743.ts
+#EXTINF:-1,Canal+ Series HD
+http://iptv.re:80/live/marwanwardy/kdkdk/740.ts
+#EXTINF:-1,Canal+ Family HD
+http://iptv.re:80/live/marwanwardy/kdkdk/741.ts
+#EXTINF:-1,Canal+ Cinema HD
+http://iptv.re:80/live/marwanwardy/kdkdk/742.ts
+#EXTINF:-1,Canal  Sport HD
+http://iptv.re:80/live/marwanwardy/kdkdk/739.ts
+#EXTINF:-1,13 EME RUE HD
+http://iptv.re:80/live/marwanwardy/kdkdk/748.ts
+#EXTINF:-1,SYFY HD
+http://iptv.re:80/live/marwanwardy/kdkdk/779.ts
+#EXTINF:-1,NatGeoWild
+http://iptv.re:80/live/marwanwardy/kdkdk/822.ts
+#EXTINF:-1,Chasse et Peche
+http://iptv.re:80/live/marwanwardy/kdkdk/736.ts
+#EXTINF:-1,ARTE HD
+http://iptv.re:80/live/marwanwardy/kdkdk/745.ts
+#EXTINF:-1,animaux HD
+http://iptv.re:80/live/marwanwardy/kdkdk/746.ts
+#EXTINF:-1,Ushuaia HD
+http://iptv.re:80/live/marwanwardy/kdkdk/749.ts
+
+
+#EXTINF:-1,Jeem 
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterPlaylist.m3u8
+
+#EXTINF:-1,CN
+http://iptv.re:80/live/marwanwardy/kdkdk/1052.ts
+#EXTINF:-1,Baraem
+http://iptv.re:80/live/marwanwardy/kdkdk/1046.ts
+#EXTINF:-1,MBC 3
+http://iptv.re:80/live/marwanwardy/kdkdk/302.ts
+#EXTINF:-1,GULLI HD
+http://iptv.re:80/live/marwanwardy/kdkdk/713.ts
+
+#EXTINF:-1,BOOMERANG HD
+http://iptv.re:80/live/marwanwardy/kdkdk/788.ts
 #EXTINF:-1,------Test Area--------------
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/152.ts
 
 
-#EXTINF:-1,AR: OSN Yahala Shabab
-http://tvispan.sytes.net:8000/live/test100/test100/130.ts
-
-#EXTINF:-1,AR: OSN Yahala HD
-http://tvispan.sytes.net:8000/live/test100/test100/131.ts
-#EXTINF:-1,AR: OSN Yahala Drama HD
-http://tvispan.sytes.net:8000/live/test100/test100/132.ts
-#EXTINF:-1,AR: OSN Movies Premiere HD
-http://tvispan.sytes.net:8000/live/test100/test100/133.ts
-#EXTINF:-1,AR: OSN Movies HD
-http://tvispan.sytes.net:8000/live/test100/test100/134.ts
-#EXTINF:-1,AR: OSN MOVIE KIDS HD
-http://tvispan.sytes.net:8000/live/test100/test100/135.ts
-#EXTINF:-1,AR: OSN Movies Drama HD
-http://tvispan.sytes.net:8000/live/test100/test100/136.ts
-#EXTINF:-1,AR: OSN Discovery
-http://tvispan.sytes.net:8000/live/test100/test100/137.ts
-#EXTINF:-1,AR: OSN AnimalPlanet
-http://tvispan.sytes.net:8000/live/test100/test100/138.ts
-#EXTINF:-1,AR: OSN Movies Action HD
-http://tvispan.sytes.net:8000/live/test100/test100/139.ts
-#EXTINF:-1,AR: OSN Movies Action 2
-http://tvispan.sytes.net:8000/live/test100/test100/140.ts
-#EXTINF:-1,AR: OSN MBC Drama HD
-http://tvispan.sytes.net:8000/live/test100/test100/141.ts
-#EXTINF:-1,AR: OSN First HD
-http://tvispan.sytes.net:8000/live/test100/test100/142.ts
-#EXTINF:-1,AR: OSN First Comedy
-http://tvispan.sytes.net:8000/live/test100/test100/143.ts
-#EXTINF:-1,AR: OSN Cinema 2
-http://tvispan.sytes.net:8000/live/test100/test100/144.ts
-#EXTINF:-1,AR: OSN Cinema 1
-http://tvispan.sytes.net:8000/live/test100/test100/145.ts
-#EXTINF:-1,AR: OSN Al youm
-http://tvispan.sytes.net:8000/live/test100/test100/146.ts
-#EXTINF:-1,AR: ART Hekayat 2
-http://tvispan.sytes.net:8000/live/test100/test100/147.ts
-#EXTINF:-1,AR: ART Hekayat 1
-http://tvispan.sytes.net:8000/live/test100/test100/148.ts
-#EXTINF:-1,AR: ART CINEMA
-http://tvispan.sytes.net:8000/live/test100/test100/149.ts
-#EXTINF:-1,AR: ART Aflam 2
-http://tvispan.sytes.net:8000/live/test100/test100/150.ts
-#EXTINF:-1,AR: ART Aflam 1
-http://tvispan.sytes.net:8000/live/test100/test100/151.ts
-
-#EXTINF:-1,Ajyal
-rtmp://babflashlivefs.fplive.net/babflash5live-live//stream2
-
-#EXTINF:-1,Ajyal 2
-http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
 
 #EXTINF:-1,Jeem 
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterPlaylist.m3u8
@@ -160,44 +382,6 @@ http://proxy-66.dailymotion.com/sec(2cc41cd6e3706b5d9edce415c9444809)/video/279/
 
 
 
-#EXTINF:-1,baraem
-rtmp://AgendaStreamer2.qna.org.qa/brm///brm
-
-
-#EXTINF:0,Al Mass
-rtmp://edge.streamspot.com/live2/almastea1d
-
-
-#EXTINF:-1,Al Sharqiya
-rtmp://ns8.indexforce.com/home/mystream
-
-#EXTINF:-1,Al Sharqiya_news
-rtmp://ns8.indexforce.com/alsharqiyalive/mystream
-
-
-#EXTINF:-1,Dijla
-rtmp://stream.joinvisions.net/dij//dij
-
-
-
-#EXTINF:0,Hona Baghdad
-rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
-
-
-
-#EXTINF:0,Funoon
-http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonhigh.m3u8
-
-
-
-#EXTINF:-1,QURAAN
-rtmp://208.75.224.165:1935/map-alquraan/mp4:map-alquraan.stream 
-
-
-
-
-#EXTINF:-1,AL Sharqiya News
-rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 
 #EXTINF:-1,30-12 2:08
 http://iptv-elhouari.com:8000/live/star/test/378.ts
