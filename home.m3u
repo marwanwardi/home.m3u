@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
-#EXTINF:-1,Almaas Tv
-rtmp://edge3.streamspot.com/live2/almastea1d
+#EXTINF:0,Almaas Tv
+rtmp://edge.streamspot.com/live2/almastea1d
 
 #EXTINF:-1,Jeem 
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterPlaylist.m3u8
