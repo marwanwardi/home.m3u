@@ -6,6 +6,15 @@ rtmp://edge.streamspot.com/live2/almastea1d
 #EXTINF:-1,Jeem 
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterPlaylist.m3u8
 
+#EXTINF:-1,Hona Baghdad
+rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
+
+#EXTINF:-1,Ajyal P
+rtmp://46.43.64.190/ajyal//livestream2
+
+
+#EXTINF:-1,Ajyal pal
+http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 
 #EXTINF:-1,------Test Area--------------
 
