@@ -2,6 +2,8 @@
 
 #EXTINF:0,MBC
 http://streamer1.cdniptv.com:9080/hls/mbcone-367911.ts
+#EXTINF:0,MBC1
+http://streamer1.cdniptv.com:9080/hls/mbcone.m3u8?md5=AADq26LM4xwQwozP-XviIw&expires=1458774006&dd=8999160&ip=73.242.7.4
 
 #EXTINF:0,Almaas Tv
 rtmp://edge.streamspot.com/live2/almastea1d
