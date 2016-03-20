@@ -33,10 +33,10 @@ http://streamer1.cdniptv.com:9080/hls/cairo-drama.m3u8?md5=R-eOKaeX-HcRzUJLt9SgY
 #EXTINF:0,Cenima Pro
 http://streamer1.cdniptv.com:9080/hls/mal-alhyat-cinema.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
 
-#EXTINF:0,Disney Kids
+#EXTINF:0,Disney
 http://streamer1.cdniptv.com:9080/hls/gr-disney-channel.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
 
-#EXTINF:0,Cartoon Net
+#EXTINF:0,Cartoon Net arabic
 http://streamer1.cdniptv.com:9080/hls/cn-arabia.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
 
 #EXTINF:0,MBC 3
