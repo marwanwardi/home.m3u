@@ -1,5 +1,8 @@
 ﻿#EXTM3U
 
+#EXTINF:0,MBC
+http://streamer1.cdniptv.com:9080/hls/mbcone-367911.ts
+
 #EXTINF:0,Almaas Tv
 rtmp://edge.streamspot.com/live2/almastea1d
 
