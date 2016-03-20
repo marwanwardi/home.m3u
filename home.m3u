@@ -1,9 +1,47 @@
 ﻿#EXTM3U
 
-#EXTINF:0,MBC
-http://streamer1.cdniptv.com:9080/hls/mbcone-367911.ts
+#EXTINF:0,rotana Aflam
+http://streamer1.cdniptv.com:9080/hls/rotana-cinema-egy.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+
 #EXTINF:0,MBC1
 http://streamer1.cdniptv.com:9080/hls/mbcone.m3u8?md5=AADq26LM4xwQwozP-XviIw&expires=1458774006&dd=8999160&ip=73.242.7.4
+
+#EXTINF:0,Art Aflam 1
+http://streamer1.cdniptv.com:9080/hls/mal-art-aflam1.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+
+#EXTINF:0,Art Cenima
+http://streamer1.cdniptv.com:9080/hls/mal-art-cinema.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+
+#EXTINF:0,Alhayat
+http://streamer1.cdniptv.com:9080/hls/mal-alhyat.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+
+#EXTINF:0,MTV LEBANON
+http://streamer1.cdniptv.com:9080/hls/mtv-lebanon.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+
+#EXTINF:0,NAT GEO 
+http://streamer1.cdniptv.com:9080/hls/mal-ng-ad.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+
+#EXTINF:0,panorama drama
+http://streamer1.cdniptv.com:9080/hls/mal-panorama-drama.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+
+#EXTINF:0,panorama drama 2
+http://streamer1.cdniptv.com:9080/hls/mal-panorama-drama2.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+
+#EXTINF:0,Cairo Drama
+http://streamer1.cdniptv.com:9080/hls/cairo-drama.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+
+#EXTINF:0,Cenima Pro
+http://streamer1.cdniptv.com:9080/hls/mal-alhyat-cinema.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+
+#EXTINF:0,Disney Kids
+http://streamer1.cdniptv.com:9080/hls/gr-disney-channel.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+
+#EXTINF:0,Cartoon Net
+http://streamer1.cdniptv.com:9080/hls/cn-arabia.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+
+#EXTINF:0,MBC 3
+http://streamer1.cdniptv.com:9080/hls/mbc3.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+
 
 #EXTINF:0,Almaas Tv
 rtmp://edge.streamspot.com/live2/almastea1d
@@ -20,6 +58,10 @@ rtmp://46.43.64.190/ajyal//livestream2
 
 #EXTINF:-1,Ajyal pal
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1,------Test Area--------------
 
@@ -75,50 +117,6 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 #EXTINF:-1,DW tv
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 
-
-
-#EXTINF:-1,وحوش هتلر
-http://proxy-86.dailymotion.com/sec(4f1f485d746280b4eb1b086ff88fa507)/video/830/015/210510038_mp4_h264_aac_hd_1.m3u8
-
-#EXTINF:-1,الاسلحة الحربية
-http://proxy-04.dailymotion.com/sec(61301c8fc681d78f9319d9839fe5de03)/video/742/262/206262247_mp4_h264_aac_hq_1.m3u8
-
-#EXTINF:-1,الغواصة السرية
-http://proxy-23.dailymotion.com/sec(9d3e759723ddf100ff9d5805a5a3c3d1)/video/063/352/210253360_mp4_h264_aac_hq_1.m3u8
-
-#EXTINF:-1,رحلة لي تشان استراليا
-http://proxy-018.dc3.dailymotion.com/sec(6307480ca7690f5c48072f533e213077)/video/992/578/191875299_mp4_h264_aac_hq_1.m3u8
-
-
-#EXTINF:-1,قصة الغذاء الشعور بالذنب
-http://proxy-57.dailymotion.com/sec(76f93f1026dc73175c875f2e39605cf7)/video/814/508/177805418_mp4_h264_aac_hq_1.m3u8
-
-
-#EXTINF:-1,القبض على المهربين : مطار جون إف كينيدي  ساعي المخدرات
-http://proxy-75.dailymotion.com/sec(ef0708bbe6425d59630797d6ee814428)/video/531/180/211081135_mp4_h264_aac_hq_1.m3u8
-
-
-#EXTINF:-1,ستيفن هوكينغ وعلم المستقبل اتصالات الهايبر
-http://proxy-33.dailymotion.com/sec(c7daf40b00c1ee3cc4740718cd03228e)/video/628/778/208877826_mp4_h264_aac_hq_1.m3u8
-
-#EXTINF:-1,ادمان هتلر
-http://proxy-017.dc3.dailymotion.com/sec(c5b824ab4803f5c15397751cedc891c3)/video/745/860/208068547_mp4_h264_aac_hq_1.m3u8
-
-#EXTINF:-1,علم البسطاء 7
-http://proxy-004.dc3.dailymotion.com/sec(b0813ea406c00d9f020ce14591034aa8)/video/869/201/206102968_mp4_h264_aac_hq_1.m3u8
-
-
-#EXTINF:-1,اللحم والخضروات
-http://proxy-53.dailymotion.com/sec(1dc10a3f61742965fe738dc1ff5bdeb6)/video/601/741/204147106_mp4_h264_aac_hq_1.m3u8
-
-#EXTINF:-1,علم البسطاء9
-http://proxy-13.dailymotion.com/sec(ae1549fb3516bb47709d9da32f241e81)/video/417/865/204568714_mp4_h264_aac_hq_1.m3u8
-
-#EXTINF:-1,ألعاب العقل 
-http://proxy-05.dailymotion.com/sec(ae4160997ba42fa0361842d004993cfb)/video/912/482/198284219_mp4_h264_aac_hq_1.m3u8
-
-#EXTINF:-1,لي تشان مصر
-http://proxy-66.dailymotion.com/sec(2cc41cd6e3706b5d9edce415c9444809)/video/279/355/181553972_mp4_h264_aac_hq_1.m3u8
 
 
 
