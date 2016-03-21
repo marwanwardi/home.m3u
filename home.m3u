@@ -76,11 +76,20 @@ plugin://plugin.video.youtube/?action=play_video&videoid=K8XaIiikpAo
 #EXTINF:-1,cbc Drama
 plugin://plugin.video.youtube/?action=play_video&videoid=uMvhnVugCjo
 
+#EXTINF:-1,Alhyat 1
+plugin://plugin.video.youtube/?action=play_video&videoid=yvUsAsrj6lk
+
 #EXTINF:-1,Alhyat 2
 plugin://plugin.video.youtube/?action=play_video&videoid=0lmM6zgL2AU
 
 #EXTINF:-1,Roya
 plugin://plugin.video.youtube/?action=play_video&videoid=LOZ_qmJ8JHs
+
+
+#EXTINF:-1,Sky News
+plugin://plugin.video.youtube/?action=play_video&videoid=y60wDzZt8yg
+
+
 
 
 #EXTINF:-1,------Test Area--------------
