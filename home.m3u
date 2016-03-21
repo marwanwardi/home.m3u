@@ -89,7 +89,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=LOZ_qmJ8JHs
 #EXTINF:-1,Sky News
 plugin://plugin.video.youtube/?action=play_video&videoid=y60wDzZt8yg
 
-
+#EXTINF:-1,Sky News1
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=y60wDzZt8yg
 
 
 #EXTINF:-1,------Test Area--------------
