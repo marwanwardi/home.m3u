@@ -3,14 +3,33 @@
 #EXTINF:0,rotana Aflam
 http://streamer1.cdniptv.com:9080/hls/rotana-cinema-egy.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
 
-#EXTINF:0,MBC1
+#EXTINF:0,MBC
 http://streamer1.cdniptv.com:9080/hls/mbcone.m3u8?md5=AADq26LM4xwQwozP-XviIw&expires=1458774006&dd=8999160&ip=73.242.7.4
 
 #EXTINF:0,Art Aflam 1
 http://streamer1.cdniptv.com:9080/hls/mal-art-aflam1.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
 
+#EXTINF:0,Art Aflam 2
+http://streamer1.cdniptv.com:9080/hls/mal-art-aflam2.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
+
 #EXTINF:0,Art Cenima
 http://streamer1.cdniptv.com:9080/hls/mal-art-cinema.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+
+#EXTINF:0,Art Hykayat
+http://streamer1.cdniptv.com:9080/hls/mal-hekayat.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
+
+
+#EXTINF:0,Art Hykayat 2
+http://streamer1.cdniptv.com:9080/hls/mal-hekayat2.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
+
+#EXTINF:0,Panorama Film
+http://streamer1.cdniptv.com:9080/hls/mal-panorama-film.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
+
+#EXTINF:0,Cairo cenima
+http://streamer1.cdniptv.com:9080/hls/cairo-cinema.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
+
+#EXTINF:0,MBC Masr
+http://streamer1.cdniptv.com:9080/hls/mal-mbc-maser.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
 
 #EXTINF:0,Alhayat
 http://streamer1.cdniptv.com:9080/hls/mal-alhyat.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
@@ -30,11 +49,17 @@ http://streamer1.cdniptv.com:9080/hls/mal-panorama-drama2.m3u8?md5=R-eOKaeX-HcRz
 #EXTINF:0,Cairo Drama
 http://streamer1.cdniptv.com:9080/hls/cairo-drama.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
 
+#EXTINF:0,Alhayat series
+http://streamer1.cdniptv.com:9080/hls/al-hayat-muslsalt.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
+
+#EXTINF:0,Alnahar drama
+http://streamer1.cdniptv.com:9080/hls/al-nahar-drama.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
+
 #EXTINF:0,Cenima Pro
 http://streamer1.cdniptv.com:9080/hls/mal-alhyat-cinema.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
 
-#EXTINF:0,Disney
-http://streamer1.cdniptv.com:9080/hls/gr-disney-channel.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+#EXTINF:0,Jeem europe
+http://streamer1.cdniptv.com:9080/hls/jeem-eurob.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
 
 #EXTINF:0,Cartoon Net arabic
 http://streamer1.cdniptv.com:9080/hls/cn-arabia.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
@@ -42,6 +67,11 @@ http://streamer1.cdniptv.com:9080/hls/cn-arabia.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&
 #EXTINF:0,MBC 3
 http://streamer1.cdniptv.com:9080/hls/mbc3.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
 
+#EXTINF:0,MBC 2
+http://streamer1.cdniptv.com:9080/hls/mbc2.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
+
+#EXTINF:0,MBC 4
+http://streamer1.cdniptv.com:9080/hls/mbc4.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
 
 #EXTINF:0,Almaas Tv
 rtmp://edge.streamspot.com/live2/almastea1d
@@ -59,38 +89,14 @@ rtmp://46.43.64.190/ajyal//livestream2
 #EXTINF:-1,Ajyal pal
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 
+#EXTINF:-1,Fatafeat
+http://streamer1.cdniptv.com:9080/hls/fatafeat.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
 
 #EXTINF:-1,Alarabia
-plugin://plugin.video.youtube/?action=play_video&videoid=rlvfffhWo2A
-
-#EXTINF:-1,Aljazeera
-plugin://plugin.video.youtube/?action=play_video&videoid=Xn-xSNiqtk4
+http://streamer1.cdniptv.com:9080/hls/al-arabiya.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
 
 
-#EXTINF:-1,cbc
-plugin://plugin.video.youtube/?action=play_video&videoid=1yEMLzYzE1g
 
-#EXTINF:-1,cbc sofra
-plugin://plugin.video.youtube/?action=play_video&videoid=K8XaIiikpAo
-
-#EXTINF:-1,cbc Drama
-plugin://plugin.video.youtube/?action=play_video&videoid=uMvhnVugCjo
-
-#EXTINF:-1,Alhyat 1
-plugin://plugin.video.youtube/?action=play_video&videoid=yvUsAsrj6lk
-
-#EXTINF:-1,Alhyat 2
-plugin://plugin.video.youtube/?action=play_video&videoid=0lmM6zgL2AU
-
-#EXTINF:-1,Roya
-plugin://plugin.video.youtube/?action=play_video&videoid=LOZ_qmJ8JHs
-
-
-#EXTINF:-1,Sky News
-plugin://plugin.video.youtube/?action=play_video&videoid=y60wDzZt8yg
-
-#EXTINF:-1,Sky News1
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=y60wDzZt8yg
 
 
 #EXTINF:-1,------Test Area--------------
