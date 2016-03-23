@@ -1,10 +1,10 @@
 ﻿#EXTM3U
 
 #EXTINF:0,rotana Aflam
-http://streamer1.cdniptv.com:9080/hls/rotana-cinema-egy.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+
 
 #EXTINF:0,MBC
-http://streamer1.cdniptv.com:9080/hls/mbcone.m3u8?md5=AADq26LM4xwQwozP-XviIw&expires=1458774006&dd=8999160&ip=73.242.7.4
+http://streamer1.cdniptv.com:9080/hls/mbcone.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
 #EXTINF:0,Art Aflam 1
 http://streamer1.cdniptv.com:9080/hls/mal-art-aflam1.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
