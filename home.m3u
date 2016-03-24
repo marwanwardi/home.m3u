@@ -67,6 +67,9 @@ http://streamer1.cdniptv.com:9080/hls/cn-arabia.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&
 #EXTINF:0,MBC 3
 http://streamer1.cdniptv.com:9080/hls/mbc3.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
+#EXTINF:-1,Jeem 
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterPlaylist.m3u8
+
 #EXTINF:0,MBC 2
 http://streamer1.cdniptv.com:9080/hls/mbc2.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
@@ -81,9 +84,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterP
 
 #EXTINF:-1,Hona Baghdad
 rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
-
-#EXTINF:-1,Ajyal P
-rtmp://46.43.64.190/ajyal//livestream2
 
 
 #EXTINF:-1,Ajyal pal
@@ -102,6 +102,43 @@ http://streamer1.cdniptv.com:9080/hls/al-arabiya.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA
 #EXTINF:-1,------Test Area--------------
 
 
+#EXTINF:-1, Al sharqya
+rtmp://ns8.indexforce.com/home/mystream
+
+#EXTINF:-1,sharqya
+http://38.99.146.40:7777/AlSharqiya/AlSharqiya_Low.m3u8?user=18957F80-F0AC-11E5-91A4-A01D486BEC58&session=ae0aa446e1da299a3101b08b7d6c8d5b96288eb93d67e63be0701961c043815cde2a9a15d4e21705&hlsid=HTTP_ID_2429764&group_id=-1&starttime=20160309T075727.581335
+
+#EXTINF:-1,Ajyal P
+rtmp://46.43.64.190/ajyal//livestream2
+
+
+#EXTINF:-1,Aliraqia
+http://sjc-ucdn03.ustream.tv/ams-uhs02/streams/httpflv/ustreamVideo/22169553/streams/live_1_1458654802_1369767700.flv?start=277021
+
+#EXTINF:-1,Alsumaria
+https://svs.itworkscdn.net/alsumariatvlive/smil:sumariamob.smil/chunklist_w1755103391_b764000_t64VVE=_tkbGFscGFzc3dlbmR0aW1lPTE0NTg3MTE0NTgmbGFscGFzc3d3b3d6YXN0YXJ0dGltZT0wJmxhbHBhc3N3d293emFzdGN1c3RvbT0xNDU4NzA0MjYyJmxhbHBhc3N3aGFzaD1hNHJBQjFacUZYX0s5Qk8zR21ydXlaREpKTzg3SWc5bzltc0N2aVQ3RTlzPQ==.m3u8
+
+#EXTINF:-1,Alrasheed
+http://streamer11.elementssys.com:8080/alrashid/alrashid_1mbps/index.m3u8?v=1240598276
+
+#EXTINF:-1,Dijla
+rtmp://stream.joinvisions.net/dij//dij
+
+#EXTINF:-1,RT 
+http://rt-lh.akamaihd.net/i/ch_03@325607/index_320p_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Al bablya
+http://38.99.146.42:7777/AlBabeleyia/AlBabeleyia_Low.m3u8?user=7D709700-F0AC-11E5-9A80-A01D486BEC58&session=70deedf0ab3c87339905b139295185a6615f2054a8d80ba72c3dec91da68aeca9bbafdbd35615a44&hlsid=HTTP_ID_15709935&group_id=-1&starttime=20160113T210137.158236
+
+#EXTINF:-1,Al Mada
+http://teledunet.tv:8888/al_mada.m3u8?idu=keydkmxv7exrn
+
+
+#EXTINF:-1,Baghdadya
+rtmp://B2.Streaming.linkdatacenter.net/Baghdadya1//Baghdadya1Stream
+
+#EXTINF:-1,Al Baghdadya
+http://38.99.146.42:7777/AlBaghdadia/AlBaghdadia_Low.m3u8?user=7B36AFC0-F0B0-11E5-9C77-A01D486BEC58&session=3bccc50e3d7054fcbf30ec8f409804e2ed1c2e7c6cac3d172c3dec91da68aeca9bbafdbd35615a44&hlsid=HTTP_ID_15713148&group_id=-1&starttime=20160113T210137.182243
 
 #EXTINF:-1,Jeem 
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterPlaylist.m3u8
