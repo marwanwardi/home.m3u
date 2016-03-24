@@ -1,19 +1,19 @@
 ﻿#EXTM3U
 
 #EXTINF:0,rotana Aflam
-
+http://streamer1.cdniptv.com:9080/hls/rotana-cinema-ksa.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
 #EXTINF:0,MBC
 http://streamer1.cdniptv.com:9080/hls/mbcone.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
 #EXTINF:0,Art Aflam 1
-http://streamer1.cdniptv.com:9080/hls/mal-art-aflam1.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+http://streamer1.cdniptv.com:9080/hls/mal-art-aflam1.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
 #EXTINF:0,Art Aflam 2
 http://streamer1.cdniptv.com:9080/hls/mal-art-aflam2.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
 
 #EXTINF:0,Art Cenima
-http://streamer1.cdniptv.com:9080/hls/mal-art-cinema.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+
 
 #EXTINF:0,Art Hykayat
 http://streamer1.cdniptv.com:9080/hls/mal-hekayat.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
@@ -23,52 +23,52 @@ http://streamer1.cdniptv.com:9080/hls/mal-hekayat.m3u8?md5=WtIx4toiVSssHAfJhEhHH
 http://streamer1.cdniptv.com:9080/hls/mal-hekayat2.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
 
 #EXTINF:0,Panorama Film
-http://streamer1.cdniptv.com:9080/hls/mal-panorama-film.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
+http://streamer1.cdniptv.com:9080/hls/mal-panorama-film.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
 #EXTINF:0,Cairo cenima
 http://streamer1.cdniptv.com:9080/hls/cairo-cinema.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
 
 #EXTINF:0,MBC Masr
-http://streamer1.cdniptv.com:9080/hls/mal-mbc-maser.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
+http://streamer1.cdniptv.com:9080/hls/mal-mbc-maser.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
 #EXTINF:0,Alhayat
 http://streamer1.cdniptv.com:9080/hls/mal-alhyat.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
 
 #EXTINF:0,MTV LEBANON
-http://streamer1.cdniptv.com:9080/hls/mtv-lebanon.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+
 
 #EXTINF:0,NAT GEO 
-http://streamer1.cdniptv.com:9080/hls/mal-ng-ad.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+http://streamer1.cdniptv.com:9080/hls/mal-ng-ad.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
-#EXTINF:0,panorama drama
-http://streamer1.cdniptv.com:9080/hls/mal-panorama-drama.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+#EXTINF:0,Panorama Drama
+http://streamer1.cdniptv.com:9080/hls/mal-panorama-drama.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
-#EXTINF:0,panorama drama 2
-http://streamer1.cdniptv.com:9080/hls/mal-panorama-drama2.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+#EXTINF:0,Panorama Drama 2
+http://streamer1.cdniptv.com:9080/hls/mal-panorama-drama2.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
 #EXTINF:0,Cairo Drama
 http://streamer1.cdniptv.com:9080/hls/cairo-drama.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
 
 #EXTINF:0,Alhayat series
-http://streamer1.cdniptv.com:9080/hls/al-hayat-muslsalt.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
+http://streamer1.cdniptv.com:9080/hls/al-hayat-muslsalt.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
 #EXTINF:0,Alnahar drama
-http://streamer1.cdniptv.com:9080/hls/al-nahar-drama.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
+http://streamer1.cdniptv.com:9080/hls/al-nahar-drama.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
 #EXTINF:0,Cenima Pro
 http://streamer1.cdniptv.com:9080/hls/mal-alhyat-cinema.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
 
 #EXTINF:0,Jeem europe
-http://streamer1.cdniptv.com:9080/hls/jeem-eurob.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
+http://streamer1.cdniptv.com:9080/hls/jeem-eurob.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
 #EXTINF:0,Cartoon Net arabic
-http://streamer1.cdniptv.com:9080/hls/cn-arabia.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+http://streamer1.cdniptv.com:9080/hls/cn-arabia.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
 #EXTINF:0,MBC 3
-http://streamer1.cdniptv.com:9080/hls/mbc3.m3u8?md5=R-eOKaeX-HcRzUJLt9SgYA&expires=1458774651&dd=8999160&ip=73.242.7.4
+http://streamer1.cdniptv.com:9080/hls/mbc3.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
 #EXTINF:0,MBC 2
-http://streamer1.cdniptv.com:9080/hls/mbc2.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
+http://streamer1.cdniptv.com:9080/hls/mbc2.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
 #EXTINF:0,MBC 4
 http://streamer1.cdniptv.com:9080/hls/mbc4.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
@@ -90,10 +90,10 @@ rtmp://46.43.64.190/ajyal//livestream2
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 
 #EXTINF:-1,Fatafeat
-http://streamer1.cdniptv.com:9080/hls/fatafeat.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
+http://streamer1.cdniptv.com:9080/hls/fatafeat.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
 #EXTINF:-1,Alarabia
-http://streamer1.cdniptv.com:9080/hls/al-arabiya.m3u8?md5=WtIx4toiVSssHAfJhEhHHg&expires=1458875590&dd=2501264&ip=73.242.7.4
+http://streamer1.cdniptv.com:9080/hls/al-arabiya.m3u8?md5=JF35_VNPAs4gT9Zm4i8jqA&expires=1459036179&dd=9271225&ip=73.242.7.4
 
 
 
