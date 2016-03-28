@@ -23,7 +23,7 @@ http://streamer1.cdniptv.com:9080/hls/mal-hekayat2.m3u8?md5=82jkCw7K29W2S1Z6C1no
 
 
 #EXTINF:0,Panorama Film
-http://streamer1.cdniptv.com:9080/hls/al-felistina.m3u8?md5=82jkCw7K29W2S1Z6C1nozA&expires=1459297317&dd=7840367&ip=73.242.7.4
+http://streamer1.cdniptv.com:9080/hls/mal-panorama-film.m3u8?md5=LBqixQmpMjzPJwOL9yjq9A&expires=1459389117&dd=7840367&ip=73.242.7.4
 
 #EXTINF:0,Cairo cenima
 http://streamer1.cdniptv.com:9080/hls/cairo-cinema.m3u8?md5=82jkCw7K29W2S1Z6C1nozA&expires=1459297317&dd=7840367&ip=73.242.7.4
@@ -91,13 +91,6 @@ http://streamer1.cdniptv.com:9080/hls/fatafeat.m3u8?md5=82jkCw7K29W2S1Z6C1nozA&e
 
 #EXTINF:-1,Alarabia
 http://streamer1.cdniptv.com:9080/hls/al-arabiya.m3u8?md5=k4Br679Y001BHxcFT4kdww&expires=1459296871&dd=7840367&ip=73.242.7.4
-
-
-
-
-#EXTINF:-1,------Test Area--------------
-
-
 
 
 
