@@ -1,41 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:0,rotana Aflam
-
-#EXTINF:-1,AR-OSN MOVIE PREMIERE
-http://veneto.iptv.re:8000/live/hamiditaly/star7arb/45.ts
-#EXTINF:-1,AR-OSN MOVIE ACTION 2
-http://veneto.iptv.re:8000/live/hamiditaly/star7arb/41.ts
-#EXTINF:-1,AR-OSN Cinema2
-http://veneto.iptv.re:8000/live/hamiditaly/star7arb/48.ts
-#EXTINF:-1,AR-osn box office 3
-http://veneto.iptv.re:8000/live/hamiditaly/star7arb/46.ts
-#EXTINF:-1,OSN box office 2
-http://veneto.iptv.re:8000/live/hamiditaly/star7arb/39.ts
-#EXTINF:-1,BeIN_Movies_2HD
-http://veneto.iptv.re:8000/live/hamiditaly/star7arb/54.ts
-#EXTINF:-1,OSN_MOVIES HD
-http://veneto.iptv.re:8000/live/hamiditaly/star7arb/50.ts
-#EXTINF:-1,OSN_Al_youm
-http://veneto.iptv.re:8000/live/hamiditaly/star7arb/51.ts
-#EXTINF:-1,BeIN_Movies_1HD
-http://veneto.iptv.re:8000/live/hamiditaly/star7arb/44.ts
-#EXTINF:-1,OSN YAHALA
-http://veneto.iptv.re:8000/live/hamiditaly/star7arb/40.ts
-#EXTINF:-1,OSN YA HALA SHABAB
-http://veneto.iptv.re:8000/live/hamiditaly/star7arb/42.ts
-#EXTINF:-1,OSN YA HALA DRAMA
-http://veneto.iptv.re:8000/live/hamiditaly/star7arb/55.ts
-#EXTINF:-1,AR OSN ON Demande 3
-http://veneto.iptv.re:8000/live/hamiditaly/star7arb/47.ts
-#EXTINF:-1,AR OSN ON Demande 2
-http://veneto.iptv.re:8000/live/hamiditaly/star7arb/52.ts
-#EXTINF:-1,AR OSN ON Demande 1
-http://veneto.iptv.re:8000/live/hamiditaly/star7arb/38.ts
-#EXTINF:-1,AR OSN FANN
-http://veneto.iptv.re:8000/live/hamiditaly/star7arb/53.ts
-#EXTINF:-1,AR OSN box office 1
-http://veneto.iptv.re:8000/live/hamiditaly/star7arb/43.ts
 
 #EXTINF:0,Art Aflam 1
 
@@ -92,19 +56,19 @@ http://streamer1.cdniptv.com:9080/hls/al-nahar-drama.m3u8?md5=cgB3RcJIethrB8GjxU
 http://streamer1.cdniptv.com:9080/hls/jeem-eurob.m3u8?md5=cgB3RcJIethrB8GjxUzkJw&expires=1459558617&dd=3359973&ip=73.242.7.4
 
 #EXTINF:0,Cartoon Net arabic
-http://streamer1.cdniptv.com:9080/hls/cn-arabia.m3u8?md5=cgB3RcJIethrB8GjxUzkJw&expires=1459558617&dd=3359973&ip=73.242.7.4
+
 
 #EXTINF:0,MBC 3
-http://streamer1.cdniptv.com:9080/hls/mbc3.m3u8?md5=cgB3RcJIethrB8GjxUzkJw&expires=1459558617&dd=3359973&ip=73.242.7.4
+
 
 #EXTINF:-1,Jeem 
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterPlaylist.m3u8
+
 
 #EXTINF:0,MBC 2
-http://streamer1.cdniptv.com:9080/hls/mbc2.m3u8?md5=cgB3RcJIethrB8GjxUzkJw&expires=1459558617&dd=3359973&ip=73.242.7.4
+
 
 #EXTINF:0,MBC 4
-http://streamer1.cdniptv.com:9080/hls/mbc4.m3u8?md5=cgB3RcJIethrB8GjxUzkJw&expires=1459558617&dd=3359973&ip=73.242.7.4
+
 
 #EXTINF:0,Almaas Tv
 rtmp://edge.streamspot.com/live2/almastea1d
