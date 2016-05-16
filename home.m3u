@@ -2,68 +2,40 @@
 
 #EXTINF:0,rotana Aflam
 
-
-#EXTINF:0,MBC
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/751.ts
-
-#EXTINF:-1,AR: Art Aflam 1
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/406.ts
-#EXTINF:-1,AR: Art Aflam 2
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/405.ts
-#EXTINF:-1,AR: Art Cinema
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/404.ts
-#EXTINF:-1,AR: Art Hekayat 1
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/403.ts
-#EXTINF:-1,AR: Art Hekayat 2
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/402.ts
-#EXTINF:-1,AR: OSN YAHALA
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/782.ts
-#EXTINF:-1,AR: OSN Yahala Shabab
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/741.ts
-#EXTINF:-1,AR: OSN Yahala Drama
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/742.ts
-#EXTINF:-1,AR: OSN Star Gould
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/744.ts
-#EXTINF:-1,AR: OSN Movies Star
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/728.ts
-#EXTINF:-1,AR: OSN Movies Premiere 1
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/731.ts
-#EXTINF:-1,AR: OSN Movies Premiere 2
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/733.ts
-#EXTINF:-1,AR: OSN Movies kids
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/781.ts
-#EXTINF:-1,AR: OSN Movies Festival
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/729.ts
-#EXTINF:-1,AR: OSN Movies Drama HD
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/734.ts
-#EXTINF:-1,AR: OSN Movies Comedy HD
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/735.ts
-#EXTINF:-1,AR: OSN Movies ACtion HD
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/736.ts
-#EXTINF:-1,AR: OSN Movies
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/726.ts
-#EXTINF:-1,AR: OSN Movie Box
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/730.ts
-#EXTINF:-1,AR: OSN Action
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/740.ts
-#EXTINF:-1,AR: OSN Comedy
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/738.ts
-#EXTINF:-1,OSN MBC
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/745.ts
-#EXTINF:-1,OSN First
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/739.ts
-#EXTINF:-1,EI
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/746.ts
-#EXTINF:-1,OSN Animal Planet
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/748.ts
-#EXTINF:-1,OSN Discovery Science
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/747.ts
-#EXTINF:-1,OSN Cinema 1
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/724.ts
-#EXTINF:-1,OSN Cinema 2
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/725.ts
-#EXTINF:-1,OSN Alyoum
-http://iptvx.starynos.com:8000/live/star7satarab/oiuraorara/743.ts
+#EXTINF:-1,AR-OSN MOVIE PREMIERE
+http://veneto.iptv.re:8000/live/hamiditaly/star7arb/45.ts
+#EXTINF:-1,AR-OSN MOVIE ACTION 2
+http://veneto.iptv.re:8000/live/hamiditaly/star7arb/41.ts
+#EXTINF:-1,AR-OSN Cinema2
+http://veneto.iptv.re:8000/live/hamiditaly/star7arb/48.ts
+#EXTINF:-1,AR-osn box office 3
+http://veneto.iptv.re:8000/live/hamiditaly/star7arb/46.ts
+#EXTINF:-1,OSN box office 2
+http://veneto.iptv.re:8000/live/hamiditaly/star7arb/39.ts
+#EXTINF:-1,BeIN_Movies_2HD
+http://veneto.iptv.re:8000/live/hamiditaly/star7arb/54.ts
+#EXTINF:-1,OSN_MOVIES HD
+http://veneto.iptv.re:8000/live/hamiditaly/star7arb/50.ts
+#EXTINF:-1,OSN_Al_youm
+http://veneto.iptv.re:8000/live/hamiditaly/star7arb/51.ts
+#EXTINF:-1,BeIN_Movies_1HD
+http://veneto.iptv.re:8000/live/hamiditaly/star7arb/44.ts
+#EXTINF:-1,OSN YAHALA
+http://veneto.iptv.re:8000/live/hamiditaly/star7arb/40.ts
+#EXTINF:-1,OSN YA HALA SHABAB
+http://veneto.iptv.re:8000/live/hamiditaly/star7arb/42.ts
+#EXTINF:-1,OSN YA HALA DRAMA
+http://veneto.iptv.re:8000/live/hamiditaly/star7arb/55.ts
+#EXTINF:-1,AR OSN ON Demande 3
+http://veneto.iptv.re:8000/live/hamiditaly/star7arb/47.ts
+#EXTINF:-1,AR OSN ON Demande 2
+http://veneto.iptv.re:8000/live/hamiditaly/star7arb/52.ts
+#EXTINF:-1,AR OSN ON Demande 1
+http://veneto.iptv.re:8000/live/hamiditaly/star7arb/38.ts
+#EXTINF:-1,AR OSN FANN
+http://veneto.iptv.re:8000/live/hamiditaly/star7arb/53.ts
+#EXTINF:-1,AR OSN box office 1
+http://veneto.iptv.re:8000/live/hamiditaly/star7arb/43.ts
 
 #EXTINF:0,Art Aflam 1
 
