@@ -1,5 +1,142 @@
 ﻿#EXTM3U
 
+#EXTINF:-1,OSN MOVIE PREMIERE
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/23.ts
+#EXTINF:-1,OSN MOVIE ACTION 2
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/19.ts
+#EXTINF:-1,OSN Cinema2
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/27.ts
+#EXTINF:-1,osn box office 3
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/24.ts
+#EXTINF:-1,OSN box office 2
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/17.ts
+#EXTINF:-1,Ar-hala tv
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/25.ts
+#EXTINF:-1,BeIN Movies_2HD
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/34.ts
+
+#EXTINF:-1,ALarabia
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/30.ts
+#EXTINF:-1,OSN MOVIES HD
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/28.ts
+#EXTINF:-1,OSN Al youm
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/29.ts
+#EXTINF:-1,BeIN Movies 1HD
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/22.ts
+#EXTINF:-1,OSN YAHALA
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/18.ts
+
+#EXTINF:-1,OSN YA HALA SHABAB
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/20.ts
+#EXTINF:-1,OSN YA HALA DRAMA
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/36.ts
+#EXTINF:-1,OSN ON Demande 3
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/26.ts
+#EXTINF:-1,OSN ON Demande 2
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/31.ts
+#EXTINF:-1,OSN ON Demande 1
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/16.ts
+#EXTINF:-1,OSN FANN
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/32.ts
+#EXTINF:-1,OSN box office 1
+http://veneto.iptv.re:8000/live/hamiditaly/20162016/21.ts
+
+#EXTINF:-1,Baraem
+http://37.187.24.177:80/mans32/mans32/698.ch
+
+#EXTINF:-1,MBC 1
+http://37.187.24.177:80/mans32/mans32/667.ch
+
+#EXTINF:-1,Cairo cinema
+http://37.187.24.177:80/mans32/mans32/718.ch
+#EXTINF:-1,Cairo Comedy
+http://37.187.24.177:80/mans32/mans32/719.ch
+
+#EXTINF:-1,Aflam 1
+http://37.187.24.177:80/mans32/mans32/678.ch
+#EXTINF:-1,Aflam 2
+http://37.187.24.177:80/mans32/mans32/679.ch
+
+#EXTINF:-1,ART Cinema
+http://37.187.24.177:80/mans32/mans32/677.ch
+#EXTINF:-1,Hekayat
+http://37.187.24.177:80/mans32/mans32/680.ch
+#EXTINF:-1,Hekayat 2
+http://37.187.24.177:80/mans32/mans32/681.ch
+
+#EXTINF:-1,OSN STAR MOVIES HD
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/775.ts
+#EXTINF:-1,OSN STAR GOLD HD
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/774.ts
+#EXTINF:-1,OSN_NATGEO_WILD_HD
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/749.ts
+#EXTINF:-1,OSN_First_Comedy_HD
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/880.ts
+#EXTINF:-1,OSN_Movies_ Premiere+2
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/1231.ts
+#EXTINF:-1,OSN_YA_HALA_SHABAB
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/310.ts
+#EXTINF:-1,OSN_YA_HALA_DRAMA
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/311.ts
+#EXTINF:-1,OSN_YA_HALA
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/312.ts
+#EXTINF:-1,OSN_MOVIES_PREMIERE
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/313.ts
+#EXTINF:-1,OSN_ONDEMAND_EXTRA
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/318.ts
+#EXTINF:-1,OSN_MOVIES_FESTIVAL
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/314.ts
+#EXTINF:-1,OSN_MOVIES_DRAMA
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/315.ts
+#EXTINF:-1,OSN_MOVIES_COMEDY
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/316.ts
+#EXTINF:-1,OSN_MOVIES_ACTION
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/317.ts
+#EXTINF:-1,OSN_FIRST
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/321.ts
+#EXTINF:-1,OSN_CINEMA_2
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/322.ts
+#EXTINF:-1,OSN_CINEMA_1
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/323.ts
+#EXTINF:-1,OSN StarWorld HD
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/1161.ts
+#EXTINF:-1,OSN Sports 2HD
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/1160.ts
+#EXTINF:-1,OSN ON Demande 3HD
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/1162.ts
+#EXTINF:-1,OSN ON Demande 2HD
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/1163.ts
+#EXTINF:-1,OSN ON DEMAND HD
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/319.ts
+#EXTINF:-1,OSN MOVIES Kids
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/327.ts
+#EXTINF:-1,OSN Movies HD
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/320.ts
+#EXTINF:-1,OSN MOVIE ACTION 2HD
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/1164.ts
+#EXTINF:-1,OSN MBC DRAMA
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/946.ts
+#EXTINF:-1,OSN Box Office 3HD
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/326.ts
+#EXTINF:-1,OSN Box Office 2HD
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/325.ts
+#EXTINF:-1,OSN Box Office 1HD
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/324.ts
+#EXTINF:-1,OSN ALYAWM
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/1165.ts
+#EXTINF:-1,OSN ALKASS 4HD
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/428.ts
+#EXTINF:-1,OSN ALKASS 3HD
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/429.ts
+#EXTINF:-1,OSN ALKASS 2HD
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/430.ts
+#EXTINF:-1,OSN ALKASS 1HD
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/431.ts
+#EXTINF:-1,UK: TRAVEL CHANNEL
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/1346.ts
+#EXTINF:-1,AR:MBC3
+http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/972.ts
+
 
 #EXTINF:0,Art Aflam 1
 
@@ -49,11 +186,8 @@
 
 
 #EXTINF:0,Alnahar drama
-http://streamer1.cdniptv.com:9080/hls/al-nahar-drama.m3u8?md5=cgB3RcJIethrB8GjxUzkJw&expires=1459558617&dd=3359973&ip=73.242.7.4
-
 
 #EXTINF:0,Jeem europe
-http://streamer1.cdniptv.com:9080/hls/jeem-eurob.m3u8?md5=cgB3RcJIethrB8GjxUzkJw&expires=1459558617&dd=3359973&ip=73.242.7.4
 
 #EXTINF:0,Cartoon Net arabic
 
@@ -84,10 +218,9 @@ rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 
 #EXTINF:-1,Fatafeat
-http://streamer1.cdniptv.com:9080/hls/fatafeat.m3u8?md5=82jkCw7K29W2S1Z6C1nozA&expires=1459297317&dd=7840367&ip=73.242.7.4
 
 #EXTINF:-1,Alarabia
-http://streamer1.cdniptv.com:9080/hls/al-arabiya.m3u8?md5=cgB3RcJIethrB8GjxUzkJw&expires=1459558617&dd=3359973&ip=73.242.7.4
+
 
 #EXTINF:-1,Ajyal P
 rtmp://46.43.64.190/ajyal//livestream2
