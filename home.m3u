@@ -1,5 +1,67 @@
 ﻿#EXTM3U
 
+#EXTINF:-1,TOKTOK CIMA
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/730.ts
+#EXTINF:-1,TOKTOK AFLAM
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/696.ts
+#EXTINF:-1,TIME TURKI
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/699.ts
+#EXTINF:-1,TIME TAXI
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/709.ts
+#EXTINF:-1,TIME QURAN
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/673.ts
+#EXTINF:-1,TIME FILM
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/732.ts
+#EXTINF:-1,TIME COMEDY
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/672.ts
+#EXTINF:-1,TIME CINEMA
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/719.ts
+
+#EXTINF:-1,Cinema Pro
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/735.ts
+#EXTINF:-1,CINEMA ARMOTY
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/671.ts
+#EXTINF:-1,CIMA ALI BABA
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/698.ts
+
+#EXTINF:-1,OSN alyoum
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/613.ts
+#EXTINF:-1,Osn Fann
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/22.ts
+#EXTINF:-1,Osn Yahala Drama
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/26.ts
+#EXTINF:-1,Osn Movies
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/661.ts
+#EXTINF:-1,Osn Movies Action
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/662.ts
+#EXTINF:-1,AR: OSN Movies Premiere .
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/532.ts
+#EXTINF:-1,AR-OSN-Abu-Dhabi-Sports-2HD
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/554.ts
+#EXTINF:-1,OSN MOVIE BOX HD
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/521.ts
+#EXTINF:-1,OSN MBC DRAMA
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/548.ts
+#EXTINF:-1,AR: OSN_MOVIES_DRAMA
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/522.ts
+#EXTINF:-1,AR: OSN-On-Demand-Extra-HD
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/523.ts
+#EXTINF:-1,AR: OSN WWE HD
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/545.ts
+#EXTINF:-1,AR: OSN STAR WORLD
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/527.ts
+#EXTINF:-1,OSN Sport 4
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/546.ts
+#EXTINF:-1,Osn Box Office 2
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/6.ts
+#EXTINF:-1,Osn Movie Premiere
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/12.ts
+#EXTINF:-1,Osn Movie Action 2
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/8.ts
+#EXTINF:-1,Osn On Demande 2
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/21.ts
+#EXTINF:-1,Osn On Demande 3
+http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/15.ts
 #EXTINF:-1,OSN MOVIE PREMIERE
 http://veneto.iptv.re:8000/live/hamiditaly/20162016/23.ts
 #EXTINF:-1,OSN MOVIE ACTION 2
