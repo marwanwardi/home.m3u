@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
 
-
+#EXTINF:0 tvg-name="ANN"  tvg-id="ANN" tvg-logo="http://vignette1.wikia.nocookie.net/masseffect/images/c/c0/Alliance_News_Network_Icon.png/revision/latest?cb=20120306204228",ANN (News) (UK) (Arabic) http://38.99.146.36:7777/ANN_HD.m3u8
 #EXTINF:-1,mamon 9
 rtmp://62.90.177.113:80/vod/mp4:11/68/116878.mp4
 
