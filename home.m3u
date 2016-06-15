@@ -2,13 +2,16 @@
 
 
 
-#EXTINF:-1,OSN alyoum
-http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/613.ts
-#EXTINF:-1,Osn Fann
-http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/22.ts
-#EXTINF:-1,Osn Yahala Drama
-http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/26.ts
-#EXTINF:-1,Osn Movies
+#EXTINF:-1,mamon 9
+rtmp://62.90.177.113:80/vod/mp4:11/68/116878.mp4
+
+#EXTINF:-1,Ostora 8
+rtmp://62.90.177.113:80/vod/mp4:11/67/116796.mp4
+
+#EXTINF:-1,yones 9
+rtmp://62.90.177.112:80/vod/mp4:11/67/116789.mp4
+
+
 http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/661.ts
 #EXTINF:-1,Osn Movies Action
 http://13.94.206.139:8000/live/Star7arab/mPCGAnWbwC/662.ts
