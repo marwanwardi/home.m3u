@@ -1,38 +1,9 @@
 ﻿#EXTM3U
 
 
-#EXTINF:-1,salamtv
-http://80.241.220.53:8000/live/IPTVStar7/IPTVStar7/5034.ts
-#EXTINF:-1,raya2SD
-http://80.241.220.53:8000/live/IPTVStar7/IPTVStar7/5038.ts
-#EXTINF:-1,raya1HD
-http://80.241.220.53:8000/live/IPTVStar7/IPTVStar7/5037.ts
-#EXTINF:-1,raya
-http://80.241.220.53:8000/live/IPTVStar7/IPTVStar7/5041.ts
-#EXTINF:-1,kolnes sd
-http://80.241.220.53:8000/live/IPTVStar7/IPTVStar7/5040.ts
-#EXTINF:-1,kolnes
-http://80.241.220.53:8000/live/IPTVStar7/IPTVStar7/5039.ts
-#EXTINF:-1,khlalsport sd
-http://80.241.220.53:8000/live/IPTVStar7/IPTVStar7/5026.ts
-#EXTINF:-1,khlalsport mobile sd
-http://80.241.220.53:8000/live/IPTVStar7/IPTVStar7/5028.ts
-#EXTINF:-1,khlalsport mobile
-http://80.241.220.53:8000/live/IPTVStar7/IPTVStar7/5027.ts
-#EXTINF:-1,khlalsport hd
-http://80.241.220.53:8000/live/IPTVStar7/IPTVStar7/5025.ts
-#EXTINF:-1,bethtv sd
-http://80.241.220.53:8000/live/IPTVStar7/IPTVStar7/5032.ts
-#EXTINF:-1,amwaj
-http://80.241.220.53:8000/live/IPTVStar7/IPTVStar7/5033.ts
-#EXTINF:-1,almahed
-http://80.241.220.53:8000/live/IPTVStar7/IPTVStar7/5042.ts
-#EXTINF:-1,alfajertv full hd
-http://80.241.220.53:8000/live/IPTVStar7/IPTVStar7/5029.ts
-#EXTINF:-1,alfajertv  sd
-http://80.241.220.53:8000/live/IPTVStar7/IPTVStar7/5031.ts
-#EXTINF:-1,alfajertv  hd
-http://80.241.220.53:8000/live/IPTVStar7/IPTVStar7/5030.ts
+#EXTINF:-1,jaheem
+https://1fhjlpi.oloadcdn.net/dl/l/Xr7iGR0eGpnuhgt1/7xu_6b2SEvM/CimaClub.Com.Inferno.In.India.2016.HD1080.mkv.mp4?mime=true
+
 #EXTINF:-1,ajyal sd
 http://80.241.220.53:8000/live/IPTVStar7/IPTVStar7/5036.ts
 #EXTINF:-1,ajyal hd
