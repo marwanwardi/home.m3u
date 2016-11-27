@@ -1,15 +1,26 @@
 ﻿#EXTM3U
 
 
-#EXTINF:-1,jaheem
-https://1fhjlpi.oloadcdn.net/dl/l/Xr7iGR0eGpnuhgt1/7xu_6b2SEvM/CimaClub.Com.Inferno.In.India.2016.HD1080.mkv.mp4?mime=true
+#EXTINF:-1,Kaf Al Qamar
+http://130.185.254.6/dl/3df903eb5e1c328e11f4c55033baef63/583a4990/ffc13e506041484304f56c0081c5110433.flv
 
-#EXTINF:-1,14
-https://1fgm8kp.oloadcdn.net/dl/l/7fQqX-qn7Of0r4LZ/RoCeUgKL4zE/CimaClub.Com.OCEAN14.HD.mkv.mp4?mime=true
-#EXTINF:-1,ajyal hd
-http://80.241.220.53:8000/live/IPTVStar7/IPTVStar7/5035.ts
-#EXTINF:0,Almaas Tv
-rtmp://edge.streamspot.com/live2/almastea1d
+
+#EXTINF:-1,another qaf
+http://s272.zerocdn.to/dl/51e6c1b8be5ba834136bddca2b6c7781/583a2fc3/mmc13e506041484304f56c0081c5110433.mp4
+
+#EXTINF:0,23
+http://vod-b.nl.panet.co.il/vod/86/86941/86941.mp4?md5=WDPJ0J9By9AyH5IdkmK25g&expires=1480230525
+
+
+
+#EXTINF:-1,24
+http://flv2.alarab.com:8080/flv/47877.flv
+
+
+
+#EXTINF:0,25
+http://vod-b.nl.panet.co.il/vod/87/87272/87272.mp4?md5=NydMZ5N6cBhC4LOAyLs6NA&expires=1480230657
+
 
 #EXTINF:-1,Jeem 
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterPlaylist.m3u8
