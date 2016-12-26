@@ -1,25 +1,14 @@
 ﻿#EXTM3U
 
 
-#EXTINF:-1,Kaf Al Qamar
-http://130.185.254.6/dl/3df903eb5e1c328e11f4c55033baef63/583a4990/ffc13e506041484304f56c0081c5110433.flv
+
+#EXTINF:-1,MBC+
+http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
+
+#EXTINF:-1, test
+http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
 
 
-#EXTINF:-1,another qaf
-http://s272.zerocdn.to/dl/51e6c1b8be5ba834136bddca2b6c7781/583a2fc3/mmc13e506041484304f56c0081c5110433.mp4
-
-#EXTINF:0,23
-http://vod-b.nl.panet.co.il/vod/86/86941/86941.mp4?md5=WDPJ0J9By9AyH5IdkmK25g&expires=1480230525
-
-
-
-#EXTINF:-1,24
-http://flv2.alarab.com:8080/flv/47877.flv
-
-
-
-#EXTINF:0,25
-http://vod-b.nl.panet.co.il/vod/87/87272/87272.mp4?md5=NydMZ5N6cBhC4LOAyLs6NA&expires=1480230657
 
 
 #EXTINF:-1,Jeem 
