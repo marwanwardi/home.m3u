@@ -2,12 +2,6 @@
 
 
 
-#EXTINF:-1,MBC+
-http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
-
-#EXTINF:-1, test
-http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
-
 
 
 #EXTINF:-1,1
@@ -21,81 +15,6 @@ http://9883.akamai.live.selevision.com/live/9883/98839/master.m3u8
 
 #EXTINF:-1,Sham
 http://9883.akamai.live.selevision.com/live/9883/98831/master.m3u8
-
-
-#EXTINF:-1,Jeem 
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterPlaylist.m3u8
-
-#EXTINF:-1,Hona Baghdad
-rtmp://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad
-
-
-#EXTINF:-1,Ajyal pal
-
-
-#EXTINF:-1,Fatafeat
-
-#EXTINF:-1,Alarabia
-
-
-#EXTINF:-1,Ajyal P
-
-
-
-
-#EXTINF:-1,Alrasheed
-
-
-#EXTINF:-1,Dijla
-
-
-#EXTINF:-1,RT 
-http://rt-lh.akamaihd.net/i/ch_03@325607/index_320p_av-p.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1,Jeem 
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterPlaylist.m3u8
-
-#EXTINF:-1,CN
-http://54.255.155.24:1935/Live/_definst_/sweetbcha1novD28_W_250.sdp/chunklist.m3u8
-
-
-
-
-#EXTINF:-1,Dubai Drama
-http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w7946196_b1200000.m3u8
-
-
-#EXTINF:-1,Dubai TV
-http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w1042183914_b1200000.m3u8
-
-#EXTINF:-1,Sama Dubai TV 
-http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w517203350_b1200000.m3u8
-
-#EXTINF:-1,Noor Dubai TV 
-http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w157951105_b1200000.m3u8
-
-
-#EXTINF:-1,Al hurra
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-
-#EXTINF:-1,BBC
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-
-
-
-#EXTINF:-1,arabya alhadath
-http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-
-
-#EXTINF:-1,Aljazeera Documents
-
-
-#EXTINF:-1,DW tv
-http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
-
-
-
 
 
 
