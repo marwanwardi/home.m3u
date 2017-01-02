@@ -1,10 +1,21 @@
 ﻿#EXTM3U
 
+#EXTINF:-1,Alaan Tvhttp://selevision9884-i.akamaihd.net/hls/live/219265/98849/1.m3u8
 
 
 
 
-#EXTINF:-1,1
+#EXTINF:-1,Nat Geo
+http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
+
+#EXTINF:-1,CNN
+http://selevision9883-i.akamaihd.net/hls/live/219254/98838/1.m3u8
+
+#EXTINF:-1,Cw
+http://selevision9890-i.akamaihd.net/hls/live/219317/98900/2.m3u8
+
+
+#EXTINF:-1,Seevii Alola
 http://9886.akamai.live.selevision.com/live/9886/98865/master.m3u8
 
 #EXTINF:-1,2
