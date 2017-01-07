@@ -1,11 +1,8 @@
 ﻿#EXTM3U
 
 
-#EXTINF:-0,Al Sharqya
-http://ns8.indexforce.com/home/mystream/playlist.m3u8
 
-#EXTINF:-1,Al Sharqya News
-http://ns8.indexforce.com/alsharqiyalive/mystream/playlist.m3u8
+
 
 #EXTINF:-1,NRT
 http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/_definst_//nrtarabic.stream_1/playlist.m3u8
@@ -36,13 +33,6 @@ http://9883.akamai.live.selevision.com/live/9883/98839/master.m3u8
 
 #EXTINF:-1,Sham
 http://9883.akamai.live.selevision.com/live/9883/98831/master.m3u8
-
-#EXTINF:-1,Hona Baghdad
-http://livestreaming.itworkscdn.net/hounabaghdadlive//hounabaghdad/playlist.m3u8
-
-#EXTINF:-1,mbc test
-http://web2.iptv-planet.com:81/live2/Hi_mbc1/playlist.m3u8
-
 
 
 
