@@ -1,10 +1,14 @@
 ﻿#EXTM3U
 
+
+#EXTINF:-1,NRT
+rtmp://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/_definst_//nrtarabic.stream_1
+
+#EXTINF:-1,Al Sharqya
+http://agendastreamerx1.qna.org.qa:1935/brm/brm/chunklist.m3u8
+
 #EXTINF:-1,Alaan Tv
-
 http://selevision9884-i.akamaihd.net/hls/live/219265/98849/1.m3u8
-
-
 
 
 #EXTINF:-1,Nat Geo
@@ -29,5 +33,7 @@ http://9883.akamai.live.selevision.com/live/9883/98839/master.m3u8
 #EXTINF:-1,Sham
 http://9883.akamai.live.selevision.com/live/9883/98831/master.m3u8
 
+#EXTINF:-1,Tom
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream4/masterPlaylist.m3u8
 
 
