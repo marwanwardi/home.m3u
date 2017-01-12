@@ -1,13 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:-1,Al Sharqya
-http://38.99.146.42:7777/AlSharqiya/AlSharqiya_High.m3u8?user=sgls&session=b651fa036fb1892a3101b08b7d6c8d5b96288eb93d67e63bff20f321a0b55bf5&hlsid=HTTP_ID_3584032&group_id=-1&starttime=20161017T173854.172571
-
-#EXTINF:-1,Al Sharqy a
-http://38.99.146.42:7777AlSharqiya/AlSharqiya_Low.m3u8?user=sgls%26session=b651fa036fb1892a3101b08b7d6c8d5b96288eb93d67e63bff20f321a0b55bf5%26hlsid=HTTP_ID_3584032%26group_id=-1%26starttime=20161017T173854.172571
-
-#EXTINF:-1,Al Sharqyaa
-http://38.99.146.42:7777AlSharqiya/AlSharqiya_Low.m3u8
 
 #EXTINF:-1,NRT
 http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/_definst_//nrtarabic.stream_1/playlist.m3u8
@@ -39,17 +31,6 @@ http://9883.akamai.live.selevision.com/live/9883/98839/master.m3u8
 #EXTINF:-1,Sham
 http://9883.akamai.live.selevision.com/live/9883/98831/master.m3u8
 
-
-#EXTINF:-1,ART CINEMA
-http://163.172.211.251:8000/live/Test/star7ahmedax/2443.ts
-#EXTINF:-1,ART AFLAM 1
-http://163.172.211.251:8000/live/Test/star7ahmedax/2439.ts
-#EXTINF:-1,ART AFLAM 2
-http://163.172.211.251:8000/live/Test/star7ahmedax/2440.ts
-#EXTINF:-1,ART HEKAYAT 1
-http://163.172.211.251:8000/live/Test/star7ahmedax/2441.ts
-#EXTINF:-1,ART HEKAYAT 2
-http://163.172.211.251:8000/live/Test/star7ahmedax/2442.ts
 
 
 
