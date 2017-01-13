@@ -1,5 +1,7 @@
 ﻿#EXTM3U
 
+#EXTINF:-1,Mtv Lebanon
+https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_w364815062_b625000_tkdGhlcmVpc2x2ZWVuZHRpbWU9MTQ4NDI3ODQ0MSZ0aGVyZWlzbHZld293emFzdGFydHRpbWU9MCZ0aGVyZWlzbHZld293emFzdGN1c3RvbT0xNDg0MjcxMzk5JnRoZXJlaXNsdmVoYXNoPTdicUdvbEJqLXRjXzBlS3lZbTRDSmNqb3MzMGFaWk0wX2trMGZBUHIzWlE9.m3u8
 
 #EXTINF:-1,NRT
 http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/_definst_//nrtarabic.stream_1/playlist.m3u8
