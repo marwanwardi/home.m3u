@@ -19,3 +19,9 @@ http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 #EXTINF:-1,Quest
 http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
 
+
+#EXTINF:-1,SNL
+http://163.172.101.34/l7y2vgb5drmjvkrxw44sadcyiyfeufr65tu3zisa7a66uiblo4ugcb7azotq/v.mp4
+
+#EXTINF:-1,SNL1
+http://163.172.101.34/l7y2qjr4drmjvkrxw44sahcfl2klxclrqtinmaeqpfcfbsdu44u4pff5yfmq/v.mp4
