@@ -8,3 +8,14 @@ http://adtv.ercdn.net/adsport7/adsport7_480p.m3u8
 
 #EXTINF:-1,NRT
 http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/_definst_//nrtarabic.stream_1/playlist.m3u8
+
+#EXTINF:-1,Rotana cinema
+http://selevision9896-i.akamaihd.net/hls/live/219378/98961/2.m3u8
+
+#EXTINF:-1,Rotana Aflam
+http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
+
+
+#EXTINF:-1,Quest
+http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
+
