@@ -19,14 +19,16 @@ http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 #EXTINF:-1,Quest
 http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
 
-#EXTINF:-1,Baraem
-http://brightcove03-f.akamaihd.net/jeem_europelive_400@95898?gmswf=1240598276
 
-#EXTINF:-1,Seevii ola
-http://9886.akamai.live.selevision.com/live/9886/98865/1pro_master.m3u8
+#EXTINF:-1,Prison break 3
+http://sh1.movizland.com/l7y2w72cdrmjvkrxw44savsvaiyrd62qjic5eskdxaeu5h5f4opzh5ajijua/v.mp4
 
-#EXTINF:-1,Seevii Drama
-http://9888.akamai.live.selevision.com/live/9888/98887/1pro_master.m3u8
+#EXTINF:-1,Prison break 3
+https://vd49.mycdn.me/?expires=1492818124566&srcIp=73.242.7.4&srcAg=GECKO&type=2&sig=4f859165b1637e280fb8b29727e267a230abd41e&ct=4&urls=217.20.153.76&clientType=0&id=277904755415&bytes=0-3967
 
-#EXTINF:-1,Seevii Beelink
-http://9883.akamai.live.selevision.com/live/9883/98839/1pro_master.m3u8
+#EXTINF:-1,Prison break 3
+https://1fiafzv.oloadcdn.net/dl/l/z-muKQ3Th4gYESKA/3iS8XyUCeCY/PP53.mp4?mime=true
+
+
+#EXTINF:-1,Prison break 3
+https://1fiafzv.oloadcdn.net/dl/l/z-muKQ3Th4gYESKA/3iS8XyUCeCY/PP53.mp4
