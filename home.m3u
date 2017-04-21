@@ -9,6 +9,10 @@ http://adtv.ercdn.net/adsport7/adsport7_480p.m3u8
 #EXTINF:-1,NRT
 http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/_definst_//nrtarabic.stream_1/playlist.m3u8
 
+#EXTINF:-1,Seevii Alola
+http://9886.akamai.live.selevision.com/live/9886/98865/1pro_master.m3u8
+#EXTINF:-1,Seevii Drama
+http://9888.akamai.live.selevision.com/live/9888/98887/1pro_master.m3u8
 #EXTINF:-1,Rotana cinema
 http://selevision9896-i.akamaihd.net/hls/live/219378/98961/2.m3u8
 
