@@ -9,10 +9,6 @@ http://adtv.ercdn.net/adsport7/adsport7_480p.m3u8
 #EXTINF:-1,NRT
 http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/_definst_//nrtarabic.stream_1/playlist.m3u8
 
-#EXTINF:-1,Seevii Alola
-http://9886.akamai.live.selevision.com/live/9886/98865/1pro_master.m3u8
-#EXTINF:-1,Seevii Drama
-http://9888.akamai.live.selevision.com/live/9888/98887/1pro_master.m3u8
 #EXTINF:-1,Rotana cinema
 http://selevision9896-i.akamaihd.net/hls/live/219378/98961/2.m3u8
 
@@ -24,15 +20,20 @@ http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
 
 
-#EXTINF:-1,Prison break 3
-http://sh1.movizland.com/l7y2w72cdrmjvkrxw44savsvaiyrd62qjic5eskdxaeu5h5f4opzh5ajijua/v.mp4
+#EXTINF:-1,Snl
+https://vd13.mycdn.me/?expires=1492986348577&srcIp=73.242.7.4&srcAg=GECKO&type=2&sig=359654ff79e5478a82174a01feeb3f88b46089e3&ct=4&urls=5.61.22.74&clientType=0&id=286379149873&bytes=0-5177
 
-#EXTINF:-1,Prison break 3
-https://vd49.mycdn.me/?expires=1492818124566&srcIp=73.242.7.4&srcAg=GECKO&type=2&sig=4f859165b1637e280fb8b29727e267a230abd41e&ct=4&urls=217.20.153.76&clientType=0&id=277904755415&bytes=0-3967
+#EXTINF:-1,Snl1
+https://1llr9x.oloadcdn.net/dl/l/SoUDYjz-Kh95MLIM/RnDRsKS3u1g/Shahid4u.Com.SNL.S03E10.mkv.mp4?mime=true
 
-#EXTINF:-1,Prison break 3
-https://1fiafzv.oloadcdn.net/dl/l/z-muKQ3Th4gYESKA/3iS8XyUCeCY/PP53.mp4?mime=true
+#EXTINF:-1,Snl2 HD
+https://s61.escdn.co/hls/jg6nt4uaortu7m7cyzlvk6c5smyhyoop6gstpwya2msoxjlawm6rwht7hxka/index-v1-a1.m3u8
 
+#EXTINF:-1,Snll
+http://s6.vidbom.com/6jmn3ar3tqazsalriwcadi7ojirww6zj2bpqh2n5souj7mwfjokk3fckhbra/v.mp4
 
-#EXTINF:-1,Prison break 3
-https://1fiafzv.oloadcdn.net/dl/l/z-muKQ3Th4gYESKA/3iS8XyUCeCY/PP53.mp4
+#EXTINF:-1,DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Baby
+https://r17---sn-vgqsense.googlevideo.com/videoplayback?ip=73.242.7.4&key=yt6&expire=1492922191&source=yt_live_broadcast&initcwndbps=1435000&id=roHmaGwTdsM.1&live=1&cmbypass=yes&gir=yes&mm=32&mn=sn-vgqsense&mt=1492900508&mv=m&ei=79r7WNexG4qvuwKgroCwAw&ms=lv&requiressl=yes&gcr=us&mime=video%2Fmp4&hang=1&itag=136&pl=17&keepalive=yes&sparams=cmbypass%2Cei%2Cgcr%2Cgir%2Chang%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clive%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnoclen%2Cpl%2Crequiressl%2Csource%2Cupn%2Cexpire&ipbits=0&upn=4zNF_VbUsRM&noclen=1&signature=542A9ABFDCA5366E2D4449C64441003AA0757EC4.1263DF3C019C4CD24B0055F1C7291FCF7B77FF5E&alr=yes&ratebypass=yes&cpn=7dYi9hRyTTHSAJwS&c=WEB&cver=1.20170418&rn=3
