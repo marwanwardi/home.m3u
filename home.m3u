@@ -1,5 +1,10 @@
 ﻿#EXTM3U
 
+#EXTINF:-1,Alnahar
+http://158.69.229.52:8900/AlNahar/index.m3u8
+
+#EXTINF:-1,SNL
+https://1fgqfmq.oloadcdn.net/dl/l/1DxDveHhTagOQDyF/N7s93cWv_xE/SNL.S03.E12.cima4up.tv.mp4?mime=true
 #EXTINF:-1,Majid kids
 http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
 
