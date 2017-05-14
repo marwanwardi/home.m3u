@@ -25,7 +25,7 @@ http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
 
 
 #EXTINF:-1,DW
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,mbc 2
 http://130.185.144.63:8081/jppw/MBC2/l_101710_2376000_349.ts?nimblesessionid=5125924&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDE3IDEyOjMzOjM4IEFNJmhhc2hfdmFsdWU9YXRjeTlPQzNYTGNlOW8vSVZ4YTdnQT09JnZhbGlkbWludXRlcz0y
