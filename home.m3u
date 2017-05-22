@@ -5,6 +5,8 @@
 #EXTINF:-1,Baraem
 http://199.167.151.237/live/sp15_35.stream/chunklist_w1999717507.m3u8?v=1240598276
 
+#EXTINF:-1,Baraem
+http://92.222.87.254:8000/live/mobikim2020/mobikim2020/200.ts
 
 #EXTINF:-1,Majid kids
 http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
@@ -21,10 +23,14 @@ http://selevision9896-i.akamaihd.net/hls/live/219378/98961/2.m3u8
 #EXTINF:-1,Rotana Aflam
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 
+#EXTINF:-1,seevii
+http://9883.akamai.live.selevision.com/live/9883/98839/1pro_master.m3u8
 
 #EXTINF:-1,Quest
 http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
 
+#EXTINF:-1,Seevii 1
+http://9886.akamai.live.selevision.com/live/9886/98865/1pro_master.m3u8
 
 #EXTINF:-1,DW
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10&rebase=on
@@ -35,4 +41,20 @@ http://144.217.68.106/live/V18vwuLypoQUHSl7hrBG6Q/1494733076/be2fa358e4f1c9a0ee8
 #EXTINF:-1,quest
 http://163.172.47.169:9092/computer/quest/chunks.m3u8?nimblesessionid=4550126&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDE3IDEyOjUxOjI0IEFNJmhhc2hfdmFsdWU9ZVBHbnk5MVVIZFhoUlAvUFRhZmNiQT09JnZhbGlkbWludXRlcz0x
 
+#EXTINF:-1,DW
+http://selevision9890-i.akamaihd.net/hls/live/219317/98900/2.m3u8
 
+#EXTINF:-1,Abu Dhabi
+http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8
+
+#EXTINF:-1,Abu Dhabi Drama
+http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8
+
+#EXTINF:-1,Dubai tv
+http://selevision9891-i.akamaihd.net/hls/live/219333/98916/1.m3u8
+
+#EXTINF:-1,Emarat
+http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8
+
+#EXTINF:-1,Sky News
+http://selevision9890-i.akamaihd.net/hls/live/219323/98906/1.m3u8
