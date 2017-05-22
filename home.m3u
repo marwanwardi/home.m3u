@@ -1,7 +1,9 @@
 ﻿#EXTM3U
 
-#EXTINF:-1,Alnahar
-http://158.69.229.52:8900/AlNahar/index.m3u8
+
+
+#EXTINF:-1,Baraem
+http://199.167.151.237/live/sp15_35.stream/chunklist_w1999717507.m3u8?v=1240598276
 
 
 #EXTINF:-1,Majid kids
@@ -27,15 +29,6 @@ http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
 #EXTINF:-1,DW
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,mbc 2
-http://130.185.144.63:8081/jppw/MBC2/l_101710_2376000_349.ts?nimblesessionid=5125924&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDE3IDEyOjMzOjM4IEFNJmhhc2hfdmFsdWU9YXRjeTlPQzNYTGNlOW8vSVZ4YTdnQT09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:-1,Mbc1
-http://130.185.144.63:8081/jppw/MBC1/l_101955_108800_24.ts?nimblesessionid=5126669&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDE3IDEyOjM4OjE2IEFNJmhhc2hfdmFsdWU9Q0RLWE1USXR5ek8vb1lGTzBobldGdz09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:-1,Mbc4
-http://130.185.144.63:8081/jppw/MBC4/l_101530_2292480_564.ts?nimblesessionid=5126834&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDE3IDEyOjM5OjM1IEFNJmhhc2hfdmFsdWU9WFVRM1BNNzB4UEZ6a2ppRnpFS1BDZz09JnZhbGlkbWludXRlcz0y
-
 #EXTINF:-1,Nat Geo
 http://144.217.68.106/live/V18vwuLypoQUHSl7hrBG6Q/1494733076/be2fa358e4f1c9a0ee833aa15f829f81.m3u8
 
@@ -43,4 +36,3 @@ http://144.217.68.106/live/V18vwuLypoQUHSl7hrBG6Q/1494733076/be2fa358e4f1c9a0ee8
 http://163.172.47.169:9092/computer/quest/chunks.m3u8?nimblesessionid=4550126&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDE3IDEyOjUxOjI0IEFNJmhhc2hfdmFsdWU9ZVBHbnk5MVVIZFhoUlAvUFRhZmNiQT09JnZhbGlkbWludXRlcz0x
 
 
-#EXTINF:-1,
