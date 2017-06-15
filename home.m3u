@@ -11,6 +11,15 @@ http://199.167.151.237/live/sp15_35.stream/chunks.m3u8
 #EXTINF:-1,Jeem
 http://199.167.151.237/live/sp15_13.stream/chunks.m3u8
 
+#EXTINF:-1,TOYOR BABY
+http://ndasat.pro:8000/live/86439678953283/1593574628/348.ts
+
+#EXTINF:-1,Baraem
+http://ndasat.pro:8000/live/86439678953283/1593574628/816.ts
+
+#EXTINF:-1,
+
+
 #EXTINF:-1,Majid kids
 http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
 
@@ -44,3 +53,20 @@ https://oqt1oi.oloadcdn.net/dl/l/uB0V7vcqap2cESG4/cvrTc_P2bx0/CimaClub.Com.ameri
 
 #EXTINF:-1,Americas got talent 3_3
 https://s44.escdn.co/hls/jg6nst3jj5tu7m7cyywfmmcfztrsgxc37zpyqo555myckmid2x6sn7osqbzq/index-v1-a1.m3u8
+
+#EXTINF:-1,MBC 1
+http://ndasat.pro:8000/live/86439678953283/1593574628/351.ts
+#EXTINF:-1,MBC 2
+http://ndasat.pro:8000/live/86439678953283/1593574628/352.ts
+#EXTINF:-1,Mbc 3 HD
+http://ndasat.pro:8000/live/86439678953283/1593574628/354.ts
+#EXTINF:-1,Mbc 4
+http://ndasat.pro:8000/live/86439678953283/1593574628/353.ts
+#EXTINF:-1,MBC Masr
+http://ndasat.pro:8000/live/86439678953283/1593574628/3523.ts
+#EXTINF:-1,DRAMA
+http://ndasat.pro:8000/live/86439678953283/1593574628/357.ts
+#EXTINF:-1,MBC Max
+http://ndasat.pro:8000/live/86439678953283/1593574628/355.ts
+#EXTINF:-1,MBC Action
+http://ndasat.pro:8000/live/86439678953283/1593574628/360.ts
