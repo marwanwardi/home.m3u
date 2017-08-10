@@ -1,22 +1,19 @@
 ﻿#EXTM3U
 
 
+#EXTINF:-1,Baraem
+http://92.222.87.254:8000/live/dezfrff7IledIbd_jd/gsIszls5ssi0s77bwdjgh/88.ts
 
 #EXTINF:-1,Baraem
-http://199.167.151.237/live/sp15_35.stream/chunklist_w1999717507.m3u8?v=1240598276
+http://92.222.87.254:8000/live/dezfrff7IledIbd_jd/gsIszls5ssi0s77bwdjgh/200.ts
 
 #EXTINF:-1,Baraem
-http://199.167.151.237/live/sp15_35.stream/chunks.m3u8
+http://92.222.87.254:8000/live/dezfrff7IledIbd_jd/gsIszls5ssi0s77bwdjgh/203.ts
 
 #EXTINF:-1,Jeem
-http://199.167.151.237/live/sp15_13.stream/chunks.m3u8
+http://92.222.87.254:8000/live/dezfrff7IledIbd_jd/gsIszls5ssi0s77bwdjgh/87.ts
 
 #EXTINF:-1,TOYOR BABY
-http://ndasat.pro:8000/live/86439678953283/1593574628/348.ts
-
-#EXTINF:-1,Baraem
-http://ndasat.pro:8000/live/86439678953283/1593574628/816.ts
-
 
 
 #EXTINF:-1,Majid kids
@@ -30,4 +27,17 @@ http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/_definst_//nrtarabic.stream_1
 
 
 #EXTINF:-1,Rotana Aflam
-http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
+http://92.222.87.254:8000/live/dezfrff7IledIbd_jd/gsIszls5ssi0s77bwdjgh/24.ts
+
+#EXTINF:-1,Rotana Cenima
+http://92.222.87.254:8000/live/dezfrff7IledIbd_jd/gsIszls5ssi0s77bwdjgh/23.ts
+
+#EXTINF:-1,mbc1
+http://92.222.87.254:8000/live/dezfrff7IledIbd_jd/gsIszls5ssi0s77bwdjgh/2.ts
+
+#EXTINF:-1,mbc1
+http://92.222.87.254:8000/live/dezfrff7IledIbd_jd/gsIszls5ssi0s77bwdjgh/1.ts
+
+#EXTINF:-1,fatafeat
+http://92.222.87.254:8000/live/dezfrff7IledIbd_jd/gsIszls5ssi0s77bwdjgh/89.ts
+
