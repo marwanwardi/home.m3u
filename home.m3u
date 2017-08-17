@@ -1,5 +1,7 @@
 ﻿#EXTM3U
 
+#EXTINF:-1,Baraem
+http://sstvb.vdmscdn.com/LQ-AR-Baraem/index.m3u8
 
 #EXTINF:-1,Baby tv
 http://iptvpro.premium-tv.org:8789/live/MIPTV2521/wjMnurFn0w/1641.ts
