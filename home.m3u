@@ -3,6 +3,9 @@
 
 #EXTINF:-1,Bein Fox HD
 http://89.38.98.85:8000/live/Media/Media/9024.ts
+
+#EXTINF:-1,Al Jalya
+http://207.35.21.69:1935/live/aljaleyatv/chunklist_w1144864797.m3u8
 #EXTINF:-1,Bein AMC HD
 http://89.38.98.85:8000/live/Media/Media/7136.ts
 #EXTINF:-1,Bein HGTV HD
