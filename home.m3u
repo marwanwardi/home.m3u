@@ -1,296 +1,162 @@
 ﻿#EXTM3U
 
-
-#EXTINF:-1,Bein Fox HD
-http://89.38.98.85:8000/live/Media/Media/9024.ts
-
-#EXTINF:-1,Al Jalya
-http://207.35.21.69:1935/live/aljaleyatv/chunklist_w1144864797.m3u8
-#EXTINF:-1,Bein AMC HD
-http://89.38.98.85:8000/live/Media/Media/7136.ts
-#EXTINF:-1,Bein HGTV HD
-http://89.38.98.85:8000/live/Media/Media/7138.ts
-#EXTINF:-1,Bein Discovery Life HD
-http://89.38.98.85:8000/live/Media/Media/9023.ts
-#EXTINF:-1,Bein Discovery Max HD
-http://89.38.98.85:8000/live/Media/Media/9026.ts
-#EXTINF:-1,Bein OutDoor HD
-http://89.38.98.85:8000/live/Media/Media/9030.ts
-#EXTINF:-1,Bein V Channels HD
-http://89.38.98.85:8000/live/Media/Media/9025.ts
-#EXTINF:-1,Bein Gourmet HD
-http://89.38.98.85:8000/live/Media/Media/7541.ts
-#EXTINF:-1,Bein Fatafeat HD
-http://89.38.98.85:8000/live/Media/Media/2714.ts
-#EXTINF:-1,BOOMERANG
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1404.ts
-#EXTINF:-1,TIJI
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1403.ts
-#EXTINF:-1,GULLI
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1406.ts
-#EXTINF:-1,TELETOON
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1410.ts
-#EXTINF:-1,CANAL J
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1408.ts
-#EXTINF:-1,NICKELODEON JUNIOR
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1412.ts
-#EXTINF:-1,NICKELODEON
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1411.ts
-#EXTINF:-1,MANGAS
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1407.ts
-#EXTINF:-1,DISNEY XD
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1416.ts
-#EXTINF:-1,DISNEY JUNIOR
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1413.ts
-#EXTINF:-1,DISNEY CINEMA
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1415.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1414.ts
-
-#EXTINF:-1,BeIN Movies 1HD
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1473.ts
-#EXTINF:-1,BeIN Movies 2HD
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1474.ts
-#EXTINF:-1,BeIN Movies 3HD
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1475.ts
-#EXTINF:-1,BeIN Movies 4HD
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1476.ts
-#EXTINF:-1,BeIN Discovery HD
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1478.ts
-#EXTINF:-1,BeIN GROUMMET
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1477.ts
-#EXTINF:-1,BeIN Jeem_HD
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1482.ts
-#EXTINF:-1,BeIN Baraim_HD
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1480.ts
-#EXTINF:-1,BeIN Fatafeat
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1479.ts
-#EXTINF:-1,BeIN JUNIOR
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1481.ts
-#EXTINF:-1,BOING
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1409.ts
-
-#EXTINF:-1,CN Arabia
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1335.ts
-#EXTINF:-1,Baraeem
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1337.ts
-
-#EXTINF:-1,Toyour Baby
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1339.ts
-#EXTINF:-1,Space Toon
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1336.ts
-#EXTINF:-1,Quest-Arabia
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1334.ts
-#EXTINF:-1,National Geo-Abudhabi
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1333.ts
-#EXTINF:-1,Aljazeera Doc
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1332.ts
-
-#EXTINF:-1,Aflam 1
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1319.ts
-#EXTINF:-1,Aflam 2
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1320.ts
-#EXTINF:-1,Hekayat 1
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1321.ts
-#EXTINF:-1,Hekayat 2
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1322.ts
-#EXTINF:-1,Cinema
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1323.ts
-#EXTINF:-1,MBC 1
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1278.ts
-#EXTINF:-1,MBC 2
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1279.ts
-#EXTINF:-1,MBC 3
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1280.ts
-#EXTINF:-1,MBC 4
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1281.ts
-#EXTINF:-1,MBC MAX
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1283.ts
-#EXTINF:-1,MBC ACTION
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1282.ts
-#EXTINF:-1,MBC DRAMA
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1286.ts
-#EXTINF:-1,MBC DRAMA HD
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1287.ts
-#EXTINF:-1,MBC BOLLYWOOD
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1289.ts
-#EXTINF:-1,MBC MASR 1
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1284.ts
-#EXTINF:-1,MBC MASR 2
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1285.ts
-#EXTINF:-1,MBC B4U AFLAM
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1292.ts
-#EXTINF:-1,MBC ZEE Alwan
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1290.ts
-#EXTINF:-1,MBC ZEE Aflam
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1291.ts
-#EXTINF:-1,MBC VARIETY HD
-http://rmd.primatv.club:8899/live/NewIPTV.FB/0tTu8cEtfX/1288.ts
-
-#EXTINF:-1,OSN Yahala HD
-http://89.38.98.85:8000/live/Media/Media/150.ts
-#EXTINF:-1,OSN Yahala Oula HD
-http://89.38.98.85:8000/live/Media/Media/152.ts
-#EXTINF:-1,OSN Yahala Cinema HD
-http://89.38.98.85:8000/live/Media/Media/5349.ts
-#EXTINF:-1,OSN Box Office 1 HD
-http://89.38.98.85:8000/live/Media/Media/9385.ts
-#EXTINF:-1,OSN Movies HD
-http://89.38.98.85:8000/live/Media/Media/248.ts
-#EXTINF:-1,OSN Movies Action HD
-http://89.38.98.85:8000/live/Media/Media/139.ts
-#EXTINF:-1,OSN Movies Family HD
-http://89.38.98.85:8000/live/Media/Media/5348.ts
-#EXTINF:-1,OSN Movies Festival HD
-http://89.38.98.85:8000/live/Media/Media/5799.ts
-#EXTINF:-1,OSN Movies First HD
-http://89.38.98.85:8000/live/Media/Media/3519.ts
-#EXTINF:-1,OSN Movies Thriller HD
-http://89.38.98.85:8000/live/Media/Media/147.ts
-#EXTINF:-1,OSN Movies Comedy HD
-http://89.38.98.85:8000/live/Media/Media/2152.ts
-#EXTINF:-1,OSN First HBO HD
-http://89.38.98.85:8000/live/Media/Media/4056.ts
-#EXTINF:-1,OSN Series HD
-http://89.38.98.85:8000/live/Media/Media/151.ts
-#EXTINF:-1,OSN Series First HD
-http://89.38.98.85:8000/live/Media/Media/131.ts
-#EXTINF:-1,OSN Series Comedy HD
-http://89.38.98.85:8000/live/Media/Media/7584.ts
-#EXTINF:-1,OSN Syfy HD
-http://89.38.98.85:8000/live/Media/Media/9058.ts
-#EXTINF:-1,OSN Al Safwa
-http://89.38.98.85:8000/live/Media/Media/7707.ts
-#EXTINF:-1,OSN Cinema 1 HD
-http://89.38.98.85:8000/live/Media/Media/5888.ts
-#EXTINF:-1,OSN Star Movies HD
-http://89.38.98.85:8000/live/Media/Media/7697.ts
-#EXTINF:-1,OSN Star World HD
-http://89.38.98.85:8000/live/Media/Media/250.ts
-#EXTINF:-1,OSN H2 HD
-http://89.38.98.85:8000/live/Media/Media/3240.ts
-#EXTINF:-1,OSN Discovery HD
-http://89.38.98.85:8000/live/Media/Media/7701.ts
-#EXTINF:-1,OSN discovery SC HD
-http://89.38.98.85:8000/live/Media/Media/1162.ts
-#EXTINF:-1,OSN Animal Planet HD
-http://89.38.98.85:8000/live/Media/Media/2587.ts
-#EXTINF:-1,OSN Nat Geo HD
-http://89.38.98.85:8000/live/Media/Media/8999.ts
-#EXTINF:-1,OSN Nat Geo Wild HD
-http://89.38.98.85:8000/live/Media/Media/984.ts
-#EXTINF:-1,OSN Nat People HD
-http://89.38.98.85:8000/live/Media/Media/2711.ts
-#EXTINF:-1,Ar- Art Aflam1
-http://89.38.98.85:8000/live/Media/Media/603.ts
-#EXTINF:-1,Ar- Art Aflam2
-http://89.38.98.85:8000/live/Media/Media/604.ts
-#EXTINF:-1,Art Hekayat
-http://89.38.98.85:8000/live/Media/Media/601.ts
-#EXTINF:-1,Art Hekayat2
-http://89.38.98.85:8000/live/Media/Media/602.ts
-#EXTINF:-1,Art Cinema
-http://89.38.98.85:8000/live/Media/Media/600.ts
-#EXTINF:-1,DocuBox HD
-http://89.38.98.85:8000/live/Media/Media/3238.ts
-#EXTINF:-1,Travel HD
-http://89.38.98.85:8000/live/Media/Media/2697.ts
-#EXTINF:-1,Nick HD
-http://89.38.98.85:8000/live/Media/Media/7299.ts
-#EXTINF:-1,Nicktoons
-http://89.38.98.85:8000/live/Media/Media/7298.ts
-#EXTINF:-1,FX
-http://89.38.98.85:8000/live/Media/Media/7283.ts
-#EXTINF:-1,US: HBO East
-http://89.38.98.85:8000/live/Media/Media/7300.ts
-#EXTINF:-1,History 2
-http://89.38.98.85:8000/live/Media/Media/7295.ts
-#EXTINF:-1,Comedy Central HD
-http://89.38.98.85:8000/live/Media/Media/7284.ts
-#EXTINF:-1,Disney Chaneel HD
-http://89.38.98.85:8000/live/Media/Media/8563.ts
-#EXTINF:-1,Disney Junior HD
-http://89.38.98.85:8000/live/Media/Media/8562.ts
-#EXTINF:-1,Disney XD HD
-http://89.38.98.85:8000/live/Media/Media/8561.ts
-#EXTINF:-1,Nickelodeon JR
-http://89.38.98.85:8000/live/Media/Media/8531.ts
-#EXTINF:-1,Discovery Channel HD
-http://89.38.98.85:8000/live/Media/Media/7303.ts
-#EXTINF:-1,Nat Geo HD
-http://89.38.98.85:8000/live/Media/Media/7304.ts
-#EXTINF:-1,NickToons
-http://89.38.98.85:8000/live/Media/Media/8530.ts
-#EXTINF:-1,Nickelodeon
-http://89.38.98.85:8000/live/Media/Media/8532.ts
-#EXTINF:-1,Uk- Sky Quest
-http://89.38.98.85:8000/live/Media/Media/8529.ts
-#EXTINF:-1,Food Network
-http://89.38.98.85:8000/live/Media/Media/8558.ts
-#EXTINF:-1,Good Food HD
-http://89.38.98.85:8000/live/Media/Media/8556.ts
-#EXTINF:-1,History HD
-http://89.38.98.85:8000/live/Media/Media/8555.ts
-#EXTINF:-1,Discovery
-http://89.38.98.85:8000/live/Media/Media/8568.ts
-#EXTINF:-1,Discovery Shed
-http://89.38.98.85:8000/live/Media/Media/8565.ts
-#EXTINF:-1,Discovery Turbo
-http://89.38.98.85:8000/live/Media/Media/8564.ts
-#EXTINF:-1,Discovery History
-http://89.38.98.85:8000/live/Media/Media/8567.ts
-#EXTINF:-1,Discovery Science
-http://89.38.98.85:8000/live/Media/Media/8566.ts
-#EXTINF:-1,Animal Planet HD
-http://89.38.98.85:8000/live/Media/Media/8593.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://89.38.98.85:8000/live/Media/Media/8535.ts
-#EXTINF:-1,National Geographic HD
-http://89.38.98.85:8000/live/Media/Media/8534.ts
-#EXTINF:-1,Travel Channel
-http://89.38.98.85:8000/live/Media/Media/8508.ts
-#EXTINF:-1,Baby tv
-http://89.38.98.85:8000/live/Media/Media/8590.ts
-#EXTINF:-1,Uk- Sky Bloomberg HD
-http://89.38.98.85:8000/live/Media/Media/8584.ts
-
-#EXTINF:-1,My- Music 24 HD
-http://89.38.98.85:8000/live/Media/Media/2699.ts
-#EXTINF:-1,My- Stereo Always Music HD
-http://89.38.98.85:8000/live/Media/Media/2698.ts
-#EXTINF:-1,My- MyZen HD
-http://89.38.98.85:8000/live/Media/Media/7591.ts
-#EXTINF:-1,My- Planet Earth HD
-http://89.38.98.85:8000/live/Media/Media/7585.ts
-
 #EXTINF:-1,Baraem
-http://sstvb.vdmscdn.com/LQ-AR-Baraem/index.m3u8
-
-#EXTINF:-1,Baby tv
-http://iptvpro.premium-tv.org:8789/live/MIPTV2521/wjMnurFn0w/1641.ts
-
-
-#EXTINF:-1,Jeem tv
-http://iptvpro.premium-tv.org:8789/live/MIPTV2521/wjMnurFn0w/772.ts
-
-#EXTINF:-1,NRT
-http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/_definst_//nrtarabic.stream_1/playlist.m3u8
+http://thgss.com:8000/live/67781514843936/67781514843936/475.ts
 
 
 
-#EXTINF:-1,Fox Family Movies
-http://iptvpro.premium-tv.org:8789/live/MIPTV2521/wjMnurFn0w/1416.ts
+#EXTINF:-1,MBC 1
+http://thgss.com:8000/live/67781514843936/67781514843936/89.ts
+#EXTINF:-1,MBC 2
+http://thgss.com:8000/live/67781514843936/67781514843936/88.ts
+#EXTINF:-1,MBC 3
+http://thgss.com:8000/live/67781514843936/67781514843936/87.ts
+#EXTINF:-1,MBC 4
+http://thgss.com:8000/live/67781514843936/67781514843936/86.ts
+#EXTINF:-1,MBC Max
+http://thgss.com:8000/live/67781514843936/67781514843936/106.ts
+#EXTINF:-1,MBC Drama
+http://thgss.com:8000/live/67781514843936/67781514843936/105.ts
+#EXTINF:-1,MBC Action HD
+http://thgss.com:8000/live/67781514843936/67781514843936/104.ts
+#EXTINF:-1,MBC Variety HD
+http://thgss.com:8000/live/67781514843936/67781514843936/189.ts
 
 
-#EXTINF:-1,Discovery SC
-http://iptvpro.premium-tv.org:8789/live/MIPTV2521/wjMnurFn0w/749.ts
+
+#EXTINF:-1,SeeVii Al oula HD
+http://thgss.com:8000/live/67781514843936/67781514843936/93.ts
+#EXTINF:-1,SeeVii Beelink HD
+http://thgss.com:8000/live/67781514843936/67781514843936/94.ts
+#EXTINF:-1,SeeVii Drama HD
+http://thgss.com:8000/live/67781514843936/67781514843936/95.ts
+#EXTINF:-1,Osn SeeVii Shamiya HD
+http://thgss.com:8000/live/67781514843936/67781514843936/96.ts
+#EXTINF:-1,Osn Movies Action
+http://thgss.com:8000/live/67781514843936/67781514843936/35.ts
+#EXTINF:-1,Osn Movies Premiere
+http://thgss.com:8000/live/67781514843936/67781514843936/204.ts
+#EXTINF:-1,Osn Movies Star World
+http://thgss.com:8000/live/67781514843936/67781514843936/37.ts
+#EXTINF:-1,Osn Movies Fastival
+http://thgss.com:8000/live/67781514843936/67781514843936/36.ts
+#EXTINF:-1,Fox Movies Action
+http://thgss.com:8000/live/67781514843936/67781514843936/34.ts
+#EXTINF:-1,Osn Movies First
+http://thgss.com:8000/live/67781514843936/67781514843936/38.ts
+#EXTINF:-1,OSN Star Movies HD
+http://thgss.com:8000/live/67781514843936/67781514843936/127.ts
+#EXTINF:-1,Osn On Demand 1 HD
+http://thgss.com:8000/live/67781514843936/67781514843936/129.ts
+#EXTINF:-1,Osn on Denmad 2 HD
+http://thgss.com:8000/live/67781514843936/67781514843936/209.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://thgss.com:8000/live/67781514843936/67781514843936/131.ts
+#EXTINF:-1,Osn Movies Action HD
+http://thgss.com:8000/live/67781514843936/67781514843936/128.ts
+#EXTINF:-1,Osn Movies Drama
+http://thgss.com:8000/live/67781514843936/67781514843936/206.ts
+#EXTINF:-1,Osn Movies Kids
+http://thgss.com:8000/live/67781514843936/67781514843936/205.ts
+#EXTINF:-1,Osn Movies HD
+http://thgss.com:8000/live/67781514843936/67781514843936/207.ts
+#EXTINF:-1,Osn Cinema 2
+http://thgss.com:8000/live/67781514843936/67781514843936/203.ts
+#EXTINF:-1,Osn Cinema 1
+http://thgss.com:8000/live/67781514843936/67781514843936/202.ts
+#EXTINF:-1,Osn Office Box 3
+http://thgss.com:8000/live/67781514843936/67781514843936/201.ts
+#EXTINF:-1,Osn Office Box 2
+http://thgss.com:8000/live/67781514843936/67781514843936/200.ts
+#EXTINF:-1,Osn Office Box 1
+http://thgss.com:8000/live/67781514843936/67781514843936/199.ts
 
 
 
+#EXTINF:-1,BeIN MOVIES 1HD
+http://thgss.com:8000/live/67781514843936/67781514843936/72.ts
+#EXTINF:-1,VIP: beIN MOVIES HD1
+http://thgss.com:8000/live/67781514843936/67781514843936/231.ts
+#EXTINF:-1,BeIN MOVIES 2HD
+http://thgss.com:8000/live/67781514843936/67781514843936/73.ts
+#EXTINF:-1,VIP: beIN MOVIES HD2
+http://thgss.com:8000/live/67781514843936/67781514843936/232.ts
+#EXTINF:-1,BeIN MOVIES 3HD
+http://thgss.com:8000/live/67781514843936/67781514843936/74.ts
+#EXTINF:-1,Bein Movies HD3
+http://thgss.com:8000/live/67781514843936/67781514843936/271.ts
+#EXTINF:-1,BeIN MOVIES 4HD
+http://thgss.com:8000/live/67781514843936/67781514843936/75.ts
+#EXTINF:-1,Bein Movies HD4
+http://thgss.com:8000/live/67781514843936/67781514843936/272.ts
+#EXTINF:-1,Bein Series 1 HD
+http://thgss.com:8000/live/67781514843936/67781514843936/210.ts
 
 
+#EXTINF:-1,DW arabic
+http://thgss.com:8000/live/67781514843936/67781514843936/318.ts
+#EXTINF:-1,BBC arabic
+http://thgss.com:8000/live/67781514843936/67781514843936/319.ts
 
+#EXTINF:-1,AlKahera Wal Nas
+http://thgss.com:8000/live/67781514843936/67781514843936/333.ts
+#EXTINF:-1,Aljazeer
+http://thgss.com:8000/live/67781514843936/67781514843936/316.ts
+#EXTINF:-1,Al Aan TV
+http://thgss.com:8000/live/67781514843936/67781514843936/320.ts
+#EXTINF:-1,Makkah-tv
+http://thgss.com:8000/live/67781514843936/67781514843936/307.ts
+#EXTINF:-1,Noor-Dubai
+http://thgss.com:8000/live/67781514843936/67781514843936/308.ts
+#EXTINF:-1,Iqra
+http://thgss.com:8000/live/67781514843936/67781514843936/309.ts
 
+#EXTINF:-1,Future TV
+http://thgss.com:8000/live/67781514843936/67781514843936/337.ts
+
+#EXTINF:-1,CBC SOFRA
+http://thgss.com:8000/live/67781514843936/67781514843936/332.ts
+
+#EXTINF:-1,PBC TV LIVE
+http://thgss.com:8000/live/67781514843936/67781514843936/314.ts
+#EXTINF:-1,PBC TV
+http://thgss.com:8000/live/67781514843936/67781514843936/313.ts
+#EXTINF:-1,MAAN TV
+http://thgss.com:8000/live/67781514843936/67781514843936/315.ts
+#EXTINF:-1,Roya
+http://thgss.com:8000/live/67781514843936/67781514843936/325.ts
+#EXTINF:-1,Sharjah
+http://thgss.com:8000/live/67781514843936/67781514843936/322.ts
+#EXTINF:-1,Aljazeera Doc
+http://thgss.com:8000/live/67781514843936/67781514843936/317.ts
+#EXTINF:-1,Al Hayat 2 (Egypt)
+http://thgss.com:8000/live/67781514843936/67781514843936/336.ts
+#EXTINF:-1,Al Hayat (Egypt)
+http://thgss.com:8000/live/67781514843936/67781514843936/335.ts
+#EXTINF:-1,Dubai TV
+http://thgss.com:8000/live/67781514843936/67781514843936/328.ts
+#EXTINF:-1,Abu Dabi Emarat
+http://thgss.com:8000/live/67781514843936/67781514843936/331.ts
+#EXTINF:-1,Abu Dabi Drama
+http://thgss.com:8000/live/67781514843936/67781514843936/329.ts
+#EXTINF:-1,Abu Dabi
+http://thgss.com:8000/live/67781514843936/67781514843936/330.ts
+#EXTINF:-1,Tamazight
+http://thgss.com:8000/live/67781514843936/67781514843936/352.ts
+#EXTINF:-1,Assadissa
+http://thgss.com:8000/live/67781514843936/67781514843936/351.ts
+#EXTINF:-1,Arryadia
+http://thgss.com:8000/live/67781514843936/67781514843936/348.ts
+#EXTINF:-1,Arrabiaa
+http://thgss.com:8000/live/67781514843936/67781514843936/349.ts
+#EXTINF:-1,Al Maghribia
+http://thgss.com:8000/live/67781514843936/67781514843936/350.ts
+#EXTINF:-1,Al Aoula Laayoune
+http://thgss.com:8000/live/67781514843936/67781514843936/347.ts
+#EXTINF:-1,Al Aoula Int'l
+http://thgss.com:8000/live/67781514843936/67781514843936/346.ts
+#EXTINF:-1,Al Aoula
+http://thgss.com:8000/live/67781514843936/67781514843936/345.ts
 
 
 
