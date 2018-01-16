@@ -1,7 +1,4 @@
 ﻿#EXTM3U
 
-
-#EXTINF:-1,JEEM
-http://ip.cs4ip.com:8000/live/7200061424643253/7200061424643253/2775.ts
-#EXTINF:-1,BARRAEM
-http://ip.cs4ip.com:8000/live/7200061424643253/7200061424643253/2774.ts
+#EXTINF:-1,MEIE TV
+https://stream.meietv.de/live/meietv/index.m3u8
