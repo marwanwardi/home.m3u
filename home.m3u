@@ -2,3 +2,9 @@
 
 #EXTINF:-1,MEIE TV
 https://stream.meietv.de/live/meietv/index.m3u8
+
+
+#EXTINF:-1,33
+http://proxy-14.nyc.dailymotion.com/sec(xd02f1994b7c6685cca5cbc25a9f7fe0)/video/167/603/389306761_mp4_h264_aac_hd.m3u8
+
+
